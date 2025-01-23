@@ -22,11 +22,11 @@ s
 line "|p 30| |skip| "
 allow_player_input 1
 s
-line "Oop,|p| I think it's about to start."
+line "Oop,|p| credo che sta per iniziare."
 
 face p 0 0
 p
-line "Finally."
+line "Era ora."
 checkflag _0.slate_kat.odd 1
 goto marker 10y
 goto marker 10n
@@ -35,7 +35,7 @@ goto marker end
 marker 10y
 face p 0 1
 p
-line "Good luck, you two."
+line "Buona fortuna, voi due."
 goto marker end
 
 

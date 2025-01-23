@@ -3,18 +3,18 @@ char pandora p left
 char smalls s right
 face s 1 0
 s
-line "We've got a bit of time before the first round starts..."
+line "Ci rimane un po' di tempo prima dell'inizio del primo round..."
 face s 0 1
 s
-line "How about we walk around and meet some people?"
+line "Che ne dici di passeggiare in giro e fare un po' di conoscenze?"
 face p 1 2
 p
-line "No thanks.|p| I'm just here for\nthe game."
-line "I'd rather just stand around until it starts."
+line "No grazie.|p| Sono qui solo\nper giocare."
+line "Io preferirei ciondolare qui finche' non si comincia."
 face s 1 0
 s
-line "Well,|p| you gotta think about this strategically."
-line "MINDWAVE is all about peoples' minds."
+line "Beh,|p| devi pensare in termini di strategia."
+line "MINDWAVE si incentra sulle menti delle persone."
 
 
 

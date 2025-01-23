@@ -7,7 +7,7 @@ goto marker 2fails
 
 
 marker 0fails
-Ben fatto!|p|\nQuesto microgioco era un pochino ostico.|p| Che ne dici di uno più semplice?
+Ben fatto!|p|\nQuesto microgioco era un pochino ostico.|p| Che ne dici di uno piu' semplice?
 show_controls
 Testeremo i tuoi riflessi con l'Interfaccia Barra Spaziatrice!
 Attendi il momento giusto...|p| dopodiche' SCHIACCIA sull'attenti!|p|\nCome se stessi schiacciando su una barra spaziatrice!|p| Hai capito?

@@ -4,47 +4,47 @@ char smalls s right
 
 face s 0 0
 s
-line "Whatcha looking at?|p| The windows?"
+line "Che guardi?|p| Le finestre?"
 face p 0 0
 p
-line "Yeah,|p| I don't like them."
+line "Si',|p| non mi piacciono."
 face s 2 0
 s
-line "I think you're letting your disdain for this place cloud your judgement."
+line "Credo che il tuo giudizio stia venendo influenzato dal tuo disprezzo per questo posto."
 face s 0 1
 s
-line "They're just windows, man."
-line "I commend them for the natural light they let in."
+line "Sono solo finestre, bello."
+line "Tanto di cappello per la luce del sole che lasciano passare."
 face p 1 0
 p
-line "Any other building would let you walk up to the windows and like,|p| actually look out of them."
+line "In qualsiasi edificio ti lascerebbero avvicinarti alle finestre e non so,|p| farti effettivamente guardare fuori."
 face p 0 0
 p
-line "Not Mindscape though.|p| Why?"
+line "Non a Mindscape pero'.|p| Perche'?"
 face p 0 2
 p
-line "Is it their self importance?"
-line "Do they believe that nobody would even THINK about anything else while they're here?"
+line "Per la loro presunzione?"
+line "Credono che a nessuno verrebbe in mente neanche di PENSARE ad altro durante la loro permanenza?"
 face p 1 2
 p
-line "Or are they trying to obscure the fact that this place is creepy as hell?"
+line "O stanno solo cercando di coprire il fatto che questo posto è inquietante da morire?"
 face s 1 0
 s
-line "Maybe they just don't want people getting their handprints all over the glass."
-line "They probably save a fortune on cleaners every year they run this tournament."
+line "Forse semplicemente non vogliono che la gente lasci manate sul vetro."
+line "Probabilmente risparmieranno una fortuna in pulizie per ogni anno in cui organizzano questo torneo."
 face p 4 0
 p
 line "..."
 face p 0 0
 p
-line "Yeah,|p| those are extremely clean windows."
-line "How do they even clean giant windows like this?"
+line "Si',|p| quelle sono delle finestre immacolate."
+line "Come ci riescono a pulire finestre giganti del genere?"
 face s 0 0
 s
-line "I don't envy the window cleaners in charge of Mindscape Tower."
+line "Non invidio i lavavetri della Torre Mindscape."
 face s 0 1
 s
-line "They might be the only people who hate this place more than you do."
+line "Potrebbero essere gli unici ad odiare più di te questo posto."
 
 setflag _0.windows.done 1
 function lobby_tick_time 0.5

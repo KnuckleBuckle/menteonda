@@ -7,21 +7,21 @@ goto marker 2fails
 
 
 marker 0fails
-Good job!
-E queste sono tutte le basi...|p|\nMa lo sapevi che le Interfacce possono venire combinate?|p| E' vero!
+Ben fatto!
+E queste sono le basi...|p|\nMa lo sapevi che le Interfacce si possono combinare?|p| Dico sul serio!
 show_controls
-Proviamo un microgioco che usa sia l'Interfaccia Frecce che quella Barra Spaziatrice!
+Proviamo un microgioco che usa tutte e due le Interfacce Frecce e Barra Spaziatrice!
 goto marker end
 
 marker 1fails
-Oh,|p| I know it's challenging,|p| but you can do it!
+Oh,|p| lo so che e' impegnativo,|p| ma puoi farcela!
 show_controls
-Remember,|p| you can use either WASD or the Arrow Keys-|p| whichever you prefer!
+Ricorda,|p| puoi usare sia WASD che i Tasti Freccia-|p| quelli che tu preferisci!
 goto marker end
 
 marker 2fails
 show_controls
-Remember,|p| you can use either WASD or the Arrow Keys-|p| whichever you prefer!
+Ricorda,|p| puoi usare sia WASD che i Tasti Freccia-|p| quelli che tu preferisci!
 goto marker end
 
 marker end

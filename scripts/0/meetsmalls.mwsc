@@ -38,22 +38,22 @@ p
 line "Voglio dire,|p| sono felice che tu sia qui."
 face p 0 1
 p
-line "Di certo renderà più tollerabile questa rottura di scatole."
+line "Di certo rendera' piu' tollerabile questa rottura di scatole."
 face p 1 0
 p
 line "Spero solo che la sicurezza non appaia dal nulla per cacciarti fuori."
 face s 0 1
 s
-line "Incrocio le dita."
+line "Incrociamo le dita."
 face p 0 2
 p
-line "Se me lo chiederanno,|p| io dirò che non ti conosco."
+line "Se me lo chiederanno,|p| io diro' che non ti conosco."
 face s 0 0
 s
 line "Mi sembra giusto."
 face p 0 1
 p
-line "Comunque,|p| sarò sincera-"
+line "Comunque,|p| saro' sincera-"
 skip outro
 
 

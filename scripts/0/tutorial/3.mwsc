@@ -9,14 +9,14 @@ goto marker 1fails
 marker 0fails
 Che mente interessante che hai,|p| ahah.
 show_controls
-È ora di provare l'Interfaccia Frecce!
+E' ora di provare l'Interfaccia Frecce!
 Proprio come se stessi giocando ad un gioco con tastiera,|p| concentrati sui Tasti Freccia con la tua mano destra-|p| o su WASD con la mano sinistra.
 goto marker end
 
 marker 1fails
 Aww,|p| che peccato...
 show_controls
-Ricorda,|p| puoi usare i Tasti Freccia o WASD!|p| Qualunque dei due ti faccia stare più a tuo agio.
+Ricorda,|p| puoi usare i Tasti Freccia o WASD!|p| Qualunque dei due con cui ti senti piu' comodo.
 goto marker end
 
 marker end

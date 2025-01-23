@@ -1,13 +1,13 @@
 char pandora p left
 char smalls s right
 s
-line "A screen with a clock."
+line "Uno schermo con un orologio."
 p
-line "A screen with a clock."
+line "Uno schermo con un orologio."
 line "..."
 face p 1 2
 p
-line "We've all got phones,|p| what's the point?"
+line "Siamo tutti con un cellulare,|p| qual e' il senso?"
 face s 2 0
 checkflag nickname_panda 1
 goto marker branch26y
@@ -16,14 +16,14 @@ goto marker branch26n
 marker branch26y
 
 s
-line "Panda,|p| that's pretty reductive."
+line "Panda,|p| e' un ragionamento approssimativo."
 
 goto marker branch26e
 
 marker branch26n
 
 s
-line "Pandora,|p| that's pretty reductive."
+line "Pandora,|p| e' un ragionamento approssimativo."
 
 goto marker branch26e
 
@@ -31,34 +31,34 @@ marker branch26e
 
 face s 1 0
 s
-line "It's for the style,|p| y'know?"
-line "The grandness of it all."
+line "E' perche' fa stile,|p| capisci?"
+line "Esalta la solennita'."
 face s 0 2
 s
-line "We're HERE.|p| In Mindscape Tower!"
-line "The ten million dollar tournament is minutes away!|p| We're in a huge room!"
+line "Noi siamo QUI.|p| Nella Torre Mindscape!"
+line "Il torneo da dieci milioni dollari inizierà a minuti!|p| Siamo in una stanza enorme!"
 face p 0 0
 p
-line "...and everything has horns.|p|\nWhat is it with Mindscape Co. and horns?"
+line "...e tutto ha delle corna.|p|\nChe problemi ha Mindscape Co. con le corna?"
 face s 1 0
 s
-line "It's branding.|p| That's pretty obvious."
+line "E' un marchio.|p| E' abbastanza palese."
 face s 0 0
 s
-line "It's a style thing too.|p| We could go back and forth on this forever."
+line "E' anche questione di stile.|p| Potremo andare avanti all'infinito con questa discussione."
 face p 1 0
 p
-line "I'd really rather not."
+line "Vorrei decisamente evitare."
 face s 0 2
 s
-line "Admitting defeat, I see."
-line "Choose your next words very carefully."
+line "Ammetti la tua sconfitta, vedo."
+line "Scegli con attenzione le tue prossime parole."
 p
-line "...Dude.|p| You're being weird."
-line "Stop being a corporate shill-|p| and-"
+line "...Amico.|p| Stai facendo lo stramboide."
+line "Piantala di leccare gli stivali delle aziende-|p| e-"
 face p 0 3
 p
-line "Forget I asked about the damn screen."
+line "Fai finta che non ti abbia chiesto nulla su 'sto cavolo di schermo."
 setflag _0.screen.done 1
 function lobby_tick_time 0.5
 

@@ -2,24 +2,24 @@ char pandora p left
 char smalls s right
 
 p
-line "These tubes are..."
+line "Questi tubi..."
 face p 0 2
 p
-line "...freaky looking."
+line "...hanno un aspetto strano."
 face s 1 0
 s
-line "Wonder what's in 'em?"
+line "Ti sei chiesta che c'è dentro?"
 face p 0 0
 p
-line "I mean it's probably just like,|p| power and stuff."
-line "Just, wonder why they gotta be so big.|p| And in our faces."
+line "Cioe', forse sono solo tipo,|p| per la corrente o roba simile."
+line "Mi chiedevo solo perche' devono essere cosi' grossi.|p| E sbatterceli in faccia."
 face s 0 0
 s
-line "I wouldn't say they're in our faces."
-line "They look to be about a hundred feet up to me."
+line "Non direi che ce li stanno sbattendo in faccia."
+line "A me sembrano essere a trenta metri d'altezza."
 face p 0 1
 p
-line "Shut up.|p| You know what I mean."
+line "Ma stai zitto.|p| Sai a che mi riferisco."
 face s 2 1
 s
 line "..."
