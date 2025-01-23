@@ -1,0 +1,30 @@
+checkflag _0.tutorial.fails 0
+goto marker 0fails
+checkflag _0.tutorial.fails 1
+goto marker 1fails
+
+goto marker 2fails
+
+
+marker 0fails
+Ben fatto!|p|\nQuesto microgioco era un pochino ostico.|p| Che ne dici di uno più semplice?
+show_controls
+Testeremo i tuoi riflessi con l'Interfaccia Barra Spaziatrice!
+Attendi il momento giusto...|p| dopodiche' SCHIACCIA sull'attenti!|p|\nCome se stessi schiacciando su una barra spaziatrice!|p| Hai capito?
+goto marker end
+
+marker 1fails
+Mmh...|p| questo potrebbe richiedere qualche tentativo...
+Premi la tua "Barra Spaziatrice" quando cambia l'illuminazione!|p| Hai capito?
+show_controls
+Basta schiacciarla al momento giusto!
+goto marker end
+
+marker 2fails
+Premi la tua "Barra Spaziatrice" quando cambia l'illuminazione!|p| Hai capito?
+show_controls
+Basta schiacciarla al momento giusto!
+goto marker end
+
+marker end
+

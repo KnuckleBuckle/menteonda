@@ -1,0 +1,77 @@
+char pandora p left
+char smalls s right
+face p 3 0
+p
+line "...Smalls!?"
+face s 0 2
+s
+line "Bella."
+face p 0 2
+p
+line "Sbaglio o tu non avevi un biglietto?"
+face s 1 0
+s
+line "Vero,|p| non ce l'avevo."
+p
+line "Come hai fatto allora ad entrare?"
+face s 0 1
+s
+line "Segreto professionale."
+face p 1 2
+p
+line "Che cosa hai fatto...?"
+face s 2 0
+s
+line "C'era pochissima vigilanza."
+face s 2 1
+s
+line "Quasi inesistente."
+face p 0 2
+p
+line "Amico."
+face s 0 0
+s
+line "Sono semplicemente...|p| passato da una porta sul retro."
+line "Ho vagato lungo dei corridoi finche' non ho trovato questa stanza enorme piena di gente."
+face p 0 0
+p
+line "Voglio dire,|p| sono felice che tu sia qui."
+face p 0 1
+p
+line "Di certo renderà più tollerabile questa rottura di scatole."
+face p 1 0
+p
+line "Spero solo che la sicurezza non appaia dal nulla per cacciarti fuori."
+face s 0 1
+s
+line "Incrocio le dita."
+face p 0 2
+p
+line "Se me lo chiederanno,|p| io dirò che non ti conosco."
+face s 0 0
+s
+line "Mi sembra giusto."
+face p 0 1
+p
+line "Comunque,|p| sarò sincera-"
+skip outro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

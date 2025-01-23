@@ -1,0 +1,20 @@
+function cs_0_1_scr_terminalsong_start
+function play_crowd_ambience
+char pandora p left
+char terminal t right
+
+t
+line "|style font fnt_pixel|Il sistema d'iscrizione al torneo della Torre Mindscape ti porge i suoi saluti!"
+|style font fnt_pixel|...e ti dà il benvenuto alla Torre Mindscape,|p ,| sede della Mindscape Co.|p ,|
+|style font fnt_pixel|...artefici degli sviluppi più avanzati nei campi della tecnologia cognitiva e dell'intratteni-|skip|  
+p
+line "Si' si' saltasaltasalta non me ne frega."
+face p 1 0
+
+Basta che ti sbrighi.|p|
+Dietro di me c'è tipo un milione di persone.
+
+t
+line "|style font fnt_pixel|Un'impazienza mai vista fra i concorrenti finora!|p|\nMolto bene..."
+skip outro
+

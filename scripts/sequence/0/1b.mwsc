@@ -1,0 +1,33 @@
+wait for marker line1
+pause
+speaker_voice terminal
+|style font fnt_pixel|Inserisci il tuo Biglietto di Platino nella fessura, per favore!
+clear
+resume
+wait for marker line2
+pause
+|style font fnt_pixel|...e inserisci il cavo nella tua Porta Neurale!
+clear
+resume
+wait for marker line3
+pause
+|style font fnt_pixel|ATTENDERE PREGO...
+resume
+clear
+wait for marker info
+pause
+|style font fnt_pixel|SCAN COMPLETATA|p|\nNOME PARTECIPANTE:|p| PANDORA
+|style font fnt_pixel|INTESTAZIONE A BIGLIETTO NUMERO 7263672|p|\n(BEVANDA GASSATA BREEZE COLA)
+|style font fnt_pixel|(DISTRIBUTORE 6-A24 IN BLACKOUT CITY EST)
+speaker_icon pandora
+speaker_voice pandora
+... da brividi...
+speaker_icon none
+resume
+text_auto 1
+speaker_voice terminal
+|style font fnt_pixel|INIZIO SEQUENZA DI CALIBRAZIONE.
+wait for marker textclear
+clear
+
+

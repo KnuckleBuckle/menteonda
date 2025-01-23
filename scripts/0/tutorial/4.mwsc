@@ -1,0 +1,28 @@
+checkflag _0.tutorial.fails 0
+goto marker 0fails
+checkflag _0.tutorial.fails 1
+goto marker 1fails
+
+goto marker 2fails
+
+
+marker 0fails
+Good job!
+E queste sono tutte le basi...|p|\nMa lo sapevi che le Interfacce possono venire combinate?|p| E' vero!
+show_controls
+Proviamo un microgioco che usa sia l'Interfaccia Frecce che quella Barra Spaziatrice!
+goto marker end
+
+marker 1fails
+Oh,|p| I know it's challenging,|p| but you can do it!
+show_controls
+Remember,|p| you can use either WASD or the Arrow Keys-|p| whichever you prefer!
+goto marker end
+
+marker 2fails
+show_controls
+Remember,|p| you can use either WASD or the Arrow Keys-|p| whichever you prefer!
+goto marker end
+
+marker end
+

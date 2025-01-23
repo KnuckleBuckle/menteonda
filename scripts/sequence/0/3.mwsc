@@ -1,0 +1,43 @@
+wait for marker line1
+pause
+speaker_voice announcer
+|style font fnt_pixel|Attenzione Partecipanti!
+|style font fnt_pixel|Le fasi a girone stanno per iniziare.
+clear
+resume
+
+
+pause at marker line2end
+no_text_continue_until marker line2end
+|style font fnt_pixel|Entrate in uno degli ascensori disponibili nei prossimi dieci minuti.
+clear
+resume
+wait for marker line3
+pause at marker line3end
+speaker_icon smalls
+speaker_voice smalls
+E va bene,|p| buona fortuna Pandora.|p|\nA tra poco.
+speaker_icon none
+resume
+jump to marker shot2start
+clear
+
+
+wait for marker line4
+pause at marker 0_3_4_end
+speaker_voice announcer_small
+|style font fnt_pixel|Salve,|p| Partecipante.
+|style font fnt_pixel|Inserisci il cavo nella tua Porta Neurale per confermare il tuo ingresso, per favore.
+jump to marker 0_3_5_start
+clear
+resume
+wait for marker line5
+pause at marker 0_3_6_end
+|style font fnt_pixel|IDENTITA' CONFERMATA:|p| PANDORA.
+|style font fnt_pixel|Le fasi a girone inizieranno a breve.|p| Resta in attesa, per favore.
+jump to marker 0_3_6_end
+clear
+resume
+loop start marker elevatorloopstart2
+loop end marker elevatorloopend2
+

@@ -1,0 +1,35 @@
+checkflag _0.tutorial.fails 0
+goto marker 0fails
+checkflag _0.tutorial.fails 1
+goto marker 1fails
+
+goto marker 2fails
+
+
+marker 0fails
+Ottimo lavoro!|p| Così ci si sente a giocare ad un microgioco.
+Proviamo un altro microgioco con un'Interfaccia diversa.
+show_controls
+Questa usa l'Interfaccia Tastiera.|p|\nFacciamo un tentativo!
+goto marker end
+
+
+
+
+
+marker 1fails
+Mmh...|p| forse dobbiamo provare qualcos'altro.
+show_controls
+Immagina che ci sia una grooossa tastiera davanti a te,|p| hai capito?|p|\nL'Interfaccia serve a questo!
+Facciamo un altro tentativo!
+goto marker end
+
+marker 2fails
+Mmh...|p| forse dobbiamo provare qualcos'altro.
+show_controls
+Basta capire quali lettere vengano mostrate,|p| e poi digitarle!|p|\nFacile come contare fino a 3!
+goto marker end
+
+
+marker end
+

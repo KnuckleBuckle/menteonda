@@ -1,0 +1,36 @@
+checkflag _0.tutorial.fails 0
+goto marker 0fails
+checkflag _0.tutorial.fails 1
+goto marker 1fails
+
+goto marker 2fails
+
+
+marker 0fails
+Ehilà!|p|\nOra che sei collegata,|p| faremo un po' di calibrazione cognitiva per prepararti a giocare!
+Ti introdurremo alle basi su come giocare a MINDWAVE mentre attenderemo il completamento del processo di calibrazione.
+MINDWAVE si incentra sul connetterti con la mente del tuo avversario e percepire i suoi pensieri,|p| ricordi,|p| e sensazioni in rapidi sprazzi che noi chiamiamo microgiochi!
+Giocheremo alcuni microgiochi della tua stessa mente,|p| in modo da fare pratica!
+show_controls
+Ogni microgioco usa quella che chiamiamo Interfaccia.|p|\nEsse determinano come interagirai col microgioco!
+Adesso proviamo un microgioco usando l'Interfaccia mostrata a sinistra!|p|\nSpero che si spieghi da solo.
+goto marker end
+
+
+marker 1fails
+Mmh... forse stai avendo problemi con l'Interfaccia...
+Immagina di tenere un mouse nella tua mano, hai capito?|p|\nL'Interfaccia serve a questo!
+show_controls
+Basta cerchiare la piccola te stessa che corre in giro!|p|\n"Clicca" e "trascina!"
+goto marker end
+
+marker 2fails
+Immagina di tenere un mouse nella tua mano,|p| hai capito?|p|\nL'Interfaccia serve a questo!
+show_controls
+Basta cerchiare la piccola te stessa che corre in giro!|p|\n"Clicca" e "trascina!"
+goto marker end
+
+
+marker end
+
+

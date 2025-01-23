@@ -1,0 +1,9 @@
+Contestant = Partecipante
+Pools round = Fasi a girone
+Entry system = Sistema d'iscrizione
+Gate = Tornelli
+Hooked in = Collegato
+Microgame = Microgioco
+Interface = Interfaccia
+That's what the Interface is for! = L'Interfaccia serve a questo!
+SLAM to attention = (gioco di parole con snap to attention)
