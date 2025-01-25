@@ -1,33 +1,33 @@
 face p 0 0
 face s 0 0
 s
-line "You seem to like Blackout City,|p| how come you wanna move back already?"
+line "Sembra che a te piaccia Blackout City,|p| come mai vuoi gia' ritornare alla vecchia casa?"
 face a 0 0
 a
-line "Well,|p| I do really love this place!"
+line "Beh,|p| a me questo posto piace davvero!"
 face a 1 0
 a
-line "It's prettier than anything I've seen before."
-line "The skyscrapers...|p| all of the lights..."
+line "E' la cosa piu' bella che abbia mai visto."
+line "I grattacieli...|p| e tutte le luci..."
 face a 0 0
 a
-line "...it's like-"
-line "It all feels so fresh and exciting,|p| but oddly nostalgic?"
+line "...come descriverlo-"
+line "E' tutto cosi' nuovo ed emozionante,|p| ma con uno strano tocco di nostalgia?"
 face p 0 2
 p
-line "Why do you wanna move if you actually like it?"
+line "Perche' vuoi traslocare se ti piace veramente stare qui?"
 face p 0 1
 p
-line "Is the sparkly yarn better back in town?"
+line "Il filato sfavillante della tua vecchia citta' e' migliore?"
 face a 1 0
 a
-line "No...|p| everything's just... better here!"
+line "No...|p| qui e' tutto semplicemente... migliore!"
 face a 0 0
 a
-line "I didn't even KNOW sparkly yarn was a thing until I saw it here."
+line "Neanche SAPEVO che esistesse il filato sfavillante finche' non l'ho visto qui."
 face a 1 2
 a
-line "It's super hard to enjoy any of that when I'm all alone though."
+line "Ma e' difficilissimo godersi queste cose quando si rimane soli."
 face a 2 2
 a
 line "Even after living here for a month,|p| I still haven't made one friend..."

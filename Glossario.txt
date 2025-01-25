@@ -1,9 +1,53 @@
+CODICI
+
+\" = VIRGOLETTE
+|p| = PAUSA
+\n = LINEBREAK
+
+
+
+
+
+TERMINOLOGIE
+
 Contestant = Partecipante
+
 Pools round = Fasi a girone
+
 Entry system = Sistema d'iscrizione
+
 Gate = Tornelli
+
 Hooked in = Collegato
+
 Microgame = Microgioco
+
 Interface = Interfaccia
+
 That's what the Interface is for! = L'Interfaccia serve a questo!
-SLAM to attention = (gioco di parole con snap to attention)
+
+SLAM to attention = (gioco di parole con snap to attention) - sezione tutorial
+
+Purple Girl = Ragazza in Viola - sezione Abbie
+
+Arcade = Cabinato/i
+
+Mall = Centro Commerciale (placeholder) - sezione Abbie e altri
+
+Hobby shop = Bottega - sezione Abbie
+
+Yarn = Filato - sezione Abbie
+
+Sparkly yarn = Filato sfavillante - sezione Abbie
+
+Ball of sparkly yarn = Gomitolo sfavillante - sezione Abbie
+
+Machine = Macchinario (es. Mindwave Machine - Macchinario Mindwave)
+
+Bad parts (of the city) = Quartieri malfamati - sezione Abbie
+
+Plushy = Peluche - sezione Abbie
+
+Hell yeah = Sì cazzo - sezione Abbie
+
+Transit pass = Abbonamento - sezione Abbie

@@ -2,53 +2,53 @@
 face a 0 0
 face p 0 0
 a
-line "Pandora,|p| Smalls,|p| it's been fun talking to you!"
+line "Pandora,|p| Smalls,|p| mi ha fatto piacere parlare con voi!"
 face a 2 2
 a
-line "But I think we all might have to get going soon..."
+line "Ma credo che tra poco dovremo andare..."
 face a 1 2
 a
-line "...so,|p| can I have your numbers?"
+line "...percio',|p| posso avere i vostri numeri?"
 face s 0 1
 s
-line "Sure,|p| here you go."
-line "Also,|p| feel free to hit us up if you ever want to hang out."
+line "Certo,|p| eccolo qua."
+line "E poi,|p| se vuoi uscire con noi non farti problemi a chiamarci."
 face a 0 0
 a
-line "I really want to.|p| "
-line "I'll have to try really hard to convince my parents to let me go to East Blackout!"
+line "Mi piacerebbe un casino.|p| "
+line "Ce la mettero' tutta per convincere i miei a farmi andare a Blackout Est!"
 face p 1 0
 p
-line "Ugh...|p| I guess we could come up north instead,|p| at least for now."
+line "Ugh...|p| Suppongo che potremmo essere noi a salire a nord,|p| almeno per ora."
 face a 2 2
 a
-line "You would really do that for me???"
+line "Davvero lo fareste per me???"
 face p 0 1
 p
-line "We'll just like,|p| loiter around a park or something."
+line "Ce ne staremo, non lo so,|p| a gironzolare nel parco o qualcosa di simile."
 face p 0 0
 p
-line "Anything else is too expensive for me."
+line "Qualsiasi altra cosa per me costerebbe troppo."
 face a 0 0
 a
-line "It's okay!|p| I could pay for both of you!"
+line "Nessun problema!|p| Potro' pagare io al posto vostro!"
 face p 4 0
 p
-line "Oh,|p| cool then."
+line "Oh,|p| alla grande."
 face p 0 1
 p
-line "We'll get going then."
+line "Noi ora dobbiamo andare."
 face p 0 0
 p
 line "..."
 face p 0 1
 p
-line "Nice meeting you,|p| Abbie,|p| see you around."
+line "E' stato bello conscerti,|p| Abbie,|p| ci si becca in giro."
 face a 0 0
 a
-line "Wait,|p| before you go!"
+line "Aspetta,|p| prima che te ne vai!"
 p
-line "Yea-|skip| "
+line "Che-|skip| "
 
 setflag _0.smalls.abbie 1
 setflag _0.abbie.read.ABAA 1

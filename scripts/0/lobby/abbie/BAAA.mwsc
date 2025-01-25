@@ -3,43 +3,43 @@ face a 0 0
 face s 0 0
 face p 0 0
 a
-line "Pandora,|p| Smalls,|p| it's been fun talking to you!"
+line "Pandora,|p| Smalls,|p| e' stato bello parlare con voi!"
 face a 2 2
 a
-line "But I think we all might have to get going soon..."
+line "Ma credo che presto ci dovremo tutti muovere..."
 face a 1 2
 a
-line "...so,|p| can I have your numbers?"
+line "...percio',|p| posso avere i vostri numeri?"
 face s 0 1
 s
-line "Sure,|p| here you go."
-line "Also,|p| feel free to hit us up and come out east to hang out."
+line "Certo,|p| eccolo qua."
+line "E poi,|p| non farti problemi a chiamarci per venire a uscire con noi ad est."
 face p 1 0
 p
-line "I guess we could also go up there..."
+line "Suppongo che potremmo anche salire a nord..."
 face a 4 0
 a
-line "You would really do that for me???"
+line "Davvero lo fareste per me???"
 face p 0 1
 p
-line "Yeah but we'll like-"
+line "Si ma, come dire-"
 face p 0 0
 p
-line "Teach you how to use the subway and go somewhere."
+line "Ti insegneremo ad usare la metro e a muoverti in giro."
 face p 0 2
 p
-line "Anything up north is kinda expensive for us."
+line "A nord costa tutto un po' troppo per noi."
 face a 0 0
 a
-line "Don't worry!|p| If it's too expensive, I could pay for both of you!"
+line "Nessun problema!|p| Se costera' troppo, potro' pagare io al posto vostro!"
 face p 4 0
 p
-line "Oh,|p| well, thanks?"
+line "Oh,|p| beh, grazie?"
 a
-line "Wait,|p| before you go!"
+line "Aspetta,|p| prima che te ne vai!"
 face p 0 0
 p
-line "Yea-|skip| "
+line "Che-|skip| "
 
 
 

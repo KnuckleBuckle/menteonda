@@ -1,24 +1,24 @@
 set a name mystery
 face s 0 1
 s
-line "How about her?"
+line "Che mi dici di lei?"
 p
-line "Not usually the type of person I'd be talking to."
+line "Non è il tipo di persona con cui parlerei di solito."
 face s 0 2
 s
-line "...That's the idea."
+line "...L'idea è proprio quella."
 face p 1 2
 p
 line "Ugh..."
 face p 0 2
 p
-line "Sure."
+line "E sia."
 face p 1 0
 p
-line "But you flag her down."
+line "Ma la approccerai tu."
 face s 2 1
 s
-line "Alright."
+line "Va bene."
 face s 0 0
 s
 line "Yo!"
@@ -27,31 +27,31 @@ a
 line "..."
 face a 0 0
 a
-line "Huh?"
+line "Uh?"
 face a 4 2
 a
 line "*GASP*"
 face a 3 1
 a
-line "HIIIII!!!"
+line "CIAOOOOO!!!"
 face p 4 0
 p
-line "Hey..."
+line "eHI..."
 a
-line "|speed 1.5|Isn't this place so COOL?"
+line "|speed 1.5|Non è FIGHISSIMO questo posto?"
 face a 1 0
 a
-line "|speed 1.5|The ceiling is so tall!"
+line "|speed 1.5|Il soffitto è così alto!"
 face a 4 1
 a
-line "|speed 1.5|There's so many people!"
+line "|speed 1.5|C'è così tanta gente!"
 face a 1 0
 a
-line "|speed 1.5|Oh!|p| Purple Girl!"
-line "|speed 1.5|I love your outfit!|p| \nThose spiky bracelets and the moon earrings...|p| so cute!"
+line "|speed 1.5|Oh!|p| Ragazza in Viola!"
+line "|speed 1.5|Adoro il tuo outfit!|p| \nQuei bracciali borchiati e gli orecchini a forma di luna...|p| che adorabili!"
 face a 0 0
 a
-line "|speed 1.5|And those colors,|p| it's like you came dressed for the occasion,|p| I love that."
+line "|speed 1.5|E con questi colori,|p| sembra che sei venuta vestita per l'occasione,|p| li adoro."
 
 checkflag _0.iris.read.AB 1
 goto marker branch1y
@@ -60,10 +60,10 @@ goto marker branch1n
 marker branch1y
 face p 1 0
 p
-line "You're the second person to say that about my clothes,|p| by the way."
+line "Sei la seconda persona che ha detto questo sui miei vestiti,|p| comunque."
 face p 0 1
 p
-line "It's okay though,|p| I guess it's funny.|p| Thank you."
+line "Ma va bene così,|p| la trovo una cosa buffa.|p| Grazie."
 
 goto marker branch1e
 
@@ -73,31 +73,31 @@ p
 line "Oh I-"
 face p 4 0
 p
-line "I hadn't thought about that."
-line "Thank you I guess?"
+line "Non ci avevo pensato."
+line "Grazie, suppongo?"
 
 goto marker branch1e
 
 marker branch1e
 face p 0 4
 p
-line "|style color gray|(I don't think I was going for \"cute\" though.)"
+line "|style color gray|(Anche se non miravo ad essere \"adorabile\".)"
 face a 0 0
 a
-line "And I think you look pretty cool too!"
+line "E penso anche che stai alla grande!"
 face a 1 2
 a
 line "..."
 face a 0 0
 a
-line "Oh!|p| I almost forgot,|p| what are your names?"
+line "Oh!|p| quasi mi dimenticavo,|p| come vi chiamate?"
 face a 1 0
 a
-line "I'm Abbie,|p| I should've led with that,|p| hehe."
+line "Io sono Abbie,|p| avrei dovuto dirlo come prima cosa,|p| eheh."
 set a name abbie
 face s 0 1
 s
-line "Well,|p| hey Abbie.|p| I'm Smalls,|p| she's Pandora."
+line "Beh,|p| ciao Abbie.|p| Io sono Smalls,|p| lei è Pandora."
 
 
 

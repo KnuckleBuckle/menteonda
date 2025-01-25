@@ -2,55 +2,55 @@
 face p 1 0
 face s 0 0
 p
-line "Hey,|p| Smalls,|p| tournament's starting any time now,|p| we gotta get going."
+line "Ehi,|p| Smalls,|p| il torneo potra' iniziare da un momento all'altro,|p| dobbiamo muoverci."
 face s 2 0
 s
-line "I don't think it's gonna start SOON soon."
+line "Non credo che iniziera' PROPRIO adesso."
 face s 0 2
 s
-line "But it'd be better to say goodbye now instead of getting interrupted out of nowhere."
+line "Ma sarebbe meglio salutarci ora rispetto a venire interrotti di punto in bianco."
 face a 1 2
 a
-line "Yeah,|p| that makes sense..."
+line "Si',|p| ha senso..."
 face a 0 0
 a
-line "...it was nice meeting you guys!|p|\nI hope to see you around."
-line "Wait,|p| can I have your numbers please?"
+line "...e' stato bello conoscdervi!|p|\nSpero di vedervi in giro."
+line "Un momento,|p| potrei avere i vostri numeri, per favore?"
 face s 0 1
 s
-line "Sure,|p| here's mine."
-line "I'll just give you Panda's number too."
+line "Certo,|p| il mio e' questo."
+line "Ti daro' anche il numero di Panda."
 face p 1 2
 p
-line "Why are you calling me Panda."
+line "Perche' mi hai chiamato Panda?"
 s
-line "It's a good nickname."
+line "E' un bel nomignolo."
 a
-line "It is!|p| Do you like it, Panda?"
+line "Vero!|p| A te piace, Panda?"
 face p 4 0
 p
 line "..."
 face p 1 0
 p
-line "I'm fighting an uphill battle here,|p|\njust do whatever."
-line "I'm just gonna leave now,|p| Smalls,|p| you can come with me if you want."
+line "La mia e' una battaglia persa in partenza,|p|\nfate come vi pare."
+line "Io me ne vado,|p| Smalls,|p| se ti va puoi venire con me."
 face p 0 1
 p
-line "Bye."
+line "Ciao."
 set p front_when_speak 0
 set p x -200
 wait 1 second
 a
-line "See you!"
+line "Ci si vede!"
 face s 2 1
 s
-line "I'm SUPPOSED to come with you."
+line "Io DEVO venire con te."
 face s 0 1
 s
-line "Sorry Abbie,|p| I have to catch up to her,|p| see you around."
+line "Scusa Abbie,|p| devo raggiungerla,|p| ci si becca in giro."
 face a 1 0
 a
-line "See you soon!"
+line "A presto!"
 
 
 

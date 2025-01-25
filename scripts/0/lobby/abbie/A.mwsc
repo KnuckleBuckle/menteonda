@@ -1,52 +1,52 @@
 face s 0 0
 face p 0 0
 s
-line "So,|p| Abbie."
-line "What's up,|p| how are you feeling about the tournament?"
-line "Have you played much before?"
+line "Dunque,|p| Abbie."
+line "Che si dice,|p| ti senti pronta per il torneo?"
+line "Hai giocato spesso?"
 face a 0 0
 a
-line "Umm...|p| nope!|p| I'm SUPER rusty if anything."
+line "Uhm...|p| no!|p| Direi più SUPER arruginita."
 face a 1 2
 a
-line "The last time I played I actually lost so bad that I broke into tears."
+line "L'ultima volta che ho giocato ho fatto cosi' schifo che sono scoppiata a piangere."
 p
-line "Huh,|p| I could be doing worse."
+line "Uh,|p| potevo stare peggio."
 face s 2 1
 s
-line "No,|p| I'm pretty sure throwing up and passing out is worse than crying."
+line "No,|p| sono abbastanza certo che vomitare e svenire sia peggio di piangere."
 face p 0 2
 p
-line "Not true,|p| I didn't pass out."
+line "Falso,|p| non sono svenuta."
 face s 0 1
 s
-line "Okay,|p| you still threw up."
+line "Ok,|p| hai comunque vomitato."
 face a 0 0
 a
-line "That's okay!|p| The game's been hard to get used to for me too."
+line "E' normale!|p| Anch'io ho avuto difficolta' ad abituarmi al gioco."
 face a 1 0
 a
-line "I barely get to play it."
-line "The only arcade my parents can take me to is the one at North Mall."
+line "Io a stento riesco a giocarci."
+line "L'unico cabinato a cui i miei genitori possono portarmi è uno al Centro Commerciale Nord."
 s
-line "I hear that one's always super crowded."
+line "Ho sentito che è sempre super affollato."
 p
-line "Every Mindwave machine in the city is,|p| Smalls."
+line "Ogni macchinario Mindwave lo e',|p| Smalls."
 face s 2 0
 s
-line "Yeah...|p| Especially this time of year."
+line "Gia'...|p| Specialmente in questo periodo dell'anno."
 face s 0 0
 s
-line "Plenty of prospective ticket holders who wanna get their practice in."
+line "Un sacco di aspiranti posessori di biglietti che vogliono fare pratica."
 face a 1 2
 a
-line "Huh...|p| I never considered I could be practicing for this!"
+line "Uh...|p| Non mi è mai venuto in mente che avrei potuto allenarmi!"
 face p 0 0
 p
-line "I would call that dumb,|p| but I think you're about as experienced as I am."
+line "Vorrei dire che è stata una mossa stupida,|p| ma penso che sei ferrata più o meno quanto me."
 face a 0 0
 a
-line "Good luck to both of us then!"
+line "Allora buona fortuna ad entrambe!"
 
 
 

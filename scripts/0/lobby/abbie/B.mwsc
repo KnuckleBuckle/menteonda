@@ -1,60 +1,60 @@
 
 face p 0 2
 p
-line "Alright,|p| why are you wearing pajamas?"
+line "Ok,|p| perché indossi un pigiama?"
 face p 1 0
 p
-line "Not trying to be rude or anything."
-line "I'm just kinda wondering if I should've brought something comfier."
+line "Non voglio essere mica maleducata."
+line "E' solo che mi chiedo se avrei dovuto portarmi qualcosa di piu' comodo."
 face a 0 0
 a
-line "No,|p| I like what you brought!"
+line "No,|p| mi piace quello che hai addosso!"
 face a 1 0
 a
-line "I'm wearing them because I never got to finish this costume I was planning."
+line "Io lo porto perche' non sono riuscita a finire questo costume che  stavo preparando."
 face s 0 0
 s
-line "You were planning a costume?"
+line "Stavi preparando un costume?"
 a
-line "Yep!|p| It was gonna be this whole magical girl thing."
+line "Si'!|p| Doveva essere a tema di ragazza magica."
 face a 1 2
 a
-line "My dad was gonna help me with it,|p| but he got busy with work..."
+line "Mio papa' voleva aiutarmi,|p| ma era impegnato col lavoro..."
 face p 0 2
 p
-line "So...|p| your only other option was your pajamas?"
+line "Percio'...|p| il tuo pigiama era l'unica alternativa?"
 face a 0 0
 a
 line "..."
 face a 1 0
 a
-line "Oh!|p| Hehe,|p| not at all!"
-line "It's just that my dad was SUPPOSED to take me tonight,|p| but he couldn't."
+line "Oh!|p| Eheh,|p| nient'affatto!"
+line "E' solo che mio padre DOVEVA portarmi qui stasera,|p| ma non poteba."
 face a 2 2
 a
-line "...and my mom said I kinda suck at MINDWAVE, and probably wouldn't win."
-line "So she didn't want to either."
+line "...e mia mamma ha detto che faccio un po' pena a MINDWAVE, e che probabilmente non avrei vinto."
+line "Cosi' non voleva portarmici neanche lei."
 face s 2 0
 s
-line "That's a lame way of looking at it.|p|"
+line "Che noia vederla in questo modo.|p|"
 face s 0 1
 s
-line "This experience is gonna be sick whether I win or not."
+line "Quest'esperienza sara' da sballo a prescindere che io vinca o meno."
 face a 0 0
 a
-line "That's exactly what I said!"
+line "Ho detto la stessa identica cosa!"
 face s 0 0
 a
-line "Minus the cursing."
+line "Parolacce a parte."
 face p 1 2
 p
-line "|style color gray|(Which word was the cursing???)"
+line "|style color gray|(Qual'era la parolaccia???)"
 face a 2 2
 a
-line "It's my ticket!|p| I found it!|p| I deserve to be here!"
+line "Il biglietto e' mio!|p| L'ho trovato io!|p| Ho il diritto di essere qui!"
 face a 0 0
 a
-line "So...|p| I just pretended to go to bed early tonight,|p| then I snuck out!"
+line "Percio'...|p| Stasera ho fatto finta di andare a letto prima,|p| e poi sono uscita di nascosto!"
 
 
 

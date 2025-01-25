@@ -1,75 +1,75 @@
 
 face s 1 0
 s
-line "You're from North Blackout?"
+line "Sei di Blackout Nord?"
 face a 0 0
 a
-line "Yep!|p| Just moved here a month ago!"
+line "Si'!|p| Mi sono trasferita un mese fa!"
 face s 0 0
 s
-line "How've you been liking it?"
+line "Come ti stai trovando?"
 face a 1 2
 a
-line "Well,|p| I haven't lived in a city like this since I was young."
+line "Beh,|p| è da quando ero piccola che non vivevo in una citta' come questa."
 face a 0 0
 a
-line "I barely had a functioning brain back then.|p| Unlike now."
+line "All'epoca avevo a malapena un cervello funzionante.|p| Al contrario di adesso."
 face p 0 0
 p
 line "Right."
 face s 0 1
 s
-line "Good luck adjusting to this place Abbie.|p| I've heard it isn't easy."
+line "Buona fortuna ad abituarti a questo posto, Abbie.|p| Ho saputo che non è facile."
 face a 3 1
 a
-line "Good luck?|p| I already love this place!"
+line "Buona fortuna?|p| Io lo amo gia'!"
 face a 1 0
 a
-line "My parents say this city's nauseating to drive around."
+line "I miei genitori dicono che guidare in questa citta' fa venire la nausea."
 face a 1 2
 a
-line "Looking at the skyscrapers is still scary!"
+line "Ho ancora paura a guardare i grattacieli!"
 face a 2 2
 a
-line "And I do miss my friend sometimes..."
+line "E a volte sento la mancanza dei miei amici..."
 face p 0 2
 p
-line "Hang on,|p| you were talking about LIKING this city,|p| weren't you?"
+line "Aspetta,|p| stavi dicendo che questa citta' ti PIACE,|p| ho sentito bene?"
 face a 4 1
 a
-line "Of course!|p| How could I not love a city with such a cool tower in the middle?"
+line "Ma certo!|p| Come si puo' non amare una citta' che ha al suo centro una torre cosi' stupenda?"
 face p 0 0
 p
-line "I can think of a few reasons."
+line "Io qualche motivo l'avrei."
 face a 0 0
 
 a
-line "Anyways Panda,|p| you didn't let me get to the moral!"
+line "Ad ogni modo Panda,|p| non mi hai fatto arrivare alla morale!"
 face s 0 0
 face a 1 0
 a
-line "There's this huge hobby shop at North Mall that's bigger than the one back home."
+line "Al Centro Commerciale Nord c'e' quest'enorme bottega che è più grande di quella dalle mie parti."
 face a 3 1
 a
-line "I found sparkly yarn there.|p| I didn't even know that existed!"
+line "Ho trovato del filato sfavillante.|p| Nemmeno sapevo che esistesse!"
 face p 0 2
 p
-line "How was that a moral?"
+line "Come fa ad essere una morale?"
 face s 1 0
 s
-line "North Mall is cool,|p| yeah.|p| A bit busy though."
+line "Il Centro Commerciale Nord e' figo,|p| gia'.|p| Anche se un po' affollato."
 face p 1 0
 p
-line "And expensive."
+line "E costoso."
 face s 0 1
 s
-line "You should consider coming out east some time."
+line "Ogni tanto dovresti passare presso la zona est."
 face a 1 0
 a
-line "Well,|p| I've asked my parents to take me to East Blackout before..."
+line "Beh,|p| in passato ho chiesto ai miei genitori di portarmi a Blackout Est..."
 face a 0 0
 a
-line "...but they told me not to go to the bad parts of the city."
+line "...ma mi hanno detto di non andare nei quartieri malfamati."
 face s 2 0
 face p 0 0
 p
