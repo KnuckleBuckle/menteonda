@@ -1,47 +1,47 @@
 
 face a 1 2
 a
-line "Pandora,|p| Smalls,|p| it's been fun talking to you!"
+line "Pandora,|p| Smalls,|p| e' stato bello parlare con voi!"
 face a 2 2
 a
-line "But I think we all might have to get going soon..."
+line "Ma credo che presto ci dovremo tutti muovere..."
 face a 1 2
 a
-line "...so,|p| can I have your numbers?"
+line "...percio',|p| posso avere i vostri numeri?"
 face s 0 1
 s
-line "Sure,|p| here you go."
-line "Also,|p| feel free to hit us up and come out east to hang out."
+line "Certo,|p| eccolo qua."
+line "E poi,|p| non farti problemi a chiamarci per venire a uscire con noi ad est."
 face p 1 0
 p
-line "I guess I wouldn't mind coming up there..."
-line "...but we'll just,|p| like,|p| loiter around a park or something."
-line "Anything else is too expensive for me."
+line "A me non dispiacerebbe venire lassu'|p|..."
+line "...ma ce ne staremo,|p| non lo so,|p| a gironzolare nel parco o qualcosa di simile."
+line "Qualsiasi altra cosa per me costerebbe troppo."
 face a 0 0
 a
-line "It's okay!|p| I could pay for both of you!"
+line "Nessun problema!|p| Potro' pagare io al posto vostro!"
 face p 4 0
 p
-line "Oh,|p| that's...|p| nice of you."
+line "Oh,|p| e'...|p| gentile da parte tua."
 face p 0 1
 p
-line "We'll get going then."
+line "Noi ora dobbiamo andare."
 face p 1 0
 p
 line "..."
 face p 0 1
 p
-line "Nice meeting you,|p| Abbie,|p| see you around."
-line "I hope you see your friend again."
+line "E' stato bello conscerti,|p| Abbie,|p| ci si becca in giro."
+line "Spero che rivedrai la tua amica."
 face a 4 1
 a
-line "Oh my gosh,|p| thank you!"
+line "Cavolo,|p| grazie!"
 face a 0 0
 a
-line "Wait,|p| before you go!"
+line "Aspetta,|p| prima che te ne vai!"
 face p 0 0
 p
-line "Yea-|skip| "
+line "Che-|skip| "
 
 
 

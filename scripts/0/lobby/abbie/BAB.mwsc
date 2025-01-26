@@ -1,7 +1,7 @@
 face p 0 0
 face s 0 0
 s
-line "Sembra che a te piaccia Blackout City,|p| come mai vuoi gia' ritornare alla vecchia casa?"
+line "Sembra che a te piaccia Blackout City,|p| come mai vuoi gia' tornare alla vecchia casa?"
 face a 0 0
 a
 line "Beh,|p| a me questo posto piace davvero!"
@@ -30,26 +30,26 @@ a
 line "Ma e' difficilissimo godersi queste cose quando si rimane soli."
 face a 2 2
 a
-line "Even after living here for a month,|p| I still haven't made one friend..."
+line "E dopo aver vissuto qui per ben un mese,|p| non mi sono ancora fatta un singolo un amico..."
 face a 2 2
 a
-line "I wish Jenny was here..."
-line "...then I wouldn't have to care about making friends at school."
+line "Vorrei che Jenny fosse qui..."
+line "...cosi' non dovrei preoccuparmi di farmi amici a scuola."
 face p 1 0
 p
-line "Hey..."
-line "If the problem is your friend not being here,|p| couldn't you like..."
+line "Ehi..."
+line "Se il problema e' che la tua amica non e' qui,|p| non potresti, che ne so..."
 face p 4 0
 p
-line "Get her to come here instead?"
+line "Far si' che sia lei a venire?"
 face s 0 1
 s
-line "Yeah.|p| A high schooler's gonna adopt her friend,|p| who's also a high schooler."
+line "Si'.|p| Una liceale adottera' la sua amica,|p| che e' anch'essa liceale."
 face p 1 1
 p
-line "Yeah,|p| I might actually be an idiot."
+line "Gia',|p| forse in realta' sono un'idiota."
 a
-line "I don't think you're an idiot Panda!"
+line "Io non penso che sei un'idiota Panda!"
 face p 0 0
 
 

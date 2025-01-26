@@ -1,32 +1,32 @@
 
 s
-line "Hey Abbie,|p| we're about to get going,|p| tournament's starting soon."
-line "It was nice meeting you."
-line "Thanks for giving a new nickname for Panda,|p| too."
+line "Ehi Abbie,|p| noi stiamo per andare,|p| il torneo iniziera' a momenti."
+line "E' stato bello conoscerti."
+line "Grazie per il nuovo soprannome di Panda,|p| tra le altre cose."
 p
-line "Please,|p| stop, dude."
+line "Ti prego,|p| finiscila, bello."
 a
-line "What.|p| you don't like it?"
+line "Cosa?|p| Non ti piace?"
 p
-line "Only when he says it,|p| you're good."
+line "Solo quando lo dice lui,|p| tu sei a posto."
 a
 line "Yay!"
-line "So,|p| before you go,|p| can I have your numbers?"
-line "Wouldn't want to never see you again!"
+line "Allora,|p| prima che andiate,|p| potrei avere i vostri numeri?"
+line "Non vorrei non rivedervi mai piu'!"
 s
-line "Oh sure,|p| here's mine."
-line "I'll just give you Panda's too."
+line "Certo,|p| il mio e' questo."
+line "Ti daro' anche quello di Panda."
 p
-line "I didn't give you my express permission for \nthat,|p| but cool."
-line "I guess that's that."
-line "See you around Abbie,|p| bye."
+line "Non ti ho dato il mio permesso esplicito,|p| ma fa niente."
+line "E' andata cosi'."
+line "Ci si becca in giro Abbie,|p| ciao."
 s
-line "Yeah,|p| see you later."
+line "Va bene,|p| ci si vede."
 a
-line "Wait,|p| Panda!"
-line "Before you leave!"
+line "Aspetta,|p| Panda!"
+line "Prima che te ne vai!"
 p
-line "Yea-|skip| "
+line "Che-|skip| "
 
 
 

@@ -1,7 +1,7 @@
 face p 0 0
 p
-line "Okay,|p| we gotta get going."
+line "Ok,|p| noi dobbiamo andare."
 face a 0 0
 a
-line "Oh, okay.|p| See ya!"
+line "Oh, ok.|p| Ci si vede!"
 

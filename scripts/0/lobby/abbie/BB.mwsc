@@ -1,72 +1,72 @@
 face p 0 0
 p
-line "You...|p| snuck out?"
+line "Sei...|p| uscita di nascosto?"
 face p 4 0
 p
-line "Like,|p| you just slipped through the door and hopped on the subway?"
+line "Cioe',|p| sei sgattaiolata via dalla porta e hai preso la metro?"
 face a 0 0
 a
-line "Well,|p| it was the window,|p| but pretty much!|p|"
+line "Beh,|p| ho usato la finestra,|p| ma in sostanza si'!|p|"
 face p 0 1
 p
-line "You don't really seem like the type of person who'd do that."
+line "Non mi sembri affatto il tipo di persona che lo farebbe."
 line "Like,|p| at all."
 a
-line "Why not?|p| Before we moved here,|p| I'd sneak out all the time!"
-line "My friend used to ask me pretty much every night."
+line "Perche' no?|p| Prima che ci trasferissimo qui,|p| uscivo di nascosto continuamente!"
+line "La mia amica mi chiamava quasi ogni sera."
 face s 0 1
 s
-line "You get invited to a lot of parties?"
+line "Venivi invitata ad un sacco di feste?"
 face a 2 2
 a
-line "Nope!|p| I never got invited to parties."
+line "No!|p| Non sono mai stata invitata ad una festa."
 face a 0 0
 a
-line "In fact,|p| I don't think any of my classmates in my hometown partied at all?"
+line "In realta',|p| credo che i compagni di classe della mia citta' non festeggiassero propio, sai?"
 face a 1 2
 face s 0 0
 a
-line "Everyone knew each other's parents,|p| so it was hard to get away with much."
+line "Tutti i genitori si conoscevano,|p| percio' era dura farla franca a lungo."
 face p 0 2
 p
-line "Where...|p| were you going at night then?"
+line "Dove...|p| andavate di notte allora?"
 face a 0 0
 a
-line "Just the park!"
+line "Semplice, al parco!"
 face a 1 0
 a
-line "We had plenty of time to hang out during the day,|p| but it was special having it to ourselves."
+line "Di giorno avevamo un sacco di tempo per stare assieme,|p| ma starcene per conto nostro era qualcosa di speciale."
 face a 1 2
 a
-line "Our town was really peaceful at night."
+line "Di notte la citta' era molto silenziosa."
 face p 1 0
 p
-line "I couldn't imagine that...|p| The car horns and sirens around this city are never ending."
+line "Non riesco a immaginarlo...|p| I clacson e le sirene di queste citta' non cessano mai di suonare."
 face a 0 0
 a
-line "Ohhh!|p| We heard sirens too."
+line "Ohhh!|p| Anche noi abbiamo sentito sirene."
 face a 2 2
 a
-line "Neighbor called the cops on us,|p| and I got grounded for a month!"
-line "I was so mad at Jenny that I didn't talk to her for an entire day."
+line "I vicini chiamarono la polizia,|p| e rimasi in punizione per un mese!"
+line "Ero cosi' infuriata con Jenny che non le parlai per un giorno intero."
 face a 1 2
 a
-line "But I think it's kinda funny now.|p|\nI miss moments like that."
+line "Ma adesso mi viene un po' da ridere.|p|\nMi mancano momenti come quelli."
 face a 0 0
 a
-line "So I decided to bring it back myself tonight by sneaking out!"
+line "Cosi' ho deciso di uscire di nascosto in ricordo dei vecchi tempi!"
 face s 0 1
 s
-line "Hell yeah."
+line "Si' cazzo."
 face a 1 0
 a
-line "I guess I'm not alone right now though."
+line "Anche se ora pare che non sia piu' da sola."
 face a 1 0
 a
-line "And,|p| you know..."
+line "E,|p| sai una cosa.."
 face a 0 0
 a
-line "...you remind me of her, Panda!"
+line "...mi sembri simile a lei, Panda!"
 face p 0 0
 p
 line "...?"

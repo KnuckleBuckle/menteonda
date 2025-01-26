@@ -3,7 +3,7 @@ CODICI
 \" = VIRGOLETTE
 |p| = PAUSA
 \n = LINEBREAK
-
+|skip| = SKIP
 
 
 
@@ -11,6 +11,8 @@ CODICI
 TERMINOLOGIE
 
 Contestant = Partecipante
+
+Platinum Ticket = Biglietto di Platino
 
 Pools round = Fasi a girone
 
@@ -28,26 +30,42 @@ That's what the Interface is for! = L'Interfaccia serve a questo!
 
 SLAM to attention = (gioco di parole con snap to attention) - sezione tutorial
 
-Purple Girl = Ragazza in Viola - sezione Abbie
+Purple Girl = Ragazza in Viola - Abbie
 
 Arcade = Cabinato/i
 
-Mall = Centro Commerciale (placeholder) - sezione Abbie e altri
+Mall = Centro Commerciale (placeholder) - Abbie e altri
 
-Hobby shop = Bottega - sezione Abbie
+Hobby shop = Bottega - Abbie
 
-Yarn = Filato - sezione Abbie
+Yarn = Filato - Abbie
 
-Sparkly yarn = Filato sfavillante - sezione Abbie
+Sparkly yarn = Filato sfavillante - Abbie
 
-Ball of sparkly yarn = Gomitolo sfavillante - sezione Abbie
+Ball of sparkly yarn = Gomitolo sfavillante - Abbie
 
 Machine = Macchinario (es. Mindwave Machine - Macchinario Mindwave)
 
-Bad parts (of the city) = Quartieri malfamati - sezione Abbie
+Bad parts (of the city) = Quartieri malfamati - Abbie
 
-Plushy = Peluche - sezione Abbie
+Plushy = Peluche - Abbie
 
-Hell yeah = Sì cazzo - sezione Abbie
+Hell yeah = Sì cazzo - Abbie
 
-Transit pass = Abbonamento - sezione Abbie
+Transit pass = Abbonamento - Abbie
+
+
+
+
+FRASI TIPO (INDICATIVO)
+
+A volte alcune frasi si ripetono nelle varie possibili route di dialogo (es. i momenti di scambio dei numeri)
+NOTA: ALCUNE VOLTE LE FRASI PRESENTANO LEGGERE VARIAZIONI
+
+Move back home = Tornare alla vecchia casa - Abbie (route BAB)
+
+Before you go = Prima che te ne vai - Abbie (saluti)
+
+Here's mine = Il mio è questo - Abbie e altri (scambio numeri)
+
+I'll just give you Panda's too = Ti daro' anche quello di Panda - Abbie e altri (scambio numeri)

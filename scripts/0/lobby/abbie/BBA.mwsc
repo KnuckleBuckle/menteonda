@@ -1,56 +1,56 @@
 face s 2 1
 s
-line "Abbie,|p| Panda and I gotta get going."
+line "Abbie,|p| Panda e io dobbiamo andare."
 face p 1 2
 face s 0 1
 p
-line "I'll beat you half to death if you make that into a \"thing.\""
+line "Ti ridurro' mezzo morto se continui con questa \"storia.\""
 face a 2 2
 a
 line "..."
 face p 1 0
 p
-line "Uh,|p| I'm okay with you saying it Abbie."
+line "Uh,|p| se lo dici tu mi sta bene, Abbie."
 face a 4 1
 a
 line "..."
 face p 0 0
 p
-line "Good luck with the tournament and everything."
+line "In bocca al lupo col torneo e tutto il resto."
 face a 1 0
 a
-line "Oh!|p| Maybe I could get your numbers."
+line "Oh!|p| Potrei salvarmi i vostri numeri."
 face a 0 0
 a
-line "Y'know,|p| in case either of you lose immediately and we never get to talk again."
+line "Sapete,|p| nel caso uno di voi due perda subito e non potremmo riparlarci."
 face p 1 0
 p
-line "You might...|p| also lose immediately."
+line "Pure tu...|p| potresti perdere subito."
 s
-line "Here's mine and Pandora's."
+line "Eccoti quello mio e di Pandora."
 face a 3 1
 a
-line "Thanks!"
+line "Grazie!"
 face p 0 2
 p
-line "Bro,|p| I didn't give you permission to hand out my number."
+line "Fra,|p| non ti ho dato il permesso di passare il mio numero."
 face p 0 1
 p
-line "But sure yeah,|p| maybe we could hang out sometime."
+line "Ma si' dai,|p| qualche volta potremmo uscire assieme."
 face s 2 0
 s
-line "As long as you don't get grounded for tonight's rebellious stunt."
+line "Sempre se non verrai punita per la tua bravata da ribelle di stasera."
 face a 1 2
 a
-line "...Maybe when I come home with the prize money,|p| they'll be less mad?"
+line "...Forse se tornero' a casa con il montepremi,|p| si arrabbieranno di meno?"
 face s 0 1
 s
-line "Hopefully."
+line "Lo spero."
 p
-line "Cya Abbie."
+line "A dopo Abbie."
 face a 0 0
 a
-line "See you two!"
+line "Ci vediamo!"
 
 
 

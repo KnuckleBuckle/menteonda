@@ -30,64 +30,64 @@ goto marker BAB
 
 marker 0
 option add name "MINDWAVE" color smalls script "0/lobby/abbie/A"
-option add name "You're wearing pajamas..." color pandora script "0/lobby/abbie/B"
+option add name "Indossi un pigiama..." color pandora script "0/lobby/abbie/B"
 options shuffle
-option add name "Bye" script "0/lobby/abbie/bye"
+option add name "Ciao" script "0/lobby/abbie/bye"
 goto marker end
 
 marker A
 
-option add name "Northern Blackout?" color smalls script "0/lobby/abbie/AB"
+option add name "Blackout Nord?" color smalls script "0/lobby/abbie/AB"
 options shuffle
-option add name "Bye" script "0/lobby/abbie/bye"
+option add name "Ciao" script "0/lobby/abbie/bye"
 goto marker end
 
 marker B
-option add name "Platinum Ticket" color smalls script "0/lobby/abbie/BA"
-option add name "Sneaking Out" color pandora script "0/lobby/abbie/BB"
+option add name "Biglietto di Platino" color smalls script "0/lobby/abbie/BA"
+option add name "Uscire di nascosto" color pandora script "0/lobby/abbie/BB"
 options shuffle
-option add name "Bye" script "0/lobby/abbie/bye"
+option add name "Ciao" script "0/lobby/abbie/bye"
 goto marker end
 
 marker AA
-option add name "Teddy Bear" color smalls script "0/lobby/abbie/AAA"
-option add name "Bye" script "0/lobby/abbie/bye"
+option add name "Orsacchiotto" color smalls script "0/lobby/abbie/AAA"
+option add name "Ciao" script "0/lobby/abbie/bye"
 goto marker end
 
 marker AB
-option add name "Teddy Bear" color smalls script "0/lobby/abbie/ABA"
-option add name "Mindscape Tower" color pandora script "0/lobby/abbie/ABB"
+option add name "Orsacchiotto" color smalls script "0/lobby/abbie/ABA"
+option add name "Torre Mindscape" color pandora script "0/lobby/abbie/ABB"
 options shuffle
-option add name "Bye" script "0/lobby/abbie/bye"
+option add name "Ciao" script "0/lobby/abbie/bye"
 goto marker end
 
 marker BA
-option add name "Blackout's Public Transit" color pandora script "0/lobby/abbie/BAA"
-option add name "Move Back Home?" color smalls script "0/lobby/abbie/BAB"
-option add name "Bye" script "0/lobby/abbie/bye"
+option add name "Mezzi Pubblici di Blackout" color pandora script "0/lobby/abbie/BAA"
+option add name "Tornare alla Vecchia Casa?" color smalls script "0/lobby/abbie/BAB"
+option add name "Ciao" script "0/lobby/abbie/bye"
 goto marker end
 
 marker BB
-option add name "Bye" script "0/lobby/abbie/BBA"
+option add name "Ciao" script "0/lobby/abbie/BBA"
 goto marker end
 
 marker AAA
-option add name "Bye" script "0/lobby/abbie/AAAA"
+option add name "Ciao" script "0/lobby/abbie/AAAA"
 goto marker end
 
 marker ABA
-option add name "Bye" script "0/lobby/abbie/ABAA"
+option add name "Ciao" script "0/lobby/abbie/ABAA"
 goto marker end
 
 marker ABB
-option add name "Bye" script "0/lobby/abbie/ABBA"
+option add name "Ciao" script "0/lobby/abbie/ABBA"
 goto marker end
 
 marker BAA
-option add name "Bye" script "0/lobby/abbie/BAAA"
+option add name "Ciao" script "0/lobby/abbie/BAAA"
 goto marker end
 marker BAB
-option add name "Bye" script "0/lobby/abbie/BABA"
+option add name "Ciao" script "0/lobby/abbie/BABA"
 goto marker end
 
 marker end

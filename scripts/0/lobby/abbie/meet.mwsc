@@ -3,10 +3,10 @@ face s 0 1
 s
 line "Che mi dici di lei?"
 p
-line "Non è il tipo di persona con cui parlerei di solito."
+line "Non e' il tipo di persona con cui di solito parlerei."
 face s 0 2
 s
-line "...L'idea è proprio quella."
+line "...L'idea e' proprio quella."
 face p 1 2
 p
 line "Ugh..."
@@ -38,13 +38,13 @@ face p 4 0
 p
 line "eHI..."
 a
-line "|speed 1.5|Non è FIGHISSIMO questo posto?"
+line "|speed 1.5|Non e' FIGHISSIMO questo posto?"
 face a 1 0
 a
-line "|speed 1.5|Il soffitto è così alto!"
+line "|speed 1.5|Il soffitto e' così alto!"
 face a 4 1
 a
-line "|speed 1.5|C'è così tanta gente!"
+line "|speed 1.5|C'e' così tanta gente!"
 face a 1 0
 a
 line "|speed 1.5|Oh!|p| Ragazza in Viola!"
@@ -63,7 +63,7 @@ p
 line "Sei la seconda persona che ha detto questo sui miei vestiti,|p| comunque."
 face p 0 1
 p
-line "Ma va bene così,|p| la trovo una cosa buffa.|p| Grazie."
+line "Ma va bene cosi',|p| la trovo una cosa buffa.|p| Grazie."
 
 goto marker branch1e
 
@@ -97,7 +97,7 @@ line "Io sono Abbie,|p| avrei dovuto dirlo come prima cosa,|p| eheh."
 set a name abbie
 face s 0 1
 s
-line "Beh,|p| ciao Abbie.|p| Io sono Smalls,|p| lei è Pandora."
+line "Beh,|p| ciao Abbie.|p| Io sono Smalls,|p| lei e' Pandora."
 
 
 
