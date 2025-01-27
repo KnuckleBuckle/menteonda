@@ -1,27 +1,27 @@
 set d name mystery
 face p 0 0
 p
-line "That guy's hoodie is cool."
+line "Figo il tipo col cappuccio."
 face s 0 0
 s
-line "Do you want to go ask him where he bought it?"
+line "Vuoi chiedergli dove l'ha comprato?"
 face p 1 0
 p
-line "I don't know,|p| not really?|p|\nI just think it's cool."
+line "Non so,|p| non credo?|p|\nPenso solo che sia figo."
 face s 0 1
 s
-line "I mean,|p| I can go ask him if you \nwant me to."
+line "Voglio dire,|p| posso chiederglielo \nio se vuoi."
 p
-line "I don't-|p 30| |skip| "
+line "Non-|p 30| |skip| "
 face d 0 0
 d
 line "Yo."
 face p 0 0
 p
-line "Oh- uh,|p| hey?"
+line "Oh- uh,|p| ehila'?"
 face d 1 0
 d
-line "Listen to this real quick."
+line "Presto, ascolta questo."
 face d 1 1
 function lb0_scr_dom_music 1
 
@@ -40,35 +40,35 @@ p
 line "..."
 face d 1 0
 d
-line "So,|p| what do you think?"
+line "Allora,|p| che ne pensi?"
 face s 0 0
 face p 0 2
 p
-line "What is this?"
+line "Cos'e'?"
 face d 1 0
 d
-line "My song,|p| hope ya like it."
+line "La mia canzone,|p| spero ti piaccia."
 face p 0 0
 p
-line "Man,|p| I don't know."
+line "Boh,|p| non lo so."
 face p 1 0
 p
-line "Give me some time to\nthink about it first."
+line "Dammi prima del tempo\nper pensarci."
 face d 0 1
 d
-line "Ah,|p| that's ok."
+line "Ah,|p| ci sta."
 face d 0 0
 d
-line "Name's Dom,|p| by the way.|p| "
-line "Friends call me Mixmaster D but it's kinda lame so just Dom is fine,|p| haha."
+line "Il mio nome e' Dom,|p| comunque.|p| "
+line "Per gli amici Mixmaster D, ma fa un po' pena quindi va bene solo Dom,|p| ahah."
 set d name dom
 face p 4 0
 p
-line "I'll be calling you Dom."
+line "Io ti chiamero' Dom."
 face p 0 0
 p
-line "I'm Pandora."
-line "He is Smalls."
+line "Io sono Pandora."
+line "Lui e' Smalls."
 setflag _0.dom.met 1
 incflag _0.chars_met 1
 goto script 0/lobby/dom/questions

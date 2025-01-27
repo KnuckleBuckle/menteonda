@@ -1,36 +1,36 @@
 
 face p 0 0
 p
-line "Abbie was...|p| nice."
+line "Abbie era...|p| simpatica."
 face s 0 1
 s
-line "Yeah,|p| she was really nice."
+line "Si',|p| era proprio simpatica."
 face p 1 0
 p
-line "Not really into how much she likes this place though..."
+line "Anche se non apprezzo che va matta per questo posto..."
 face s 0 0
 s
-line "I think Abbie just likes everything."
+line "Secondo me Abbie è solo una a cui piace tutto."
 face s 1 0
 s
-line "Most North Blackout types think MINDWAVE is cool anyhow."
+line "E in ogni caso molti di Blackout Nord trovano MINDWAVE figo."
 p
-line "Yeah,|p| I'm convinced that Mindscape is putting something in the water."
+line "Gia',|p| sono convinta che Mindscape metta qualcosa nell'acqua."
 face s 0 2
 s
-line "Don't be mean."
+line "Non fare l'acida."
 face s 1 0
 s
-line "Mindscape Co. has such a sway over this city that plenty of wealthy people move here specifically for MINDWAVE."
+line "Mindscape Co. ha un'influenza cosi' grande su questa citta' che molta gente ricca si trasferisce qui apposta per MINDWAVE."
 face s 0 1
 s
-line "So I don't think it's got anything to do with water."
+line "Percio' non credo che sia qualcosa che c'entri con l'acqua."
 face s 0 2
 s
-line "Unless you're suggesting Mindscape is interfering with the water supply of other cities as well?"
+line "A meno che non vuoi insinuare che Mindscape metta le mani anche sulle reti idriche di altri citta'?"
 face p 0 0
 p
-line "Y'know,|p| I wouldn't doubt it."
+line "Sai che c'e',|p| non lo escluderei."
 
 
 

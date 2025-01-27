@@ -1,40 +1,40 @@
 
 face s 0 0
 s
-line "It was nice of Abbie to offer that."
-line "North Blackout is a little pricey."
+line "Gentile da parte di Abbie farci quella proposta."
+line "Blackout Nord e' un po' cara coi prezzi."
 face p 1 0
 p
-line "Yeah,|p| but I'd feel kinda bad about using her money on myself."
+line "Gia',|p| ma mi sentirei un po' colpa se spendesse i suoi soldi per me."
 face p 1 2
 p
-line "Well,|p| I probably wouldn't feel THAT bad."
+line "Beh,|p| non mi sentirei COSI' in colpa."
 face p 0 0
 p
-line "But if we're gonna hang out with Abbie,|p| I don't wanna feel like she's buying our friendship."
+line "Ma se dovessimo uscire con Abbie,|p| non vorrei sentirmi come se stesse comprando la nostra amicizia."
 s
-line "Yeah,|p| I get what you mean."
+line "Si',|p| capisco cosa vuoi dire."
 p
-line "I'd rather just hang out with her in our area."
+line "Preferirei uscire con lei dalle parti nostre."
 face p 4 0
 p
-line "Even if there's some cool things to do up north..."
+line "Anche se a nord ci sono un sacco di cose belle da fare..."
 face s 1 0
 s
-line "I got a friend who saved up his money for a vacation up there."
+line "Io ho un amico che ha risparmiato per farsi una vacanza li'."
 face s 0 0
 s
-line "He stayed at the crappiest hotel 'cuz he couldn't afford anywhere else."
+line "E' stato in un hotel merdosissimo perche' non poteva permettersi altro."
 face p 0 2
 p
-line "Blackout City is the worst place for a vacation, man."
+line "Cavolo, Blackout City e' il peggior posto dove andare in vacanza."
 face s 0 0
 s
-line "Yeah, that's what I told him."
+line "Gia', e' quello che gli ho detto."
 face s 0 1
 s
-line "Especially because he already lives here."
-line "An hour away from North Blackout at that."
+line "Soprattutto dato che ci vive gia'."
+line "E per giunta a un'ora da Blackout Nord."
 
 
 

@@ -1,37 +1,37 @@
 
 face p 0 0
 p
-line "I don't know why Abbie hugged me like that."
+line "Non so il motivo di quell'abbraccio di Abbie."
 face p 0 2
 p
-line "Especially so suddenly."
+line "Specialmente cosi' dal nulla."
 face s 1 0
 s
-line "I think she's just in need of a friend."
+line "Credo che abbia solo bisogno di un'amica."
 p
-line "Yeah but like,|p| I just met her."
+line "Si' ma come dire,|p| l'ho appena conosciuta."
 face p 1 0
 p
-line "I'm fine with hanging out..."
+line "A me sta bene uscirci assieme..."
 face p 1 2
 p
-line "...but I'm not trying to be her new best friend or anything."
-line "I'm not in the market."
+line "...ma non sto cercando di essere la sua nuova migliore amica o altro."
+line "Non sono sulla piazza."
 face s 0 2
 s
-line "Aw, Panda...|p| Is that 'cuz you've got one of those already?"
+line "Aw, Panda...|p| E' perche' ne hai gia' uno?"
 face p 0 2
 p
-line "Don't use that nickname, man."
+line "Non usare quel nomignolo, bello."
 face s 0 0
 s
-line "No can do Panda,|p| it's too good of a nickname."
+line "Niente da fare Panda,|p| è un nomignolo troppo bello."
 face p 0 0
 p
 line "..."
 face p 0 1
 p
-line "Nevermind,|p| I think I'm in the market again."
+line "Ci ho ripensato,|p| credo di essere di nuovo in piazza."
 
 
 

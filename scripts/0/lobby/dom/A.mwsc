@@ -3,12 +3,12 @@
 face s 0 1
 face p 0 2
 p
-line "So,|p| what the hell,|p| have you just been showing your song to everyone?"
+line "Allora,|p| ma cazzo fai,|p| fai sentire a tutti la tua canzone?"
 d
-line "Nah,|p| just you two so far."
+line "Nah,|p| finora solo a voi due."
 face p 0 2
 d
-line "Since you were already talking about me,|p| I thought you might like it."
+line "Visto che stavate gia' parlando di me,|p| pensavo vi sarebbe piaciuta."
 face d 0 0
 d
 line "Plus,|p| I thought you looked cool."

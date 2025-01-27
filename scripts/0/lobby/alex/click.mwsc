@@ -9,10 +9,10 @@ goto marker alreadyMet
 
 marker alreadyMet
 p
-line "Please, let's not relive that."
-line " Let's just leave them alone."
+line "Ti prego, evitiamo un bis."
+line " Lasciamo che se ne stia per conto suo."
 s
-line "...Right."
+line "...Ma certo."
 goto marker end
 
 
@@ -28,38 +28,38 @@ set a name mystery
 face s 0 0
 face p 0 0
 s
-line "How about we start with them?"
+line "Iniziamo con quella persona?"
 p
-line "Them?|p| I think I'd rather talk to someone more...|p| approachable."
+line "Quella li'?|p| Preferirei parlare con qualcuno piu'...|p| approcciabile."
 face p 0 2
 p
-line "They're wearing headphones."
-line "I don't think they're in the mood to talk."
+line "Ha delle cuffie addosso."
+line "Non penso che sia in vena di parlare."
 face s 0 2
 s
-line "What like you?|p| All the time?"
+line "Come te, intendi?|p| Costantemente?"
 p
-line "I don't wear headphones,|p| and I'm talking to you right now."
+line "Io non porto le cuffie,|p| e adesso sto parlando con te."
 face s 0 1
 s
-line "Just put yourself out there."
+line "Mettiti in gioco e basta."
 face p 1 0
 p
-line "Put myself out there by bothering random people in public?"
+line "Mettermi in gioco sarebbe disturbare gente a caso tra la folla?"
 face s 1 0
 s
-line "That's how everyone makes friends, Pandora."
+line "E' cosi' che tutti si fanno gli amici, Pandora."
 p
-line "That's contextual though."
+line "Pero' dipende dal contesto."
 face p 1 2
 p
-line "But sure,|p| we'll see how this goes."
+line "Ma va bene,|p| vediamo come va."
 face s 2 1
 s
-line "I'm right,|p| I'm always right."
+line "Ho ragione io,|p| io ho sempre ragione."
 face p 0 0
 p
-line "Uhh,|p| *ahem*|p|\nhey."
+line "Uhh,|p| *ahem*|p|\nehi."
 a
 line "..."
 face p 1 2
@@ -67,30 +67,30 @@ p
 line "!!!"
 face s 0 3
 s
-line "You ain't trying hard enough."
+line "Non ti stai impegnando abbastanza."
 a
-line "Hey um,|p| I could actually hear you two the whole time."
-line "These are open-back."
-line "The correct answer would have been to not bother someone out of the blue."
-line "That's not a good foundation to start a conversation."
+line "Ehi, uhm,|p| a dire il vero vi ho sentiti per tutto il tempo."
+line "Queste sono cuffie aperte."
+line "La risposta giusta sarebbe di non disturbare nessuno cosi' dal nulla."
+line "Non e' un buon punto di partenza per far partire una conversazione."
 line "..."
 face a 0 1
 a
-line "I'm Alex by the way."
+line "Io sono Alex, comunque."
 face s 0 3
 face p 4 0
 p
-line "...Sorry."
+line "...Scusa."
 set a name alex
 face a 0 0
 a
-line "It's alright.|p| I would still rather not be bothered."
+line "Non fa niente.|p| Vorrei comunque non ricevere seccature."
 face s 0 0
 s
-line "Okay, we've learned our lesson."
+line "Ok, abbiamo imparato la lezione."
 a
-line "It's not about learning a lesson it's more-"
-line "Ah, nevermind,|p| I won't keep you."
+line "Non si tratta di imparare una lezione, e' piu'-"
+line "Ah, lasciate perdere,|p| non vi tratterro'."
 
 set a x -200
 wait 1 second
@@ -101,13 +101,13 @@ s
 line "..."
 face p 1 2
 p
-line "\"I'm always right.\""
+line "\"Io ho sempre ragione.\""
 face s 0 0
 s
 line "..."
 face s 2 0
 s
-line "That's still true."
+line "Rimane vero."
 setflag _0.alex.firstSpoken 1
 goto marker endFlags
 
@@ -121,77 +121,77 @@ set a name mystery
 
 face s 0 0
 s
-line "They look cool."
+line "Sembra alla mano."
 face p 1 0
 p
-line "Nah,|p| I think they don't wanna be bothered.|p|"
-line "They're wearing headphones."
+line "Nah,|p| non penso che voglia ricevere seccature.|p|"
+line "Ha delle cuffie addosso."
 face s 0 1
 s
-line "I bet they'd be pleasant to talk to."
+line "Io scommetto che ne uscira' una bella chiacchierata."
 face p 4 0
 p
-line "You'd bet?|p| How much?"
+line "Davvero?|p| Quanto punti?"
 face s 1 0
 s
-line "Uhhh...|p| how much you got on you?"
+line "Uhhh...|p| quanto hai con te?"
 face p 0 0
 p
-line "Just a twenty."
+line "Una da venti."
 face s 0 1
 s
-line "Get it ready for me,|p| I got a good feeling about this one."
+line "Tienila pronta,|p| ho un buon presentimento."
 face p 1 0
 p
-line "This feels below you."
+line "Stai dando il peggio di te."
 face p 0 0
 p
-line "But whatever,|p| we can talk-|p 30| |skip| "
+line "Ma come vuoi,|p| possiamo parlare-|p 30| |skip| "
 a
-line "Hello?"
-line "I could actually hear you two this whole time."
-line "These are open-back."
-line "The correct answer here would have been to let me relax before the tournament."
-line "...Also.|p| You should not talk so loudly about someone right in front of them."
-line "I don't want to start an argument,|p| but that can be considered rude."
+line "Ehila'?"
+line "A dire il vero vi ho sentiti per tutto il tempo."
+line "Queste sono cuffie aperte."
+line "La risposta giusta sarebbe di lasciarmi rilassare prima del torneo."
+line "...E non e' tutto.|p| Non dovreste parlare così ad alta voce di qualcuno se e' proprio davanti a voi."
+line "Non voglio iniziare una discussione,|p| ma potrebbe essere considerato da maleducati."
 line "..."
 face a 0 1
 a
-line "My name is Alex by the way."
+line "Comunque mi chiamo Alex."
 p
-line "...Sorry."
+line "...Scusa."
 face a 0 0
 set a name alex
 a
-line "It's alright.|p| I would still rather not be bothered."
+line "Non fa niente.|p| Vorrei comunque non ricevere seccature."
 face s 0 0
 s
-line "Yeah my bad.|p| Guess I misread the room."
+line "Gia', colpa mia.|p| Mi sa che ho frainteso il contesto."
 face p 0 2
 p
-line "Who could've guessed."
+line "Chi l'avrebbe mai detto."
 a
-line "You might want to give the girl her money."
+line "Ti converrebbe dare i soldi alla ragazza."
 face s 0 0
 s
-line "Oh yeah..."
+line "Oh gia'..."
 a
-line "Goodbye.|p| I won't keep you."
+line "Vi saluto.|p| Non vi tratterro'."
 
 set a x -200
 wait 1 second
 face s 2 0
 s
-line "I don't got cash on me right now."
+line "Non ho dei contanti con me."
 face s 0 1
 face p 0 0
 p
-line "Bum."
+line "Straccione."
 face p 4 0
 p
-line "Can you do transfer?"
+line "Puoi pagare in digitale?"
 s
-line "Sure.|p| Later."
+line "Certo.|p| Piu' tardi."
 
 
 

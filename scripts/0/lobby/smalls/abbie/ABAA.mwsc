@@ -1,49 +1,49 @@
 
 face p 0 0
 p
-line "Abbie was...|p| interesting."
+line "Abbie era...|p| interessante."
 face s 1 0
 s
 line "..."
 face p 4 0
 p
-line "Uh,|p| you good Smalls?"
+line "Uh,|p| tutto bene Smalls?"
 s
-line "Yeah,|p| I'm just thinking."
-line "If I win,|p| I could use my money to start a plushie business or something."
+line "Si',|p| stavo pensando a una cosa."
+line "Se vincessi,|p| potrei usare i miei soldi per fondare un'impresa di peluche o qualcosa del genere."
 face p 0 2
 p
-line "A plushie business."
+line "Un'impresa di peluche."
 face s 0 1
 s
-line "Yeah.|p| We could do custom orders."
-line "I'd hire Abbie on staff.|p|\nShe could make them all."
-line "She seems good enough with people."
+line "Si'.|p| Potremmo fare articoli su misura."
+line "Potrei assumere Abbie.|p|\nPotrebbe farli tutti."
+line "Sembra stare a suo agio con la gente."
 p
-line "And what are you gonna do?"
+line "E tu cosa farai?"
 face s 0 0
 s
-line "Head manager stuff."
+line "Robe da direttore."
 face p 1 2
 p
-line "That's|p| a terrible idea."
-line "You'd have like,|p| zero market."
+line "Questa e'|p| un'idea orribile."
+line "Farai tipo,|p| zero affari."
 face s 0 1
 s
-line "I'll get a sign."
+line "Mi procurero' un cartello."
 p
-line "Even if you did,|p| you'd be overworking Abbie."
+line "Anche se fosse,|p| sommergeresti di lavoro Abbie."
 face p 4 0
 p
 line "..."
 face p 0 0
 p
-line "At least hire me too."
+line "Almeno assumi anche me."
 s
-line "That's the plan."
+line "L'idea era quella."
 face s 0 1
 s
-line "You'll be outside spinning the sign."
+line "Tu starai fuori a roteare il cartello."
 
 
 

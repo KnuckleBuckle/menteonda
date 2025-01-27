@@ -7,40 +7,40 @@ s
 line "Panda."
 face s 0 1
 s
-line "Has a ring to it,|p| doesn't it?"
+line "Suona bene,|p| non trovi?"
 face p 0 2
 p
-line "Man,|p| I dunno."
+line "Boh,|p| che ne so."
 s
-line "You're gonna have to get used to it if we're hanging out with Abbie later."
+line "Dovrai abituartici se in futuro usciremo con Abbie."
 face s 0 2
 s
-line "Why not start now?"
+line "Perche' non iniziare da adesso?"
 face p 0 0
 p
-line "About that..."
+line "A proposito..."
 face p 1 0
 p
-line "Abbie is like,|p| from a completely different world to ours."
-line "I don't think she'd fit in well with us."
+line "Abbie e' tipo,|p| di un pianeta completamente diverso dal nostro."
+line "Non penso che si troverebbe bene con noi."
 face p 1 2
 p
-line "Maybe we'd be a bad influence on her?"
+line "Forse saremmo una cattiva influenza?"
 face s 1 0
 s
-line "Nah.|p| The only crimes we commit are loitering and jaywalking."
+line "Nah.|p| Gli unici nostri reati sono bighellonare e camminare fuori dal marciapiede."
 face p 0 2
 p
-line "You also snuck in here bro."
+line "Ti sei anche intrufolato qui, fra."
 face s 2 1
 s
-line "Yeah but this is a one time thing."
+line "Si' ma questo e' un caso isolato."
 face s 0 0
 s
-line "Abbie is a repeat offender."
+line "Abbie e' recidiva."
 face s 0 1
 s
-line "If anything,|p| she'd be a bad influence on us."
+line "Semmai,|p| sarebbe lei la cattiva influenza."
 setflag _0.smalls.abbie 2
 setflag _0.smalls.abbie.branch BBA
 function lobby_tick_time 0.5

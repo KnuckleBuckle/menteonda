@@ -1,16 +1,16 @@
 face s 2 0
 s
-line "Dom,|p| can we hear your music again?"
+line "Dom,|p| possiamo sentire di nuovo la tua musica?"
 face d 1 0
 d
-line "Haha,|p| sure."
+line "Ahah,|p| certo."
 function lb0_scr_dom_music 1 1
 d
 line "..."
 function lb0_scr_dom_music 0
 face s 2 1
 s
-line "Nice."
+line "Bella."
 
 
 

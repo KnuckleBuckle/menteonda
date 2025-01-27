@@ -1,13 +1,13 @@
 
 face p 0 1
 p
-line "Sup."
+line "Come butta?"
 face p 0 0
 p
-line "Looks like we still have some time to chat."
+line "Pare che abbiamo ancora tempo per chiacchierare."
 face d 0 0
 d
-line "Cool!"
+line "Alla grande!"
 
 
 
