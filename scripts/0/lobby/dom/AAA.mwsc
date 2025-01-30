@@ -2,56 +2,56 @@
 face p 0 0
 face s 0 0
 s
-line "Seems like you and Pandora decided that we'd do a collab."
+line "A quanto pare tu e Pandora avete deciso che faremo una collab."
 face s 0 0
 s
-line "I'm cool with that.|p| I'm just gonna need your contact to hit you up later."
+line "A me sta bene.|p| Mi serve soltanto un modo per poter contattarti in seguito."
 d
-line "Oh yeah,|p| I'mma write it down for you."
+line "Oh si',|p| ti lascio un foglietto."
 face p 0 0
 d
-line "You know what I was thinking though?"
-line "We need to do a gig like,|p| right here."
+line "Sai pero' a cosa stavo pensando?"
+line "Dovremmo fare un concerto,|p| dentro a 'sto posto."
 s
-line "What,|p| Mindscape Tower?"
+line "Che intendi,|p| la Torre Mindscape?"
 face s 2 0
 s
-line "I don't know who we'd even ask for permission to do that..."
+line "Non so neanche a chi poter chiedere il permesso..."
 face s 0 1
 s
-line "...but it'd be cool.|p| This place is definitely built to handle a festival."
+line "...ma sarebbe figo.|p| Di sicuro questo luogo ha quello che serve per ospitare un festival."
 face p 0 2
 p
-line "Oh,|p| hell no."
+line "Oh,|p| col cazzo."
 face p 0 3
 face s 0 3
 p
-line "There's no way I'd ever do anything for Mindscape-"
+line "Te lo scordi che io faccia un favore a Mindscape-"
 face p 0 0
 p
-line "Actually no,|p| I'd love to play here SPECIFICALLY without their permission."
+line "Anzi,|p| mi piacerebbe suonare qui PROPRIO perche' non abbiamo il permesso."
 face p 0 1
 p
-line "Like,|p| take our gear to the entrance and start playing until they force us out."
-line "Hey,|p| wanna do that, Dom?"
+line "Pensate,|p| tirare fuori l'attrezzatura all'ingresso e suonare fino a quando non ci cacciano."
+line "Ehi,|p| ti va, Dom?"
 d
-line "Absolutely,|p| when?"
+line "Ovviamente,|p| quando?"
 face p 0 0
 p
-line "Uhh...|p| I don't got my things on me,|p| so not right now,|p| but..."
-line "We could meet up at the entrance to start brainstorming."
+line "Uhh...|p| non ho portato le mie cose,|p| quindi non subito,|p| ma..."
+line "Potremmo incontrarci all'ingresso e pensare a qualcosa."
 face p 0 1
 p
-line "You in, Smalls?"
+line "Ci stai, Smalls?"
 face s 0 1
 s
-line "I don't think I can refuse."
+line "Non penso che possa rifiutarmi."
 p
-line "Okay then.|p| See you later, Dom."
+line "Va bene, allora.|p| Ci vediamo, Dom."
 d
-line "It's a plan,|p| see ya."
+line "E' fatta,|p| ci si vede."
 p
-line "Bye."
+line "Ciao."
 
 
 

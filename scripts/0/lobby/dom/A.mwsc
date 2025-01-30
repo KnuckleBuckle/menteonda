@@ -11,55 +11,55 @@ d
 line "Visto che stavate gia' parlando di me,|p| pensavo vi sarebbe piaciuta."
 face d 0 0
 d
-line "Plus,|p| I thought you looked cool."
+line "E poi,|p| pensavo che avevi stile."
 p
-line "Thank you?"
+line "Grazie?"
 face p 0 0
 p
-line "You do know that you got lucky with us,|p| right?"
+line "Lo sai che avuto fortuna a trovare noi,|p| vero?"
 face d 0 1
 d
-line "What do you mean?"
+line "Che intendi?"
 p
-line "Someone else could have found that annoying as hell."
-line "Especially with everyone being so on edge in here."
+line "Qualcun altro lo avrebbe pouto trovare fastidiosissimo."
+line "Soprattutto quando tutti qui sono cosi' tesi."
 face p 0 2
 p
-line "Like,|p| what if someone punched you in the face for doing that?"
+line "Cioe',|p| e se qualcuno avesse reagito dandoti un pugno in faccia?"
 face d 0 0
 d
-line "I dunno,|p| you don't seem that on edge."
+line "Non so,|p| tu non mi sembri tanto tesa."
 face p 1 0
 face d 0 1
 d
-line "Maybe 'cuz my track's a vibe?"
+line "Forse è per la mia traccia allucinante?"
 face p 0 4
 p
 line "..."
 face p 0 0
 p
-line "Okay, man."
+line "Ok, bello."
 face p 1 0 
 p
-line "I actually thought it was kinda neat."
+line "In realta' pensavo che non fosse malaccio."
 face p 0 2
 p
-line "But you really need to rethink how you promote yourself."
+line "Ma devi sul serio rivedere come farti pubblicita'."
 face s 1 0
 s
-line "I thought it was pretty effective, myself."
+line "L'ho trovata abbastanza efficace, a dire la mia."
 face s 1 0
 s
-line "Certainly left an impression.|p|\nWe could give it a try."
+line "Di sicuro ha lasciato il segno.|p|\nPotremmo dargli una chance."
 face p 1 0
 p
-line "Nuh uh,|p| that's a non-starter."
+line "Nuh uh,|p| e' fuori discussione."
 face p 1 2
 p
-line "I'm not trying to have my teeth knocked out over music promotion."
+line "Non ambisco ad avere i denti rotti per colpa di una promozione musicale."
 face s 2 1
 s
-line "I'll get us mouth guards or something."
+line "Ci procureremo qualche sorta di paradenti."
 
 
 

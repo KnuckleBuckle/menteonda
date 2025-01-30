@@ -11,7 +11,7 @@ options show
 marker yes
 
 p
-line "Sì,|p ,| io qui ho finito.|p .| Aspettiamo che inizi."
+line "Si',|p ,| io qui ho finito.|p .| Aspettiamo che inizi."
 
 s
 line "Va bene."
@@ -22,7 +22,7 @@ goto marker end
 marker no
 
 p
-line "In realtà, nah.|p .| Guardiamoci un altro po' nei dintorni."
+line "In realta', nah.|p .| Guardiamoci un altro po' nei dintorni."
 
 face s 2 1
 s

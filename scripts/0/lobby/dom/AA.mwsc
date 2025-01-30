@@ -2,80 +2,80 @@
 face s 0 1
 face p 0 0
 s
-line "We're actually musicians too,|p| Dom."
+line "Anche noi in realta' siamo musicisti,|p| Dom."
 face d 0 0
 d
-line "For real?|p| That's sick."
-line "Are you two in a band or something?"
+line "Davvero?|p| Che figata."
+line "Siete parte di qualche band?"
 face p 1 0
 p
-line "It's only us two,|p| so it's not like a real band."
+line "Siamo solo noi due,|p| quindi non e' una vera e propria band."
 
 face p 0 4
 p
-line "More of a duo,|p| Smalls on synths and me on guitar."
-line "We don't have a ton of notoriety or anything."
+line "Piu' un duetto,|p| Smalls ai synth e io alla chitarra."
+line "Non abbiamo chissa' quale fama."
 face s 0 0
 s
-line "A duo can be a band."
+line "Un duetto puo' essere una band."
 face s 0 3
 s
-line "Now,|p| you signing us up under a different name at every show we play at?"
+line "Piuttosto,|p| tu che ci registri con un nome diverso ad ogni evento a cui suoniamo?"
 face s 0 1
 s
-line "That might be why we're lacking notoriety."
+line "Forse il motivo della nostra mancanza di fama e' quello."
 face p 0 1
 p
-line "That's awesome,|p| though.|p| And funny."
+line "E' fighissimo,|p| pero'.|p| E uno spasso."
 face p 1 1
 p
-line "It's not like we're a big enough name for people to care."
+line "Tanto non siamo abbastanza rilevanti da importare alla gente."
 face d 0 0
 d
-line "You guys do gigs?|p|\nThat's dope."
+line "Fate concerti?|p|\nFenomenale."
 face p 0 0
 face d 0 1
 d
-line "I wish I could play my tunes live too."
+line "Anch'io vorrei suonare i miei brani dal vivo."
 face s 0 0
 s
-line "You should be able to.|p| Smaller shows will let just about anyone in."
+line "Non e' difficile.|p| Gli spettacoli piu' locali accettano chiunque."
 face s 0 2
 face p 0 4
 s
-line "Even us,|p| in spite of Pandora's sabotaging."
+line "Persino noi,|p| nonostante i sabotaggi di Pandora."
 face p 0 2
 p
-line "See,|p| I don't know why you're so hung up on that, man."
+line "Senti,|p| ma perche' continui a tirare fuori questa storia, bello."
 face p 0 4
 p
-line "We only ever play at old musty dumps."
+line "Ogni volta suoniamo in bettole ammuffite."
 face p 1 1 
 p
-line "And there's only ever around 20 people watching us,|p| at most.|p| Nobody notices."
+line "E sono sempre piu' o meno 20 persone a guardarci,|p| al massimo.|p| Nessuno ci nota."
 face s 1 0
 s
-line "That's the problem.|p| If we had one consistent name,|p| people might notice us."
+line "E' questo il problema.|p| Se avessimo un singolo nome fisso,|p| potremmo venire notati."
 face s 2 1
 face p 1 0
 s
-line "And also, I don't think it's that funny."
+line "E poi, non penso che sia tutto questo spasso."
 face p 0 3
 face s 0 1 
 p
-line "Okay,|p| screw you for thinking it's not funny."
+line "Ok,|p| vaffanculo a te e alla tua mancanza di umorismo."
 face p 0 4
 p
-line "But that's a pretty fair point."
+line "Ma la tua e' una giustissima affermazione."
 d
 line "..."
 face p 0 1
 p
-line "Oh,|p| hey, Dom. Want to play with us at our next show?"
-line "It'd be nice to have a third to carry our gear."
+line "Oh,|p| ehi, Dom. Ti va di suonare con noi al nostro prossimo evento?"
+line "Sarebbe bello avere un terzo che ci porta l'attrezzatura."
 face d 0 0
 d
-line "Aw,|p| hell yeah, bro."
+line "Aw,|p| si' cazzo, fra."
 
 
 

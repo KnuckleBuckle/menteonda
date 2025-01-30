@@ -1,71 +1,71 @@
 face p 0 0
 face s 0 0
 p
-line "Dom, man."
+line "Dom, bello."
 face p 0 2
 p
-line "Do you even care about being here?"
+line "Ma a te importa di stare qui?"
 d
-line "I didn't even wanna come here in\nthe first place."
+line "Non volevo neanche\nvenirci in primis."
 set s x -200
 set p x 0
 face d 0 1
 d
-line "It's just not a big deal to me..."
+line "Per me non e' chissa' che roba seria..."
 face p 0 0
 p
-line "Why?|p| If you got a ticket,|p| you may as well be here."
+line "Come mai?|p| Se hai un biglietto,|p| tanto vale stare qui."
 face p 1 0
 p
-line "I don't even like the game,|p| and I'm here."
+line "A me neanche piace il gioco,|p| eppure eccomi qua."
 face d 0 0
 d
-line "See,|p| I actually like the game,|p| but I suck at it."
-line "So I was thinking of giving the ticket I got from a pharmacy to a frie-|p| |skip| "
+line "Vedi,|p| a me in realta' piace giocarci,|p| ma faccio pena."
+line "Percio' stavo pensando di cedere il biglietto che ho preso in una farmacia ad un ami-|p| |skip| "
 face p 0 2
 p
-line "From a pharmacy?"
+line "In una farmacia?"
 d
-line "Yeah,|p| crazy ain't it."
+line "Gia',|p| pazzesco, vero?"
 face p 0 4
 p
-line "It's just sorta baffling to me."
+line "Io sono abbastanza sconcertata."
 face p 0 0
 p
-line "I think if I was buying, say,|p| migraine medication..."
+line "Credo che se stessi comprando, non lo so,|p| medicine per l'emicrania..."
 face p 1 2 
 p
-line "...The last thing I'd be excited about is playing MINDWAVE."
+line "...Giocare a MINDWAVE sarebbe l'ultimo dei miei pensieri."
 d
-line "Yeah, bro.|p| When I saw the ticket in the bottle,|p| I was like,|p| confused."
+line "Gia', sore'.|p| Quando ho visto il biglietto nel flacone,|p| ero come dire,|p| confuso."
 face p 0 2
 p
-line "I'd be confused too."
-line "The first thing that comes to mind when you say that is like..."
-line "An old-ass man,|p| looking at the ticket in his arthritis pills, and going."
+line "Anch'io rimarrei confusa."
+line "Se me lo dici in questo modo la prima cosa che mi viene in mente..."
+line "E' un vecchiaccio,|p| che viene qui dopo aver visto il biglietto nelle sue pillole per l'artrite."
 face p 1 1
 p
-line "MINDWAVE?|p| No idea of what that is.|p| Gonna take my geriatric ass there for sure."
+line "MINDWAVE?|p| Non ho idea di cosa sia.|p| Ma di certo sara' li' che portero' le mie chiappe senili."
 face d 0 1
 d
-line "Bro,|p| is it even safe for someone that old to play the game?"
+line "Fra,|p| ma uno cosi' vecchio potrebbe mai giocare senza rischi?"
 face p 0 2
 p
-line "If it's not safe for me,|p| probably not."
+line "Se non e' senza rischi per me,|p| probabilmente no."
 face p 0 1
 p
-line "Poor grandpa can't even play the game."
+line "Povero nonnino, non ci puo' neanche giocare."
 set s x -70
 set p x 45
 d
-line "They could give the tickets to their grandkids, I guess."
+line "Immagino che potrebbe dare i biglietti ai suoi nipotini."
 face s 1 0
 face p 4 0
 s
-line "Grandpa could do that,|p| but that still comes across as Mindscape being sloppy."
+line "Il nonno potrebbe,|p| ma rimane comunque uno strafalcione di Mindscape."
 face s 0 0
 s
-line "I don't think they should carelessly place tickets where they really don't belong."
+line "Non credo che dovrebbero mettere i biglietti 't think they should carelessly place tickets where they really don't belong."
 face p 0 0
 p
 line "I genuinely forgot you were here."
