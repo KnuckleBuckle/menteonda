@@ -1,16 +1,16 @@
 face p 1 2
 p
-line "Uh,|p| yeah,|p| that's pretty much all I wanted to do.  "
+line "Uh,|p| gia',|p| questo e' tutto quello che volevo dirti.  "
 face p 0 0
 p
-line "So I think I'll leave for now,|p| my friend's waiting for me right there."
+line "Percio' penso che per ora me ne vado,|p| il mio amico mi sta aspettando laggiu'."
 face i 0 0
 i
-line "That's okay with me. "
+line "A me va bene. "
 face p 0 4
 p
-line "Yeah,|p| see you around I guess."
+line "Va bene,|p| spero di vederti in giro."
 i
-line "See you."
+line "Ci si vede."
 setflag _0.pandora.alone 0
 

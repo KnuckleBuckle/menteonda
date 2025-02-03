@@ -1,18 +1,18 @@
 face s 0 0
 s
-line "We'd better get going."
+line "Noi dovremmo andare."
 face s 0 1
 s
-line "Hopefully we'll meet again on the next floor."
+line "Spero che ci rivedremo al piano di sopra."
 face p 0 0
 p
-line "Yeah,|p| good luck Roxy."
+line "Gia',|p| buona fortuna Roxy."
 face r 1 1
 r
-line "Thanks,|p| good luck with the headaches as well."
+line "Grazie,|p| buona fortuna anche a te per i tuoi mal di testa."
 face p 1 2
 p
-line "If they don't stop, I'm gonna have a migraine by the end of the tournament."
+line "Se non finiranno, alla fine del torneo mi verra' un'emicrania."
 face r 0 1
 r
 line "..."

@@ -32,7 +32,7 @@ p
 line "Io sono abbastanza sconcertata."
 face p 0 0
 p
-line "Credo che se stessi comprando, non lo so,|p| medicine per l'emicrania..."
+line "Credo che se stessi comprando, non lo so,|p| medicine per il mal di testa..."
 face p 1 2 
 p
 line "...Giocare a MINDWAVE sarebbe l'ultimo dei miei pensieri."
@@ -62,22 +62,22 @@ line "Immagino che potrebbe dare i biglietti ai suoi nipotini."
 face s 1 0
 face p 4 0
 s
-line "Il nonno potrebbe,|p| ma rimane comunque uno strafalcione di Mindscape."
+line "Il nonno potrebbe,|p| ma rimane che Mindscape ci fa una brutta figura."
 face s 0 0
 s
-line "Non credo che dovrebbero mettere i biglietti 't think they should carelessly place tickets where they really don't belong."
+line "Non penso che dovrebbero mettere i biglietti in spazi a cui non appartengono come se nulla fosse."
 face p 0 0
 p
-line "I genuinely forgot you were here."
+line "Mi ero genuinamente scordata che eri qui."
 face s 2 1
 s
-line "I was just listening to you two chat."
+line "Vi stavo solo ascoltando mentre chiacchieravate."
 face s 0 0
 s
-line "Weren't you talking about your ticket,|p| Dom?"
+line "Non stavi parlando del tuo biglietto,|p| Dom?"
 face d 0 0
 d
-line "Oh yeah,|p| got sidetracked,|p| sorry."
+line "Oh si',|p| mi sono distratto,|p| scusa."
 
 
 

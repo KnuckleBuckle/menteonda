@@ -1,13 +1,13 @@
 
 face p 0 0
 p
-line "Hey,|p| Dom,|p| we gotta go real quick."
+line "Ehi,|p| Dom,|p| dobbiamo sbrigarci."
 face d 0 0
 d
-line "Aight.|p| See you."
+line "E va bene.|p| Ci si vede."
 face s 0 1
 s
-line "Later."
+line "A dopo."
 
 
 

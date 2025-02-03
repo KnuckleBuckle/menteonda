@@ -1,12 +1,12 @@
 face s 0 1
 s
-line "We're back."
+line "Siamo tornati."
 face r 0 0
 r
 line "..."
 face r 1 0
 r
-line "Oh,|p| hey."
+line "Oh,|p| ehi."
 
 goto script 0/lobby/roxy/questions
 

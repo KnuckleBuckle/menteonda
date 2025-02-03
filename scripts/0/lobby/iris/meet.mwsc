@@ -1,24 +1,24 @@
 
 face p 0 0
 p
-line "Uh...|p| I held up that girl in line earlier."
+line "Uh...|p| Prima ho trattenuto in fila quella ragazza."
 face p 1 2
 p
-line "She got kinda annoyed."
+line "Si era abbastanza scocciata."
 face s 1 0
 
 s
-line "That sounds|p| incredibly trivial."
+line "Mi sembra|p| un'enorme sciocchezza."
 face s 0 0
 s
-line "But if it's bothering you,|p| why not apologize?"
+line "Ma se la cosa ti turba,|p| perche' non ti scusi?"
 face s 0 1
 s
-line "Just an idea."
+line "La butto li'."
 face p 1 2
 p
-line "An awful idea."
-line "I can only see myself making things worse."
+line "Pessima idea."
+line "Finirei solo per peggiorare la situazione."
 
 
 
@@ -33,23 +33,23 @@ goto marker branch1E
 
 marker branch1Y
 p
-line "Especially after what happened with Alex.\n"
+line "Specialmente dopo quello che e' successo con Alex.\n"
 goto marker branch1E
 
 marker branch1E
 face s 0 0
 s
-line "Suit yourself."
-line "Just don't be surprised if you run into her in the bracket and completely fumble."
+line "Come vuoi."
+line "Non meravigliarti se poi finisci in un girone contro di lei e vai nel pallone."
 face p 4 0
 p
 line "..."
 face p 0 0
 p
-line "Maybe I should set things straight."
+line "Forse dovrei chiarirmi con lei."
 face s 2 1
 s
-line "Great idea!|p| I'll be over there."
+line "Ottima pensata!|p| Io saro' qui."
 set p x 0
 set s x -250
 wait 1 second
@@ -57,7 +57,7 @@ i
 line "..."
 face p 0 0
 p
-line "*ahem* \n|p|Hey."
+line "*ahem* \n|p|Ehi."
 face i 2 0
 i
 line "..."
@@ -67,15 +67,15 @@ line "..."
 line "*AHEM*"
 face i 0 1
 i
-line "Are you sick?"
+line "Ti senti male?"
 p
-line "No, I was just clearing my throat."
+line "No, mi stavo solo schiarendo la gola."
 i
-line "Oh,|p| OK."
-line "Hi."
+line "Oh,|p| ok."
+line "Ciao."
 face p 1 2
 p
-line "Hi?"
+line "Ciao?"
 
 setflag _0.pandora.alone 1
 setflag _0.iris.met 1

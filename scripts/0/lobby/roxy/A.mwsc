@@ -1,49 +1,49 @@
 face p 0 0
 face s 0 0
 p
-line "Okay,|p| the most important thing I gotta ask."
+line "Ok,|p| devo chiedere una cosa importantissima."
 face p 0 2
 p
-line "Do the headaches ever go away?"
+line "L'emicrania prima o poi svanisce?"
 face r 1 0
 r
-line "Headaches?|p| Are you sure you're hydrated enough?"
+line "Emicrania?|p| Sei sicura di aver bevuto a sufficienza?"
 face p 1 2
 p
-line "I'm plenty hydrated..."
+line "Piu' che a sufficienza..."
 face r 0 0
 r
-line "I don't know many people who get headaches from MINDWAVE."
+line "Non conosco molta gente che ha avuto emicranie per MINDWAVE."
 face r 0 1
 r
-line "I've seen it happen,|p| but only after longer sessions."
+line "L'ho visto accadere,|p| ma solo dopo sessioni piu' lunghe."
 face p 0 2
 p
-line "It's happened to me both times I've tried to play."
-line "Happened just a bit ago."
+line "A me e' avvenuto entrambe le volte in cui ho provato a giocare."
+line "Mi e' appena successo poco fa."
 face p 0 4
 face s 0 2
 s
-line "Maybe you're hurting your own head by overcomplicating things."
+line "Forse la testa ti fa male a forza dei filmini mentali che ti fai."
 face p 1 2
 p
-line "Or maybe MINDWAVE is just unsafe and unhealthy to play."
+line "O forse MINDWAVE e' un gioco pericoloso e nocivo alla salute."
 face r 1 0
 r
-line "You're both right, to an extent."
-line "Your experience with MINDWAVE is contingent on the headspace you're in."
+line "In parte avete entrambi ragione."
+line "La tua esperienza su MINDWAVE dipende dalla tua mentalita'."
 face r 1 1
 r
-line "You're not gonna have a good experience when you're opposed to playing it."
+line "La tua esperienza non sara' piacevole se sei contraria a giocarci."
 face r 1 0
 r
-line "Though inversely,|p| adapting yourself to MINDWAVE too much can also be harmful."
+line "Ma d'altro canto,|p| anche conformarsi troppo a MINDWAVE puo' essere dannoso."
 face s 1 0
 s
-line "You mean there's long term side effects to playing?"
+line "Vuoi dire che giocarci ha complicanze a lungo termine?"
 face p 1 2
 p
-line "Yeahhhh, this isn't really swaying me."
+line "Siiii', non sono molto convinta."
 
 
 setflag _0.roxy.read.A 1

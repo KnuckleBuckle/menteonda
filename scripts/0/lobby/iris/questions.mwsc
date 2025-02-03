@@ -22,42 +22,42 @@ goto marker ABA
 
 
 marker 0
-option add name "APOLOGIZE" color pandora script "0/lobby/iris/A"
-option add name "Bye" script "0/lobby/iris/bye_before_apologize"
+option add name "CHIEDI SCUSA" color pandora script "0/lobby/iris/A"
+option add name "Ciao" script "0/lobby/iris/bye_before_apologize"
 goto marker end
 
 
 marker A
-option add name "Why Apologize?" color pandora script "0/lobby/iris/AA"
-option add name "Necklace" color pandora script "0/lobby/iris/AB"
+option add name "Perche' Scusarsi?" color pandora script "0/lobby/iris/AA"
+option add name "Collana" color pandora script "0/lobby/iris/AB"
 options shuffle
-option add name "Feel stupid and leave" script "0/lobby/iris/bye_after_apologize"
+option add name "Sentiti stupida e vattene" script "0/lobby/iris/bye_after_apologize"
 goto marker end
 
 marker A2
-option add name "Why Apologize?" color pandora script "0/lobby/iris/AA"
-option add name "Necklace" color pandora script "0/lobby/iris/AB"
+option add name "Perche' Scusarsi?" color pandora script "0/lobby/iris/AA"
+option add name "Collana" color pandora script "0/lobby/iris/AB"
 options shuffle
-option add name "Bye" script "0/lobby/iris/bye_after_apologize_and_leave"
+option add name "Ciao" script "0/lobby/iris/bye_after_apologize_and_leave"
 goto marker end
 
 marker AA
-option add name "MINDWAVE Tournament" color pandora script "0/lobby/iris/AAA"
-option add name "Bye" script "0/lobby/iris/bye"
+option add name "Torneo MINDWAVE" color pandora script "0/lobby/iris/AAA"
+option add name "Ciao" script "0/lobby/iris/bye"
 goto marker end
 
 
 
 marker AB
-option add name "MINDWAVE Tournament" color pandora script "0/lobby/iris/ABA"
-option add name "Bye" script "0/lobby/iris/bye"
+option add name "Torneo MINDWAVE" color pandora script "0/lobby/iris/ABA"
+option add name "Ciao" script "0/lobby/iris/bye"
 goto marker end
 
 marker AAA
-option add name "Bye" script "0/lobby/iris/AAAA"
+option add name "Ciao" script "0/lobby/iris/AAAA"
 goto marker end
 marker ABA
-option add name "Bye" script "0/lobby/iris/ABAA"
+option add name "Ciao" script "0/lobby/iris/ABAA"
 goto marker end
 
 

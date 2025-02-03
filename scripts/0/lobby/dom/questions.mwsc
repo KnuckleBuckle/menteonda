@@ -13,25 +13,25 @@ goto marker AB
 
 
 marker 0
-option add name "Your song..." color pandora script "0/lobby/dom/A"
+option add name "La tua canzone..." color pandora script "0/lobby/dom/A"
 
 options shuffle
-option add name "Bye" script "0/lobby/dom/bye"
+option add name "Ciao" script "0/lobby/dom/bye"
 goto marker end
 
 marker A
-option add name "The Tournament" color pandora script "0/lobby/dom/AB"
-option add name "We're musicians, too" color smalls script "0/lobby/dom/AA"
+option add name "Il Torneo" color pandora script "0/lobby/dom/AB"
+option add name "Anche noi siamo musicisti" color smalls script "0/lobby/dom/AA"
 options shuffle
-option add name "Bye" script "0/lobby/dom/bye"
+option add name "Ciao" script "0/lobby/dom/bye"
 goto marker end
 
 marker AA
-option add name "Bye" script "0/lobby/dom/AAA"
+option add name "Ciao" script "0/lobby/dom/AAA"
 goto marker end
 
 marker AB
-option add name "Bye" script "0/lobby/dom/ABA"
+option add name "Ciao" script "0/lobby/dom/ABA"
 goto marker end
 
 

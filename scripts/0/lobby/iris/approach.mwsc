@@ -9,13 +9,13 @@ goto marker seenQ1Y
 marker seenQ1N
 face p 4 0
 p
-line "|style color gray|(Okay, I'm gonna try this again)"
+line "|style color gray|(Ok, ci riprovo)"
 face p 1 2
 p
-line "Hey."
+line "Ehi."
 face i 0 2
 i
-line "...Hi again..."
+line "...Di nuovo ciao..."
 goto marker end
 
 marker seenQ1Y
@@ -26,14 +26,14 @@ goto marker awkwardHi
 
 face i 0 1
 i
-line "Did you find anything cool?"
+line "Trovato niente di figo?"
 face p 0 0
 p
-line "Not really."
-line "Bunch of cables on the ceiling."
-line "Not even one vending machine here."
+line "Non proprio."
+line "Un ammasso di cavi sul soffitto."
+line "Nemmeno una macchinetta."
 i
-line "Pretty dire. "
+line "Brutta storia. "
 goto marker end
 
 

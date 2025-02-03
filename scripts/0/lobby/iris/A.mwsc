@@ -1,57 +1,57 @@
 face p 0 2
 p
-line "...My bad for holding up the line earlier."
+line "...Scusa se prima ho bloccato la fila."
 face i 0 0
 i
 line "..."
 face i 0 1
 i
-line "OK."
-line "Honestly,|p| I don't think I cared about that back then."
-line "Much less now."
-line "If anything,|p| the fact that you're apologizing bothers me."
-line "You're making it into a big deal by bringing it up."
-line "Now I have the social obligation to make you feel better about something I don't remember."
+line "Ok."
+line "Sinceramente,|p| non penso che me ne fregava qualcosa."
+line "Tantomeno adesso."
+line "Al contrario,|p| mi da' fastidio che mi chiedi scusa."
+line "Tirando fuori questa storia l'hai solo ingigantita."
+line "Ora sono socialmente obbligata a farti stare meglio riguardo qualcosa che non ricordo."
 face i 0 0
 i
 line "..."
 p
 line "..."
 i
-line "So...|p| apology taken,|p| if that's what you wanted to hear."
+line "Per cui...|p| scuse accettate,|p| se e' quello che volevi sentire."
 p
-line "Okay you're being a little more aggro about this than I expected."
+line "Ok sei un po' piu' scazzata di quanto mi aspettassi."
 i
-line "Yeah 'cuz you don't know me."
+line "Si', e' perche' non mi conosci."
 p
-line "I was just trying to apologize."
+line "Stavo solo cercando di scusarmi."
 face i 0 0
 i
-line "I don't like being put into uncomfortable social situations."
+line "Non mi piace venire infilata in situazioni sociali disagianti."
 face p 0 3
 p
-line "YOU were the one who made it uncomfortable."
+line "Sei stata TU a renderla disagiante."
 face p 1 2
 p
-line "You were the one who made it into a whole thing."
+line "Sei stata tu a renderlo un dramma."
 face i 0 2
 i
-line "I mean..."
+line "Capiamoci..."
 face i 1 0
 i
-line "OK.|p| Sorry."
+line "Ok.|p| Scusa."
 face i 2 0
 i
-line "I wasn't trying to be rude."
+line "Non volevo essere maleducata."
 face p 0 0
 p
-line "I feel you."
+line "Ti capisco."
 face p 0 1
 p
-line "You talk way more than me though."
+line "Anche se parli molto piu' di me."
 face i 0 3
 i
-line "True."
+line "Vero."
 face p 0 0
 p
 line "..."
@@ -60,7 +60,7 @@ setflag _0.iris.read.A 1
 setflag _0.iris.branch A
 function lobby_tick_time
 p
-line "|style color gray|(If I just leave now I think I'd feel kinda stupid.)"
+line "|style color gray|(Se me ne andassi ora mi sentirei abbastanza scema.)"
 
 goto script 0/lobby/iris/questions
 

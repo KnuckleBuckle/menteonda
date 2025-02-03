@@ -1,50 +1,50 @@
 face p 0 0
 p
-line "Do I even have a chance at winning if I've got like,|p| zero experience?"
+line "Ma ho qualche chance di vincere,|p| se la mia esperienza e' pari a zero?"
 face r 0 0
 r
-line "Well...|p| it's possible?"
+line "Beh...|p| puo' essere?"
 face r 0 1
 r
-line "There's likely a lotta inexperienced people in this place."
+line "E' probabile che in questo posto ci saranno un sacco di inesperti."
 face s 2 1
 s
-line "Yeah,|p| you just gotta hope you don't get matched up with a pro immediately."
+line "Gia',|p| devi solo sperare che non ti mettano subito in contro con un pro."
 face s 0 0
 s
-line "You'll get your experience while you work your way up the tower."
+line "Otterrai l'esperienza che ti serve mentre scalerai la torre."
 face p 1 0
 p
-line "I can't even play the game without it hurting my head."
+line "Non riesco neanche a giocare senza che la testa mi pulsi."
 face p 1 2
 p
-line "I'm not just suddenly gonna become a pro in a few battles."
+line "Non diventero' una pro dal nulla dopo un paio di scontri."
 face r 1 0
 r
-line "In my experience,|p| I've found that it takes a specific type of person to play MINDWAVE professionally."
-line "Complacency is a big issue when you're used to playing with the same people."
+line "Secondo la mia esperienza,|p| ho notato che per giocare competitivamente a MINDWAVE occorre un tipo di personalita' specifico."
+line "Quando si e' abituati a giocare con le stesse persone si corre il grosso rischio di adagiarsi sugli allori."
 face r 1 1
 r
-line "Everyone's different,|p| so I account for that by playing at different arcades around the city."
+line "Ogni individuo e' diverso,|p| percio' gioco a vari arcade in citta' per tenermi preparata."
 face s 1 0
 s
-line "True,|p| I've wanted to visit other arcades to meet some new opponents."
+line "Vero,|p| io volevo visitare altri arcade per incontrare nuovi avversari."
 face r 3 1
 r
-line "Actually,|p| the arcade I've seen you at has been great to visit for opponent variety."
+line "A dire la verita',|p| l'arcade in cui ti ho visto e' un'ottima meta in termini di varieta' degli avversari."
 face r 3 0
 r
-line "You might just be going at the wrong times."
-line "I've played against a few people there who almost completely threw me off."
+line "Forse e' solo che ci vai negli orari sbagliati."
+line "Ho giocato contro alcuni che mi stavano quasi per sbaragliare."
 face s 0 1
 s
-line "On that note,|p| which arcade have you found has the worst MINDWAVE players?"
+line "Rimanendo in tema,|p| qual e' l'arcade coi peggiori giocatori di MINDWAVE che hai trovato?"
 face r 2 1
 r
-line "Definitely North Mall."
+line "Senza dubbio quello del Centro Commerciale Nord."
 face r 2 0
 r
-line "People in North Blackout tend to view MINDWAVE as more of a gimmick."
+line "Quelli di Blackout Nord tendono a vedere MINDWAVE piu' come una nuova trovata."
 
 checkflag _0.abbie.read.A 1
 goto marker branch1y
@@ -54,40 +54,40 @@ marker branch1y
 
 face p 0 0
 p
-line "Honestly not that surprising."
+line "Sinceramente non sono molto sorpresa."
 face s 0 0
 s
-line "I've heard the lines there aren't great either."
+line "Ho sentito che anche la fila non e' il massimo."
 p
-line "This is a shot in the dark,|p| but have you ever played against this one white haired girl there?"
+line "La butto un po' a caso,|p| ma hai mai giocato li' contro una ragazza dai capelli bianchi?"
 face r 2 0
 r
-line "What, like,|p| someone elderly?"
+line "Ma chi e',|p| una tipa anziana?"
 face p 1 0
 p
-line "No,|p| like,|p| someone our age."
+line "No,|p| intendo,|p| della nostra eta'."
 face p 0 1
 p
-line "White hair,|p| bubbly personality,|p| probably wearing pink and being really loud."
+line "Capelli bianchi,|p| carattere esuberante,|p| probabilmente vestita di rosa e che fa molto chiasso."
 face s 0 1
 s
-line "Potentially crying at a MINDWAVE machine."
+line "Potrebbe aver pianto davanti ad un macchinario MINDWAVE."
 face r 3 1
 r
-line "No,|p| I don't think I have."
+line "No,|p| credo di no."
 face r 2 0
 r
-line "Is she an opponent you're worried about or something? "
+line "Per caso e' un'avversaria che ti preoccupa? "
 face p 0 1
 p
-line "Nah,|p| not really,|p| just gauging my odds."
+line "Nah,|p| non proprio,|p| sto solo valutando le mie possibilità."
 
 goto marker branch1e
 
 marker branch1n
 face r 0 1
 r
-line "It's also super expensive.|p|\nWould not recommend it."
+line "E' anche parecchio costoso.|p|\nNon lo consiglio."
 
 goto marker branch1e
 

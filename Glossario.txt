@@ -4,6 +4,8 @@ CODICI
 |p| = PAUSA
 \n = LINEBREAK
 |skip| = SKIP
+|style color gray| = TESTO COLOR GRIGIO
+marker branchX = TESTO SEGUENTE FA RIFERIMENTO A UN BRANCH SPECIFICO
 
 
 
@@ -26,13 +28,13 @@ Microgame = Microgioco
 
 Interface = Interfaccia
 
-That's what the Interface is for! = L'Interfaccia serve a questo!
+Machine = Macchinario (es. Mindwave Machine - Macchinario Mindwave)
+
+That's what the Interface is for! = L'Interfaccia serve a questo! . sezione tutorial
 
 SLAM to attention = (gioco di parole con snap to attention) - sezione tutorial
 
-Purple Girl = Ragazza in Viola - Abbie
-
-Arcade = Cabinato/i
+Purple Girl = Ragazza in Viola (placeholder) - Abbie
 
 Mall = Centro Commerciale (placeholder) - Abbie e altri
 
@@ -44,8 +46,6 @@ Sparkly yarn = Filato sfavillante - Abbie
 
 Ball of sparkly yarn = Gomitolo sfavillante - Abbie
 
-Machine = Macchinario (es. Mindwave Machine - Macchinario Mindwave)
-
 Bad parts (of the city) = Quartieri malfamati - Abbie
 
 Plushy = Peluche - Abbie
@@ -55,6 +55,22 @@ Hell yeah = Sì cazzo - Abbie
 Transit pass = Abbonamento - Abbie
 
 Open-back = (Cuffie) aperte - Alex
+
+Varsity Team = Team della scuola - Roxy
+
+Headspace = Mentalità - Roxy
+
+Professional (relativo al giocare a Mindwave) = Competitivo - Roxy
+
+Side effect = Complicanza - Roxy
+
+Mental model = Forma mentis - Roxy
+
+Memory channeling = Canalizzazione dei ricordi - Roxy
+
+Show = Serie (riferito a Fortress of Sorrow) - Kat&Slate
+
+
 
 
 

@@ -7,14 +7,14 @@ goto marker branch26n
 marker branch26y
 
 s
-line "Side effects aside,|p| you got any pointers for Panda? "
+line "Complicanze a parte,|p| hai altre dritte per Panda? "
 
 goto marker branch26e
 
 marker branch26n
 
 s
-line "Side effects aside,|p| you got any pointers for Pandora? "
+line "Complicanze a parte,|p| hai altre dritte per Pandora? "
 
 goto marker branch26e
 
@@ -22,65 +22,65 @@ marker branch26e
 
 face p 1 2
 p
-line "Are you really just gonna ignore that MINDWAVE could be like,|p| rotting your brain or something?"
+line "Sul serio stai facendo finta che MINDWAVE potrebbe non so,|p| farti marcire il cervello?"
 face s 2 1
 s
-line "It's no big deal.|p| I've been fine so far. "
+line "Nulla di grave.|p| Io finora sono stato bene. "
 face p 0 4
 p
-line "I don't understand you."
+line "Io non ti capisco."
 face s 0 1
 s
-line "You don't understand MINDWAVE either."
-line "You need all the help you can get."
+line "E tu non capisci MINDWAVE."
+line "Hai bisogno di tutto l'aiuto possibile."
 face r 2 0
 r
-line "It's all intuition really."
-line "Everyone has a different mental model of how MINDWAVE interacts with their brains."
+line "E' tutta questione d'intuito."
+line "Tutti noi abbiamo una forma mentis diversa tramite cui MINDWAVE interagisce con il nostro cervello."
 face r 3 0
 r
-line "That'd be a good place to start."
+line "Questo e' un ottimo punto da cui partire."
 face p 0 0
 p
-line "Alright,|p| how do I form my own mental model?"
+line "D'accordo,|p| come modello la mia forma mentis?"
 face r 2 0
 r
-line "It's not something explaining would help."
-line "Just play the game."
+line "Spiegartelo non ti sara' d'aiuto."
+line "Bastera' giocare."
 face p 4 0
 face s 0 0
 s
-line "I get that."
-line "Just try to imagine your thoughts are liquid."
-line "That liquid is more or less viscous depending on how clear your head is."
+line "Ti posso capire."
+line "Prova ad immaginare che i tuoi pensieri siano un liquido."
+line "Il liquido e' piu' o meno viscoso in base a quanto la tua mente sia sgombra."
 face r 3 0
 r
-line "I don't get it."
+line "Non l'ho capito."
 face p 4 0
 p
-line "What,|p| like your brain juice?"
+line "Che roba e',|p| succo cerebrale?"
 face s 2 0
 s
-line "Nevermind.|p|\nI don't want to talk about this."
+line "Lasciamo perdere.|p|\nNon mi va di parlarne."
 r
-line "Anterior cingulate cortex exercises are also helpful no matter your playstyle."
+line "Anche allenare la corteccia cingolata anteriore ti aiutera' a prescindere da come giochi."
 face s 0 0
 face p 0 0
 p
-line "Nope, you've completely lost me."
+line "No, non ti seguo minimamente."
 r
-line "It's an essential exercise for memory channeling."
+line "E' un esercizio fondamentale per la canalizzazione dei ricordi."
 p
 line "..."
 r
-line "Oh my bad,|p| I'm used to talking to people who actually know about MINDWAVE."
+line "Oh scusa,|p| sono abituata a parlare con gente che effettivamente conosce MINDWAVE."
 face p 1 0
 p
-line "Okay,|p| harsh."
+line "Ok,|p| questa brucia."
 face r 0 0
 r
-line "It's not an insult."
-line "I just can't give you much advice without that foundational knowledge."
+line "Non ti stavo insultando."
+line "E' solo che non posso suggerirti un granche' se sei priva di queste conoscenze basilari."
 
 setflag _0.roxy.read.AB 1
 setflag _0.roxy.branch AB

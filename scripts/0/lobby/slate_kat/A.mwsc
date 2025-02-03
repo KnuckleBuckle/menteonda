@@ -6,14 +6,14 @@ goto marker branch22n
 marker branch22y
 
 s
-line "Panda,|p| you and Slate should\ntell me about this show."
+line "Panda,|p| tu e Slate dovreste\nparlarmi di questa serie."
 
 goto marker branch22e
 
 marker branch22n
 
 s
-line "Pandora,|p| you and Slate should\ntell me about this show."
+line "Pandora,|p| tu e Slate dovreste\nparlarmi di questo show."
 
 goto marker branch22e
 
@@ -23,23 +23,23 @@ marker branch22e
 
 face p 0 2
 p
-line "We're at this crazy elusive event\nfull of horns and smiley faces..."
+line "Siamo in questo evento ultra esclusivo\npieno di corna e faccine sorridenti..."
 
 
 face p 4 0
 p
-line "...but you wanna talk about cartoons."
+line "...e tu vorresti parlare di cartoni."
 face k 0 0
 face p 1 0
 p
-line "Besides,|p| I only remember\nvague details."
+line "E tra l'altro,|p| mi ricordo solo\ndettagli confusi."
 
 
 face l 0 0
 l
-line "Don't even worry.|p| I love\ntalking about this show."
-line "Fortress of Sorrow, is this old\n30's anime about an eternal war."
-line "It's awesome.|p| It mixes medieval\nstuff with cyberpunk stuff."
+line "Non preoccuparti.|p| Adoro\nparlare di quella serie."
+line "Fortress of Sorrow, è un vecchio anime degli anni '30\nche parla di una guerra senza fine."
+line "E' fighissimo.|p| Mischia roba\nmedievale con quella cyberpunk."
 
 
 
@@ -54,16 +54,16 @@ goto marker branch26n
 marker branch26y
 
 s
-line "How do you know about this show, Panda?"
-line "It doesn't seem like your thing."
+line "Come fai a sapere di questa serie, Panda?"
+line "Non mi sembra del tuo genere."
 
 goto marker branch26e
 
 marker branch26n
 
 s
-line "How do you know about this show, Pandora?"
-line "It doesn't seem like your thing."
+line "Come fai a sapere di questa serie, Pandora?"
+line "Non mi sembra del tuo genere."
 
 goto marker branch26e
 
@@ -71,37 +71,37 @@ marker branch26e
 
 face p 1 2
 p
-line "It's not like it was ever my\nfavorite thing in the world."
+line "Non e' che per me fosse la cosa\npiu' bella del mondo."
 face p 0 0
 p
-line "My dad had a copy lying around,|p|\nso I'd watch it sometimes."
+line "Mio padre ne teneva una copia,|p|\npercio' la guardavo qualche volta."
 face k 0 2
 k
-line "How old is your dad??"
+line "Quanti anni ha tu padre??"
 face p 0 2
 p
-line "I dunno,|p| like 40 or something."
+line "Non lo so,|p| ne avra' tipo 40 ."
 l
-line "Duuuude,|p| Pandora,|p| you totally agree with me about the Cybo-Mancers being the cooler faction right?"
+line "Assuuuurdo,|p| Pandora,|p| tu sicuramente sei d'accordo che i Cybo-Mancers sono la fazione piu' figa, vero?"
 face p 1 0
 p
-line "I barely remember anything about the other one,|p| so I guess?"
+line "Mi ricordo a stento quell'altra,|p| quindi direi di si'?"
 face p 0 2
 p
-line "They were the human-demon hybrids,|p| right?"
+line "Erano gli ibridi tra umani e demoni,|p| giusto?"
 face k 0 0
 k
-line "No,|p| that's \"Slate's\" faction."
-line "We're talking about the Knellborn.|p| They're the mechanical spirits."
+line "No,|p| quella e' la fazione di \"Slate.\""
+line "Noi ci riferiamo ai Knellborn.|p| Sono gli spiriti meccanizzati."
 face s 0 0
 face p 4 0
 p
-line "Oh yeah."
+line "Oh, gia'."
 k
-line "\"Slate\" is a Cybo-Mancer."
+line "\"Slate\" e' un Cybo-Mancer."
 face p 0 0
 p
-line "Uh,|p| okay."
+line "Uh,|p| ok."
 face s 0 1
 checkflag nickname_panda 1
 goto marker branch29y
@@ -110,40 +110,40 @@ goto marker branch29n
 marker branch29y
 
 s
-line "Panda,|p| we gotta watch\nthis show some time."
+line "Panda,|p| uno di questi giorni\ndobbiamo vedere questa serie."
 
 goto marker branch29e
 
 marker branch29n
 
 s
-line "Pandora,|p| we gotta watch\nthis show some time."
+line "Pandora,|p| uno di questi giorni\ndobbiamo vedere questa serie."
 
 goto marker branch29e
 
 marker branch29e
 
 l
-line "Sweeet.|p| That means the\nfour of us are ALL fans."
-line "Which means there's probably forty thousand fans across the city now."
+line "Evvaaai.|p| Questo vuol dire che noi\nquattro siamo TUTTI dei fan."
+line "Il che significa che in tutta la citta' ci potrebbero essere quarantamila fan."
 face k 0 1
 k
-line "Still doesn't make sense."
+line "La cosa continua a non avere senso."
 
 k
-line "But it'd be thirty thousand.|p|\nI'm not a fan."
+line "E comunque sarebbero trentamila.|p|\nIo non sono una fan."
 face l 1 0
 l
-line "Nope.|p| You're a total\nF.O.S nerd.|p| You know it all."
+line "No no.|p| Sei appassionatissima\ndi F.O.S.|p| Sai tutto della serie."
 face p 0 0
 l
-line "You're an honorary fan."
+line "Sei una fan onoraria."
 k
-line "Ethan,|p| I only know a thing about \nit because you never stop \nblabbing about it."
-line "You're lucky I tolerate it."
+line "Ethan,|p| io ne so qualcosa perche' \ntu non smetti mai di \nparlarne a ruota libera."
+line "Ringrazia che ti sopporto."
 l
-line "Absolutely, dude."
-line "When I win,|p| I'll buy you something\nnice to show my appreciation."
+line "Ma e' ovvio, figurati."
+line "Quando vincero',|p| ti faro' un bel\nregalo in segno di riconoscenza."
 
 setflag _0.slate_kat.read.A 1
 setflag _0.slate_kat.branch A

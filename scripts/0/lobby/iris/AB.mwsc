@@ -1,45 +1,45 @@
 face p 0 0
 p
-line "I noticed your necklace."
-line "Are you religious?"
+line "Mi sono accorta della tua collana."
+line "Sei credente?"
 face p 1 0
 p
-line "Not that I'd have a problem with that."
+line "Non che la cosa mi crei problemi."
 face i 0 1
 i
-line "I just think it looks cool."
-line "Crosses are a cool shape."
-line "I'm probably closer to being agnostic,|p| if anything."
+line "È solo che mi piace."
+line "Le croci sono una bella forma."
+line "Probabilmente agnostica sarebbe piu' adeguato,|p| al limite."
 face i 1 0
 i
-line "Though,|p| I'm not the type of person to think a lot about that stuff."
+line "Comunque,|p| non sono il tipo di persona che riflette molto su queste cose."
 p
-line "Yeah,|p| same."
+line "Gia',|p| pure io."
 face i 0 3
 i
-line "My parents are pretty religious."
+line "I miei genitori sono molto religiosi."
 face i 1 0
 i
-line "They think this place is some sort of satanic site."
+line "Credono che questo posto sia un ritrovo satanico."
 face i 2 0
 i
-line "Because of the horns."
-line "...and the big creepy eye that appears sometimes."
+line "Per via delle corna."
+line "...e il grosso occhio inquietante che appare ogni tanto."
 face i 0 3
 i
-line "But they let me go when I reminded them about the money."
+line "Ma quando gli ho ricordato dei soldi mi hanno permesso di andare."
 face p 0 0
 p
-line "I mean,|p| this IS an evil-ass building."
+line "Voglio dire,|p| questo E' un edificio maligno del cazzo."
 face i 0 1
 i
-line "I prefer it over yet another gray slab clogging the skyline."
-line "Besides,|p| I'd expect you to be the last person to criticize how the tower looks."
+line "Lo preferisco rispetto all'ennesima costruzione grigia che intralcia l'orizzonte."
+line "Inoltre,|p| sei l'ultima persona che pensavo avrebbe criticato l'aspetto della torre."
 face p 0 2
 p
 line "Huh?"
 i
-line "With those colors and the spikes,|p| you look like you're trying to cosplay the tower."
+line "Con quei colori e quelle borchie,|p| sembra che stai provando a fare un cosplay della torre."
 checkflag _0.abbie.met 1
 goto marker branch1Y
 goto marker branch1N
@@ -47,43 +47,43 @@ goto marker branch1N
 marker branch1Y
 face p 0 2
 p
-line "You're literally the second person to tell me this tonight."
+line "Sei letteralmente la seconda persona a dirmelo stasera."
 face p 1 0 
 p
-line "I'm not even offended.|p| I'm just like,|p| shocked?"
+line "Non sono nemmeno offesa.|p| Mi sento piu',|p| sconcertata?"
 face i 0 1
 i
-line "Yeah I meant no offense.|p| It's not how I'd dress but it's cool."
+line "Lo so, non era un insulto.|p| Non e' come mi vestirei io ma ci sta."
 face p 0 0
 p
-line "I just don't think we look that similar?"
-line "Like,|p| I guess the purple's there,|p| but that's it."
-line "And that's a pretty superficial similarity."
+line "E' solo che non penso che siamo cosi' tanto identici?"
+line "Voglio dire,|p| abbiamo il viola in comune,|p| ma poi basta."
+line "Ed è una somiglianza parecchio generica."
 face p 0 2
 p
-line "Mindscape has all this yellow and fuchsia going on which makes it look like..."
-line "More of an evil circus,|p| or something.|p| No way I look that insane."
+line "Mindscape ha tutto questo giallo e fucsia in giro che lo fa sembrare piu'..."
+line "Come un circo malvagio,|p| o giu' di li'.|p| Col cavolo che sembro cosi' pazza."
 face p 1 0
 p
-line "No way I look that soulless or insane."
+line "Col cavolo che sembro cosi' pazza o morta dentro."
 goto marker branch1E
 
 marker branch1N
 face p 0 0
 p
-line "What?|p| No way."
+line "Cosa?|p| Col cavolo."
 face p 1 0
 p
-line "No way I look that soulless or insane."
+line "Col cavolo che sembro cosi'pazza o morta dentro."
 face p 1 2
 p
-line "This tower has like,|p| more of an evil circus vibe."
+line "Questa torre mi da piu',|p| un aria da circo malvagio."
 goto marker branch1E
 
 marker branch1E
 i
-line "Fair.|p| I'm not fond of Mindscape either."
-line "I like their game though."
+line "Onesto.|p| Neanch'io vado pazza per Mindscape."
+line "Pero' mi piace il loro gioco."
 
 setflag _0.iris.read.AB 1
 setflag _0.iris.branch AB

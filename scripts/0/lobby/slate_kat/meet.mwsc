@@ -1,10 +1,10 @@
 set k name mystery
 face p 0 0
 p
-line "I think I recognize that tall\nguy over there."
+line "Credo di riconoscere quello\nspilungone laggiu'."
 face s 0 0
 s
-line "The one chatting with that\npink haired girl?"
+line "Quello che sta conversando con\n la ragazza dai capelli rosa?"
 
 checkflag _0.iris.met 1
 goto marker branch1y
@@ -14,10 +14,10 @@ marker branch1y
 
 face s 0 3
 s
-line "Was he someone else you held up in line or something?"
+line "E' un altro che hai trattenuto in fila per caso?"
 face p 1 0
 p
-line "No man shut up.|p| He's like-"
+line "No, e finiscila.|p| Praticamente-"
 
 goto marker branch1e
 
@@ -28,51 +28,51 @@ marker branch1e
 face l 1 0
 face p 0 1
 p
-line "He's cosplaying a character\nthat I recognize."
+line "Fa il cosplay di un\npersonaggio che conosco."
 face s 0 0
 s
 line "Oh?"
-line "Who's that?"
+line "Chi sarebbe?"
 face p 1 0
 p
-line "He's \"Slate.\"|p| Just a character from this cartoon I know. "
+line "E' \"Slate.\"|p| Un personaggio che viene da un cartone che ho visto. "
 s
-line "What's it called? "
+line "Come si chiamava? "
 face p 0 0
 p
-line "Uh,|p| I think it was\nFortress of Sorrow.\n"
+line "Uh,|p| credo fosse\nFortress of Sorrow.\n"
 face s 0 1
 s
-line "Doesn't ring a bell,|p| sorry."
+line "Non mi dice nulla,|p| mi spiace."
 
 
 
 
 s
-line "Why don't you nerd out\nabout it with him?"
+line "Perche' non vai a nerdare\ninsieme a lui?"
 face p 1 0
 p
-line "I don't \"nerd out.\""
+line "Io non sono una che \"nerda.\""
 face p 0 2
 p
-line "...but y'know,|p| I do wanna\ntell him I like the cosplay."
+line "...ma sai che c'e',|p| vorrei dirgli\n che mi piace il suo cosplay."
 face p 0 0
 p
 line "*ahem*...|p|\nYo!"
 l
-line "Kaatttt,|p| I'm telling you,|p| these\ntubes probably transport-|p 30| |skip| "
+line "Kaatttt,|p| fidati,|p| questi tubi\nprobabilmente portano a-|p 30| |skip| "
 face k 0 0
 checkflag _0.chars_met 0
 goto marker 2y
 goto marker 2n
 marker 2y
 k
-line "Ethan,|p| I think that girl is trying\nto get your attention."
+line "Ethan,|p| mi sa che quella ragazza sta tentando\ndi attirare la tua attenzione."
 setflag _0.Ethan 1
 goto marker 2e
 marker 2n
 k
-line "I think that girl is trying\nto get your attention."
+line "Mi sa che quella ragazza sta tentando\ndi attirare la tua attenzione."
 
 marker 2e
 
@@ -80,39 +80,39 @@ marker 2e
 
 face l 0 0
 l
-line "For real?"
+line "Sul serio?"
 p
-line "Hey,|p| is that a Slate cosplay?"
+line "Ehi,|p| quello e' un cosplay di Slate?"
 l
-line "Yes it is!|p| Made it myself."
+line "Proprio cosi'!|p| L'ho fatto con le mie mani."
 face l 1 0
 l
-line "Kat I told you SOMEONE would\nrecognize Fortress of Sorrow."
+line "Kat, te l'avevo detto che QUALCUNO\navvrebbe riconosciuto Fortress of Sorrow."
 face k 0 1
 set k name kat
 k
-line "Yeah one out of the thousand\nsomething people here."
+line "Certo, una persona su mille\ntra tutti i presenti."
 l
-line "Dude,|p| you gotta consider the\nsample size. "
+line "Eddai,|p| devi tenere conto che\nsi parla di un campione. "
 face l 0 0
 l
-line "There's only a millionth of Blackout's\nentire population here right now."
+line "Qui abbiamo solo un milionesimo di tutta\nla popolazione di Blackout."
 face l 1 0
 l
-line "One fan here equals ten\nthousand fans across the city. "
+line "Un fan qui equivale a diecimila\nfan in tutta la citta'. "
 face k 0 2
 k
-line "That doesn't make sense."
-line "Even if it did,|p| you'd still be a dork\nfor wearing that here."
+line "Non ha alcun senso."
+line "E anche se lo avesse,|p| rimani comunque\nuno scemo per essertelo messo."
 
 
 face s 0 1
 s
-line "I'm Smalls by the way,|p| and your resident Fortress of Sorrow fanatic here is Pandora."
+line "Comunque io sono Smalls,|p| e la fanatica di Fortress of Sorrow qui presente e' Pandora."
 face l 0 0
 face p 1 0
 p
-line "I can introduce myself, y'know."
+line "Lo sai, posso presentarmi da sola."
 
 
 setflag _0.slate_kat.met 1

@@ -1,67 +1,67 @@
 face s 0 0
 s
-line "I'm curious,|p| you're a part of your school's MINDWAVE team, right?"
+line "Sono curioso,|p| tu fai part del team di MINDWAVE della tua scuola, giusto?"
 face r 2 1
 r
-line "Yeah."
-line "We do a lotta mind exercises to help us perform better."
+line "Esatto."
+line "Facciamo molti esercizi mentali per avere prestazioni migliori."
 face s 0 0
 face p 0 0
 p
-line "What, those interior cortex exercises you were talking about earlier?"
+line "Quali, quegli esercizi alla corteccia interiore di cui parlavi prima?"
 face r 2 1
 r
-line "Uh,|p| yeah those,|p| some days that's all we do."
+line "Uh,|p| si' quelli,|p| in certi giorni facciamo solo questo."
 face r 2 0
 r
-line "Our team is underfunded,|p| so we only have one machine to use between us."
+line "Il nostro team e' a corto di fondi,|p| quindi abbiamo solo un macchinario da condividere."
 face s 0 2
 s
-line "You're lucky you managed to get a ticket with as much experience as you have."
+line "Nonostante la tua esperienza sei stata fortunata a riuscire a procurarti un biglietto."
 face r 0 3
 r
-line "It wasn't luck at all actually."
+line "In realta' la fortuna non c'entra affatto."
 face s 0 0
 r
-line "I dumped a ton of money into energy drinks trying to get a ticket."
+line "Ho buttato un mucchio di soldi in energy drink per cercare di avere un biglietto."
 s
-line "Not the best use of money."
+line "Denaro che poteva essere speso meglio."
 face r 3 1
 r
-line "I drink a ton of energy drinks."
+line "Bevo parecchi energy drink."
 face r 2 0
 r
-line "Anyway,|p| that's not even how I got my ticket."
-line "One of my teachers found a Platinum Ticket and donated it to our team."
+line "Comunque,|p| non e' neanche cosi' che ho ottenuto il mio biglietto."
+line "Uno dei miei insegnanti ha trovato un Biglietto di Platino e lo ha donato al nostro team."
 face r 2 1
 r
-line "We all held a little makeshift tournament to determine which of us deserved it."
+line "Abbiamo tenuto un torneo improvvisato per decidere chi tra noi se lo meritasse."
 face r 3 1
 r
-line "By the way..."
-...the terminal told me that my teacher won the ticket from one of those anti-aging toxin removal creams that never work.
+line "Ad ogni modo..."
+...il terminale mi ha detto che il mio insegnante ha vinto il biglietto da una di quelle creme purificanti antieta' che non funzionano mai.
 face p 0 1
 p
-line "Terrible use of money."
+line "Soldi sprecati."
 face s 0 0
 s
-line "Speaking of,|p| what are you planning on doing with your winnings?"
+line "A proposito,|p| cosa hai in mente di fare con la tua vincita?"
 face r 2 1
 r
-line "Haven't thought too much about it."
-line "Gonna donate a portion of it towards my school's team for sure."
+line "Non ci ho pensato molto."
+line "Di sicuro donero' una porzione al team della mia scuola."
 face s 4 0
 face p 0 0
 face r 2 0
 r
-line "We could really use another MINDWAVE machine."
+line "Un altro macchinario MINDWAVE ci farebbe davvero comodo."
 face s 0 1
 s
-line "Honestly,|p| buy more than one.|p| Get one for yourself too."
-line "Or better yet,|p| donate one to OUR school."
+line "Sai una cosa,|p| comprane piu' di uno.|p| Prendine uno anche per te."
+line "O ancora meglio,|p| donane uno alla NOSTRA scuola."
 face p 1 2
 p
-line "Terrible use of money."
+line "Denaro sprecato."
 setflag _0.roxy.read.ABA 1
 setflag _0.roxy.branch ABA
 function lobby_tick_time

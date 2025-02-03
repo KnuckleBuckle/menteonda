@@ -1,8 +1,8 @@
 face p 0 4
 p
-line "Uh,|p| I gotta go, actually."
+line "Uh,|p| devo proprio andare."
 i
-line "Okay?|p| Bye."
+line "Ok?|p| Ciao."
 
 setflag _0.pandora.alone 0
 

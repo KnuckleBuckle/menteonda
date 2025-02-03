@@ -1,24 +1,24 @@
 s
-line "We'd better get going."
+line "Noi dovremmo andare."
 face p 0 0
 p
-line "Thanks for the advice.|p| Even if it didn't help much."
+line "Grazie per i consigli.|p| Anche se non sono stati di grande aiuto."
 face r 2 0
 r
-line "My last piece of advice,|p| just try not to sweat it."
+line "Come mio ultimo consiglio,|p| cerca solo di non impanicarti."
 face r 3 0
 r
-line "Remember that even professionals can struggle against inexperienced players."
+line "Ricorda che anche i professionisti possono avere difficolta' contro giocatori in erba."
 face r 1 0
 r
-line "Stressing about your odds will only make them worse."
-line "All you can do is be confident in what you have."
+line "Stressarti sulle tue chance peggiorera' soltanto la situazione."
+line "Puoi soltanto avere fiducia nelle doti che hai."
 face p 1 0
 p
-line "Uh,|p| thanks."
+line "Uh,|p| grazie."
 face s 0 1
 s
-line "Good luck with the tournament,|p| Roxy."
+line "In bocca al lupo per il torneo,|p| Roxy."
 face r 0 1
 r
 line "..."

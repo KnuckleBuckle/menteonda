@@ -1,41 +1,41 @@
 
 face p 1 0
 p
-line "Y'know,|p| the reason I apologized is 'cuz I didn't want to be embarrassed."
-line "Like,|p| if I had to play against you later."
+line "Sai,|p| il motivo per cui ho chiesto scusa era per non sentirmi in imbarazzo."
+line "Tipo sai,|p| se dopo avessi dovuto giocare contro di te."
 face p 0 0
 p
-line "I honestly don't have much experience with MINDWAVE."
+line "Ad essere onesta non sono molto pratica con MINDWAVE."
 face p 0 2
 p
-line "So I don't wanna take chances with stuff like that."
+line "Percio' non volevo correre rischi con roba simile."
 face i 0 2
 i
-line "How did that go for you?"
+line "Come ti senti?"
 face p 0 4
 p
-line "I don't think I'd be embarrassed now,|p| at least."
+line "Ora non penso che saro' in imbarazzo,|p| almeno quello."
 face p 0 0
 p
-line "I still don't wanna play against you."
+line "Comunque non voglio giocare contro di te."
 i
-line "...Why?|p| Am I scary?"
+line "...Perche'?|p| Ti spavento?"
 p
-line "No...|p| you're just kinda weird."
+line "No...|p| sei solo un po' strana."
 face p 0 1
 p
-line "But it's chill.|p|\nYou seem stable enough."
+line "Ma sto serena.|p|\nSembri abbastanza sana di mente."
 face i 2 0
 i
 line "Oh."
 face i 1 0
 i
-line "Yeah,|p| I can see that."
+line "Si',|p| lo capisco."
 face i 0 0
 i
-line "You don't have a reason to worry."
-line "I only play this game with my friends.|p| Occasionally."
-line "Only the well-adjusted ones at that."
+line "Non hai motivo di preoccuparti."
+line "Io ci gioco solo con i miei amici.|p| Di tanto in tanto."
+line "E solo quelli mentalmente stabili."
 
 
 

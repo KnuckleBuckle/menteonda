@@ -1,29 +1,29 @@
 face s 0 0
 face p 0 2
 p
-line "Hey,|p| the tournament could start any time now,|p| so we'll get going."
-line "You can tell us about your ticket later."
+line "Ehi,|p| il torneo potra' iniziare da un momento all'altro,|p| percio' dobbiamo muoverci."
+line "Potrai parlarci piu' tardi del tuo biglietto."
 face p 0 0
 p
-line "Bye."
+line "Ciao."
 face s 2 0
 s
-line "If we all make it to the next floor..."
+line "Sempre se arriveremo tutti al prossimo piano..."
 face s 0 1
 s
-line "Dom,|p| can I have your number real quick?"
+line "Dom,|p| posso avere velocemente il tuo numero?"
 face d 1 0
 d
-line "This ain't my talkin' phone."
+line "Questo non e' il mio telefono per le chiamate."
 face p 1 2
 p
-line "All phones are talking phones,|p| dude."
+line "Tutti i telefoni sono per le chiamate,|p| bello."
 d
-line "I ain't got a SIM on this one,|p| it's my music phone."
-line "My main phone is full of junk that I don't wanna delete,|p| so I got this one to show peeps my music."
+line "Su questo non ho una SIM,|p| e' per la mia musica."
+line "Il mio cell principale e' pieno di robaccia che non voglio cancellare,|p| quindi uso questo per mostrare ai tizi la mia musica."
 face p 0 0
 p
-line "Couldn't you just...|p| swap out the SIM with your main one?"
+line "Non potresti...|p| metterci la SIM di quello principale?"
 face d 1 1
 d
 line "..."
@@ -32,32 +32,32 @@ d
 line "Ohhh."
 face d 0 0
 d
-line "I didn't know about that."
+line "Non lo sapevo."
 p
 line "..."
 face p 0 2
 p
-line "Okay,|p| whatever."
+line "Ok,|p| lasciamo perdere."
 face p 0 4
 p
-line "Just wait for us at the entrance or something."
+line "Basta che ci aspetti all'ingresso."
 d
-line "Sounds good."
+line "Buona idea."
 face s 0 1
 s
-line "You're going to have to wait for me to win,|p| so it'll be a while."
+line "Dovrai aspettare che io vinca,|p| quindi ci vorra' un po'."
 face p 0 0
 p
-line "Don't listen to him."
-line "We'll all lose in the first round anyway."
+line "Non ascoltarlo."
+line "Tanto perderemo al primo round."
 d
-line "Prolly,|p| hah."
-line "Be seein' you guys later,|p| then."
+line "Chissa',|p| ah."
+line "Ci si becca dopo,|p| allora."
 face p 0 1
 p
-line "Bye."
+line "Ciao."
 s
-line "See you later."
+line "Ci vediamo."
 
 
 
