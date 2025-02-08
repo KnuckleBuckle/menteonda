@@ -41,15 +41,15 @@ goto marker 2e
 marker 2n
 option add name "''Fortress of Sorrow''" color smalls script "0/lobby/slate_kat/A"
 marker 2e
-option add name "Il Torneo?" color pandora script "0/lobby/slate_kat/B"
+option add name "The Tournament?" color pandora script "0/lobby/slate_kat/B"
 options shuffle
-option add name "Ciao" script "0/lobby/slate_kat/bye"
+option add name "Bye" script "0/lobby/slate_kat/bye"
 goto marker end
 
 marker A
-option add name "Vincita di Slate" color pandora script "0/lobby/slate_kat/AA"
+option add name "Slate's Prize Money" color pandora script "0/lobby/slate_kat/AA"
 options shuffle
-option add name "Ciao" script "0/lobby/slate_kat/bye"
+option add name "Bye" script "0/lobby/slate_kat/bye"
 goto marker end
 
 marker B
@@ -57,70 +57,70 @@ checkflag _0.Ethan 1
 goto marker 1y
 goto marker 1n
 marker 1y
-option add name "Montepremi di MINDWAVE" color smalls script "0/lobby/slate_kat/BA"
+option add name "MINDWAVE Prize Money" color smalls script "0/lobby/slate_kat/BA"
 goto marker 1e
 marker 1n
-option add name "Casa di Slate" color pandora script "0/lobby/slate_kat/BB"
+option add name "Slate's Home" color pandora script "0/lobby/slate_kat/BB"
 goto marker 1e
 marker 1e
-option add name "Ciao" script "0/lobby/slate_kat/bye"
+option add name "Bye" script "0/lobby/slate_kat/bye"
 goto marker end
 
 marker AA
-option add name "Ciao" script "0/lobby/slate_kat/AABA"
+option add name "Bye" script "0/lobby/slate_kat/AABA"
 goto marker end
 
 marker AB
-option add name "Cosplay di ''Slate''" color smalls script "0/lobby/slate_kat/ABA"
-option add name "''Slate'' a MINDWAVE" color pandora script "0/lobby/slate_kat/ABB"
+option add name "''Slate'' Cosplay" color smalls script "0/lobby/slate_kat/ABA"
+option add name "''Slate'' in MINDWAVE" color pandora script "0/lobby/slate_kat/ABB"
 options shuffle
-option add name "Ciao" script "0/lobby/slate_kat/bye"
+option add name "Bye" script "0/lobby/slate_kat/bye"
 goto marker end
 
 marker BA
-option add name "Arte Astratta di Kat" color pandora script "0/lobby/slate_kat/BAA"
-option add name "Siete fratelli?" color smalls script "0/lobby/slate_kat/BAB"
+option add name "Kat's Abstract Art" color pandora script "0/lobby/slate_kat/BAA"
+option add name "Are you siblings?" color smalls script "0/lobby/slate_kat/BAB"
 options shuffle
-option add name "Ciao" script "0/lobby/slate_kat/bye"
+option add name "Bye" script "0/lobby/slate_kat/bye"
 goto marker end
 
 marker BB
 option add name "..." color pandora script "0/lobby/slate_kat/BBA"
-option add name "Casa Tua?" color pandora script "0/lobby/slate_kat/BBB"
+option add name "Your House?" color pandora script "0/lobby/slate_kat/BBB"
 options shuffle
-option add name "Ciao" script "0/lobby/slate_kat/nsmlbye"
+option add name "Bye" script "0/lobby/slate_kat/nsmlbye"
 goto marker end
 
 marker AAA
-option add name "Ciao" script "0/lobby/slate_kat/AAAA"
+option add name "Bye" script "0/lobby/slate_kat/AAAA"
 goto marker end
 
 marker AAB
-option add name "Ciao" script "0/lobby/slate_kat/AABA"
+option add name "Bye" script "0/lobby/slate_kat/AABA"
 goto marker end
 
 marker ABA
-option add name "Ciao" script "0/lobby/slate_kat/ABAA"
+option add name "Bye" script "0/lobby/slate_kat/ABAA"
 goto marker end
 
 marker ABB
-option add name "Ciao" script "0/lobby/slate_kat/ABBA"
+option add name "Bye" script "0/lobby/slate_kat/ABBA"
 goto marker end
 
 marker BAA
-option add name "Ciao" script "0/lobby/slate_kat/BAAA"
+option add name "Bye" script "0/lobby/slate_kat/BAAA"
 goto marker end
 
 marker BAB
-option add name "Ciao" script "0/lobby/slate_kat/BABA"
+option add name "Bye" script "0/lobby/slate_kat/BABA"
 goto marker end
 
 marker BBA
-option add name "Ciao" script "0/lobby/slate_kat/BBAA"
+option add name "Bye" script "0/lobby/slate_kat/BBAA"
 goto marker end
 
 marker BBB
-option add name "Ciao" script "0/lobby/slate_kat/BBBA"
+option add name "Bye" script "0/lobby/slate_kat/BBBA"
 goto marker end
 
 marker end

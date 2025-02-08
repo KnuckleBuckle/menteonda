@@ -1,14 +1,14 @@
 face p 0 0
 p
-line "Smalls,|p| we should probably get going."
+line "Smalls,|p| penso che dovremmo andare."
 face s 0 1
 s
-line "For sure.|p| Cya guys."
+line "Certo.|p| Ci si Becca, ragazzi."
 face l 0 0
 l
-line "Peace dude."
+line "Stammi bene, bello."
 face k 0 0
 k
-line "Goodbye."
+line "Ciao."
 
 
