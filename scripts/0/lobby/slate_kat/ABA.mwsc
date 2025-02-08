@@ -1,67 +1,67 @@
 face p 0 0
 face s 0 1
 s
-line "Ethan,|p| you said you made\nthat costume yourself?"
+line "Ethan,|p| hai detto di\naver realizzato quel costume da solo?"
 l
-line "Yup.|p| It's not perfect,|p|\nbut I like how it came out."
+line "Si'.|p| Non e' perfetto,|p|\nma mi piace com'e' venuto."
 face p 0 1
 p
-line "It looks good."
+line "Ti sta bene."
 face s 0 1
 s
-line "I agree."
+line "Concordo."
 l
-line "Thanks so much.|p| Kat hasn't been able to appreciate it as much as y'all."
+line "Grazie mille.|p| Kat non ha avuto modo di apprezzarlo come avete fatto voi."
 face k 0 1
 k
-line "I don't appreciate it because\nit's super embarrassing."
+line "Non lo apprezzo perche'\ne' mega-imbarazzante."
 face s 0 0
 s
-line "Hey,|p| that's a little far."
+line "Ehi,|p| stai un po' esagerando."
 l
-line "Nah, she's got a point.|p| Wearing it to church wasn't my finest hour."
+line "Nah, non ha tutti i torti.|p| Non e' stata una grande mossa portarlo in chiesa."
 face p 0 0
 p
-line "You guys go to church together?"
+line "Andate a messa assieme?"
 face l 0 0
 l
-line "Nah,|p| Kat goes with her grandparents though.|p| I only went the one time."
+line "Nah,|p| pero' Kat ci va coi suoi nonni.|p| Io ci sono solo andato quella volta."
 face l 1 0
 l
-line "I'd never seen you dressed so formally before then."
+line "Prima di allora non ti avevo mai vista vestita cosi' elegante."
 face k 0 0
 k
-line "I don't really want to go,|p| but\nthey always drag me along."
-line "They insisted on taking Ethan\nthat one Sunday too."
+line "Non ho molta voglia di andarci,|p| ma\nmi ci trascinano sempre."
+line "Quella domenica avevano insistito\na portarci anche Ethan."
 face s 2 1
 s
-line "Oh man,|p| they must've\nregretted that decision."
+line "Oh mamma,|p| si saranno\npentiti della scelta."
 face k 0 0
 k
-line "Yeah...|p| Nanna ended up writing an apology letter for the scene it caused."
+line "Gia'...|p| Nonna ha dovuto scrivere una lettera di scuse per la scenata che si e' creata."
 face l 0 0
 face s 0 0
 l
-line "It was absolutely funny though.|p|\nOne dude gave me this\nreligious pamphlet."
+line "Pero e' stato uno spasso incredibile.|p|\nUn tipo mi ha dato un\nopuscolo religioso."
 face l 1 0
 l
-line "Got it framed in my room."
+line "Lo tengo appeso nella mia stanza."
 face k 0 2
 k
-line "Yeah,|p| they thought your costume was demonic."
+line "Gia',|p| pensavano che il tuo fosse il costume di un demone."
 face p 0 2
 p
-line "Man,|p| Blackout city is\nMindscape capital."
+line "Ma dai,|p| Blackout City e'\nla capitale di Mindscape."
 face p 0 0
 p
-line "Everything here is\nplastered with horns."
+line "Qui le corna sono\ntappezzate dappertutto."
 face p 0 1
 p
-line "If anything's demonic,|p|\nit's Mindscape Co."
+line "Se c'e' qualcosa di demoniaco,|p|\nquella e' Mindscape Co."
 face l 0 0
 l
-line "Dudeeee you're absolutely right.|p|\nThis whole place is totally demonic."
-line "It's so cool."
+line "Assuuuurdo, hai assolutamente ragione.|p|\nQuesto posto e' proprio demoniaco."
+line "Che figata."
 face p 0 4
 p
 line "..."

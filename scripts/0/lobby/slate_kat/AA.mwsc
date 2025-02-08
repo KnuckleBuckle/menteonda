@@ -1,64 +1,64 @@
 face s 0 0
 face p 0 0
 p
-line "Okay so...|p| what other plans\ndo you have for your money?"
+line "Ok, dunque...|p| cos'altro hai in mente\ndi fare coi tuoi soldi?"
 face p 0 1
 p
-line "...Other than giving gifts to people who listen to you ramble about cartoons."
+line "...A parte offrire doni alle persone che ti ascoltano mentre vaneggi sui cartoni."
 face s 2 0
 s
-line "You say that like it's a bad idea."
+line "Lo dici come se fosse un brutto proposito."
 face s 0 1
 s
-line "I'm eligible,|p| right?"
+line "Io ce li ho i requisiti,|p| vero?"
 face l 0 0
 l
-line "Haven't even thought\nabout any of that."
-line "Maybe I'll buy that ultra rare edition of F.O.S I've been eyeing for a while."
+line "Non ci ho neanche\npensato a queste cose."
+line "Forse mi comprero' quell'edizione di F.O.S ultra rara su cui avevo messo gli occhi da un po'."
 k
-line "You mean the same show you already watch all the time?"
+line "Sarebbe la stessa serie che ti guardi tutto il tempo?"
 face p 4 0
 p
-line "Huh,|p| I wonder if the copy my dad\nowns is secretly worth a ton."
+line "Huh,|p| chissa' se la copia di mio padre\nin realta' vale una fortuna."
 l
-line "Does the cover have an evil\nlooking castle on it?"
+line "Sulla copertina c'e' un castello\nche ha un aspetto tetro?"
 face p 0 0
 p
-line "Nah.|p| I think it was a crystal ball."
+line "Nah.|p| Credo ci fosse una sfera di cristallo."
 l
-line "You're out of luck there then."
-line "That's the original cut.|p| You'd\nfind that in clearance bins at\nevery vintage electronics store."
+line "Allora caschi male."
+line "Quella e' la versione originale.|p| La puoi trovare\nnei cestoni delle offerte in uno\ndei tanti negozi d'elettronica vintage."
 face p 1 0
 p
-line "Damn,|p| it was worth a shot."
+line "Cavolo,|p| valeva la pena tentare."
 l
-line "F.O.S was a massive flop over here."
-line "So as a last ditch effort,|p| they overhauled the whole show to be-|p 30| |skip| "
+line "Da noi F.O.S e' stato un enorme flop."
+line "Percio', come ultima spiaggia,|p| revisionarono l'intera serie per renderla-|p 30| |skip| "
 face l 1 0
 k
-line "Actually good?"
+line "Effettivamente bella?"
 l
-line "Well, possibly.|p|\nI've never seen it!"
+line "Beh, puo'essere.|p|\nNon l'ho mai vista!"
 face l 0 0
 l
-line "I hear they polished a ton of it,|p| but everyone lucky enough to own\nit keeps their copies sealed."
-line "So it's impossible to find\nany archives online."
+line "Ho sentito che hanno rifinito molti aspetti,|p| ma i fortunati che la posseggono\ntengono ben chiuse le loro copie."
+line "Quindi e' impossibile trovarla\narchiviata online."
 face p 0 0
 p
-line "That's really lame."
+line "E' veramente triste."
 face p 0 2
 face k 0 0
 p
-line "Why would people waste money\non something just to keep\nit sealed on their shelf?"
+line "Perche' spendere soldi in qualcosa\nsolo per tenerla sigillata\nsopra una mensola?"
 l
-line "Preach it to the choir dude."
-line "If you can't actually use it,|p|\ndo you even own it at all?"
+line "Benvenuta nel club, amica."
+line "Se alla fine non puoi usare qualcosa,|p|\nperche' averla in primis?"
 face l 1 0
 l
-line "Kat's the choir."
+line "Anche Kat e' nel club."
 face k 0 1
 k
-line "I'm not."
+line "Non e' vero."
 
 setflag _0.slate_kat.read.AA 1
 setflag _0.slate_kat.branch AA

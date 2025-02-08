@@ -13,7 +13,7 @@ goto marker skipQ1
 marker addQ1
 checkflag _0.smalls.optionscount 3
 goto marker skipQ1
-option add name "Here we are..." script "0/lobby/smalls/q1"
+option add name "Eccoci qua..." script "0/lobby/smalls/q1"
 incflag _0.smalls.optionscount 1
 marker skipQ1
 
@@ -23,7 +23,7 @@ goto marker skipQ2
 marker addQ2
 checkflag _0.smalls.optionscount 3
 goto marker skipQ2
-option add name "You snuck in." script "0/lobby/smalls/q2"
+option add name "Ti sei imbucato." script "0/lobby/smalls/q2"
 incflag _0.smalls.optionscount 1
 marker skipQ2
 
@@ -63,7 +63,7 @@ goto marker skipIris
 marker addIris
 checkflag _0.smalls.optionscount 3
 goto marker skipIris
-option add name "The girl I held up" script "0/lobby/smalls/iris"
+option add name "La ragazza che ho tenuto in fila" script "0/lobby/smalls/iris"
 incflag _0.smalls.optionscount 1
 marker skipIris
 
@@ -120,12 +120,12 @@ marker addNope
 checkflag _0.smalls.optionscount 0
 goto marker nothingElse
 
-option add name "Nope." marker "nothingElse"
+option add name "No." marker "nothingElse"
 
 
 goto marker afterNope
 marker addNevermind
-option add name "Nevermind." marker "nevermind"
+option add name "Lascia perdere." marker "nevermind"
 
 marker afterNope
 setflag _0.smalls.anythingelse 0
@@ -135,22 +135,22 @@ marker nevermind
 
 face p 0 0
 p
-line "Actually,|p| nevermind."
+line "A pensarci,|p| lascia perdere."
 
 face s 2 1
 s
-line "Heh,|p| okay."
+line "Eh,|p| va bene."
 goto marker end
 
 marker nothingElse
 
 face p 0 0
 p
-line "Nah,|p| that's all I got."
+line "Nah,|p| ho detto tutto."
 
 face s 0 0
 s
-line "Okay,|p| cool."
+line "Ok,|p| benissimo."
 goto marker end
 
 

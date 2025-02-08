@@ -1,70 +1,70 @@
 
 face s 0 0
 s
-line "Your real name is Ethan then?"
+line "Quindi il tuo vero nome e' Ethan?"
 face l 0 0
 l
-line "Yup.|p| That's what my friends call me."
+line "Gia'.|p| E' cosi' che mi chiamano gli amici."
 face k 0 1
 k
-line "Friend*."
+line "Amica*."
 face l 1 0
 l
-line "Not true.|p| Your grandparents call me Ethan."
-line "They're both my friends too."
+line "Falso.|p| I tuoi nonni mi chiamano Ethan."
+line "Anche loro sono miei amici."
 face s 1 0
 s
-line "So,|p| you're not siblings."
+line "Quindi,|p| non siete fratelli."
 k
-line "Ethan's a general nuisance that hangs around my place daily..."
+line "Ethan e' in generale una seccatura che passa le giornate a casa mia..."
 face k 0 2
 k
-line "...but no we're not related."
+line "...ma no, non siamo imparentati."
 face l 0 0
 l
-line "My place gets too rowdy when\nmy brothers are home."
-line "Plus,|p| there's nobody there who likes listening to me talk about Fortress of Sorrow."
+line "C'e' troppo casino quando\ni miei fratelli sono a casa."
+line "E poi,|p| li' non c'e' nessuno a cui piace sentirmi parlare di Fortress of Sorrow."
 face s 0 0
 l
-line "Love my family,|p| but it's PARADISE\nto get away from that bunch."
+line "Amo la mia famiglia,|p| ma mi sento in PARADISO\nquando sto lontano da loro."
 face l 1 0
 l
-line "Kat's grandparents are so much cooler."
+line "I nonni di Kat sono molto piu' ganzi."
 face k 0 0
 k
-line "Ethan's idea of paradise is a\nboring old people house."
+line "Il paradiso secondo Ethan e'\nuna casa con anziani barbosi."
 face l 0 0
 l
-line "Peace and quiet,|p| free cookies,|p|\nand two old people to hang with\nis paradise to me."
+line "Pace e quiete,|p| biscotti gratis,|p|\ne due anziani con cui passare il tempo\nper me sono il paradiso."
 face p 0 0
 p
-line "Do...|p| you talk to them about\ncartoons as well?"
+line "Per caso...|p| anche con loro\nparli di cartoni?"
 l
-line "Yup.|p| Kat's grandpop and\nI can talk for hours."
+line "Gia'.|p| Io e il nonno di Kat\npotremmo parlarne per ore."
 face k 0 1
 k
-line "He understands none of what\nyou're saying by the way."
+line "Tanto non capisce nulla\ndi quello che gli dici."
 face l 1 0
 l
-line "I don't mind repeating myself.|p|\nJust means more talking\nfor the both of us."
+line "A me non dispiace ripetermi.|p|\nVuol dire piu' chiacchierate\nper entrambi."
 face l 0 0
 l
-line "He's got a buncha stories\nhe loves telling me."
+line "Lui ha un sacco di aneddoti\nche adora raccontarmi."
 face k 0 0
 k
-line "Old people stories.|p|\nAbout his life and stuff."
+line "Aneddoti da vecchi.|p|\nRobe come storie sulla sua vita."
 face l 1 0
 l
-line "Exactly.|p| He's a rambler."
+line "Puoi dirlo forte.|p| E' un gran chiacchierone."
 face l 1 0
 l
-line "I enjoy seeing that light in his\neyes no matter how many times\nhe tells the same stories."
+line "Mi piace vedere la luce nei suoi occhi\na prescindere da quante volte\nmi racconta le stesse storie."
 face k 0 1
 k
 line "..."
 face l 0 0
 l
-line "I'd hang out there all the time,|p| but I'm too tall to sleep on their couches."
+line "Io starei da loro tutto il tempo,|p| ma sono troppo alto per dormire nei loro divani."
 
 
 

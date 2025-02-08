@@ -1,12 +1,12 @@
 face p 0 1
 p
-line "Honestly, it's kinda cool\nthat you do abstract art."
+line "Sinceramente, trovo bello\nche fai arte astratta."
 face p 0 0
 p
-line "Whenever we're painting in art class,|p| I mess up a ton."
+line "Ogni volta che si dipinge nell'ora d'arte,|p| faccio un enorme casino."
 face p 0 1
 p
-line "It sounds cool to just skip the headache and paint random colors for fun."
+line "Mi sembra figo saltare le parti rognose e dipingere colori a caso per divertirsi."
 face s 0 1
 checkflag nickname_panda 1
 goto marker branch26y
@@ -15,14 +15,14 @@ goto marker branch26n
 marker branch26y
 
 s
-line "Panda,|p| your art assignments are basically abstract already."
+line "Panda,|p| i tuoi compiti d'arte sono praticamente gia' arte astratta."
 
 goto marker branch26e
 
 marker branch26n
 
 s
-line "Pandora,|p| your art assignments are basically abstract already."
+line "Pandora,|p| i tuoi compiti d'arte sono praticamente gia' arte astratta."
 
 goto marker branch26e
 
@@ -31,39 +31,39 @@ marker branch26e
 
 face l 1 0
 l
-line "Dude, Kat's stuff is awesome.|p|\nMy room is FILLED with her paintings."
+line "Giuro, i lavori di Kat sono fantastici.|p|\nLa mia stanza e' PIENA di suoi dipinti."
 face k 0 0
 k
-line "I've been painting for...|p| a little bit now.|p| I have a ton of finished pieces lying around."
-line "I don't really care for my paintings\nafter I finish them."
-line "It's just calming to paint.|p|\nI let it turn out however."
+line "Sto dipingendo da...|p| ormai un po'.|p| Ho un sacco di pezzi finiti sparsi in giro per casa."
+line "Non mi importa molto dei miei dipinti\nuna volta che li ho finiti."
+line "Dipingere semplicemente mi calma.|p|\nMa non mi dispiacciono i risultati."
 l
-line "Your art SPEAKS to me.|p|\nIt's so good."
+line "La tua arte mi PARLA.|p|\nE' bellissima."
 face p 0 0
 face k 0 1
 k
-line "Whatever nerd,|p| it's less of\na compliment coming\nfrom you."
+line "Va bene, nerdone,|p| detto da te\nnon è chissa'\nche complimento."
 face k 0 2
 k
-line "Thanks though."
+line "Ma grazie."
 face s 0 0
 s
-line "Do you guys ever play MINDWAVE\nagainst each other?"
+line "Avete mai giocato a MINDWAVE\nuno contro l'altro?"
 face s 0 2
 s
-line "What does the mind of an\nabstract painter look like?"
+line "Che aspetto ha la mente\ndi un pittore astratto?"
 k
-line "I've been told it's a little trippy."
+line "Mi hanno detto che e' un po' intrippante."
 face l 0 0
 l
-line "When we go to the arcade,|p| Kat's opponents are usually SUPER thrown off."
+line "Quando andiamo agli arcade,|p| di solito gli avversari di Kat sono SUPER confusi."
 face s 0 0
 face l 1 0
 l
-line "I just don't see it dude."
+line "Io proprio non me ne capacito."
 face k 0 1
 k
-line "I think it's just 'cuz you're weird."
+line "Penso sia perche' sei strambo."
 
 setflag _0.slate_kat.read.BAA 1
 setflag _0.slate_kat.branch BAA

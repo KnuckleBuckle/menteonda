@@ -1,56 +1,56 @@
 face s 0 0
 face p 1 0
 p
-line "It's kinda...|p| weird to think about everyone here."
-line "Like, we all basically won the\nlottery to get in here..."
+line "E' un po'...|p| strano pensare a tutta la gente qua dentro."
+line "Pensateci, tutti noi per poter entrare\nabbiamo praticamente vinto la lotteria..."
 face p 1 2
 p
-line "...but there's only gonna be one\nwinner out of this massive crowd."
+line "...ma in mezzo a tutta questa calca\nci potra' essere soltanto un vincitore."
 face s 1 0
 s
-line "Yeah,|p| all these people may as\nwell pack it up and go home."
+line "Gia',|p| tutti loro potrebbero benissimo\nfare i bagagli e tornare a casa."
 face s 0 1
 s
-line "I'm the one winning this thing."
+line "Saro' io a vincere."
 l
-line "It's easy to forget how insanely\nlucky it is that Kat and I got\nin here at all."
+line "Facile scordarsi la fortuna pazzesca\nche io e Kat abbiamo avuto\nper entrare qui in primis."
 face p 1 0
 k
-line "You two must feel the same though."
+line "Ma voi due starete pensando la stessa cosa."
 face s 2 1
 s
-line "Yeah,|p| we're all blessed for sure."
+line "Gia',|p| siamo stati baciati dalla buona sorte."
 face l 1 0
 l
-line "Kat found tickets for both of us."
+line "Kat ha trovato i biglietti per tutti e due."
 face s 0 0
 face l 0 0
 l
-line "So she's really the lucky one."
+line "Quindi e' lei in realta' la fortunata."
 k
-line "Gave my first ticket to Ethan 'cuz\nI don't like the idea of strangers\nlooking into my brain."
+line "Diedi il mio primo biglietto a Ethan\nperche' non mi andava di farmi esaminare\nil cervello da degli sconoscuti."
 face l 1 0
 l
-line "Dude,|p| that was the best\nbirthday gift of the year."
+line "Guarda,|p| e' stato il piu' bel\nregalo di compleanno dell'anno."
 face k 0 1
 k
-line "It was the only birthday gift you got."
+line "Era l'unico regalo di compleanno che hai avuto."
 face s 0 1
 s
-line "Happy late birthday."
+line "Buon compleanno in ritardo."
 face k 0 0
 k
-line "Anyway, when I found the second ticket,|p| I decided I'd be stupid to\npass this up twice."
+line "Ad ogni modo, quando trovai il secondo biglietto,|p| pensai che sarei stata scema a\nnon cogliere nuovamente l'occasione."
 l
-line "Glad you didn't dude.|p| I'd be bored outta my mind if you didn't show up tonight."
+line "E menomale, poi.|p| Se stanotte non fossi venuta mi sarei annoiato a morte."
 face l 0 0
 l
-line "Beats being at home though."
+line "Ma sempre meglio di rimanere a casa."
 k
-line "You're lucky I'm so lucky."
+line "Per tua fortuna sono molto fortunata."
 face k 0 1
 k
-line "Don't fumble it."
+line "Non fare cavolatw."
 
 
 

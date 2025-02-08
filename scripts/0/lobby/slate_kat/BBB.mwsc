@@ -1,70 +1,70 @@
 face p 0 0
 p
-line "What's your house then?"
+line "Com'e' casa tua invece?"
 k
-line "What's|p| my house?"
+line "Com'e'|p| casa mia?"
 face p 1 0
 p
-line "Yeah,|p| I dunno."
+line "Si',|p| boh."
 k
-line "I don't wanna tell you that."
+line "Non mi va di parlarne con te."
 face p 0 2
 p
-line "Bro,|p| I'm not asking you for your\naddress or anything like that."
-line "I'm asking what it's like where you live."
+line "Guarda,|p| non ti sto chiedendo il tuo\nindirizzo o altro del genere."
+line "Ti sto chiedendo com'e' la vita dalle tue parti."
 face p 1 2
 p
-line "It just felt like a relevant question."
+line "Mi sembrava una domanda pertinente."
 k
-line "I still don't wanna tell you that."
-line "I'm not really comfortable telling\nyou about my living situation."
+line "Non mi va di dirtelo lo stesso."
+line "Non mi sento molto a mio agio\na parlarti di come vivo."
 p
-line "...Okay?"
-line "I don't really know how to continue\nthe conversation then."
+line "...Va bene?"
+line "Allora non so come proseguire\nla conversazione."
 face p 0 2
 p
-line "You're making it kinda difficult."
+line "Diciamo che non mi faciliti le cose."
 k
-line "I'M making it difficult?"
+line "IO non le facilito?"
 face p 0 0
 p
 line "..."
 k
-line "...Tell me about yourself then?"
+line "...Perche' non parli di te allora?"
 face p 1 0
 p
-line "Myself?"
-line "I dunno,|p| this place has a weird atmosphere."
+line "Di me?"
+line "Boh,|p| questo posto ha un'atmosfera strana."
 face p 1 2
 p
-line "Not great at talking to new people."
+line "Parlare con gente nuova non e' il mio forte."
 k
-line "I get that.|p| I wouldn't be here if I were on my own."
+line "Ti capisco.|p| Non sarei qui se stessi per conto mio."
 face p 0 0
 p
-line "What else...|p| I play a bit of music."
+line "Che altro...|p| Suono un po' di musica."
 face p 0 1
 p
-line "Smalls and I are kind of a duo."
+line "Io e Smalls siamo una sorta di duetto."
 face k 0 2
 k
-line "Cool.|p| My sense of rhythm was never good enough to play any instruments."
-line "I like painting though.|p| Nothing tangible,|p| just abstract pieces."
-line "I've been doing it for,|p| what?|p| 7 years now?"
+line "Figo.|p| Non ho mai avuto un senso del ritmo abbastanza buono per suonare qualcosa."
+line "Pero' mi piace dipingere.|p| Nulla di che,|p| solo opere astratte."
+line "Lo sto facendo da,|p| quando?|p| 7 anni ormai?"
 face p 0 0
 p
-line "Cool..."
+line "Figo..."
 face k 0 0
 face p 1 0
 p
-line "I'm also dreading the tournament a little."
-line "Like,|p| more than just losing."
+line "Inoltre ho un po' d'ansia per il torneo."
+line "Nel senso,|p| al di la' del poter perdere."
 face k 0 0
 k
-line "What,|p| are you scared of the\nminds you'll encounter?"
+line "Cos'e',|p| hai paura delle\nmenti in cui ti imbatterai?"
 face p 0 0
 p
-line "I'm mostly thinking about the people behind those minds."
+line "Piu' che altro penso alle persone che si celano dietro quelle menti."
 
 setflag _0.slate_kat.read.BBB 1
 setflag _0.slate_kat.branch BBB

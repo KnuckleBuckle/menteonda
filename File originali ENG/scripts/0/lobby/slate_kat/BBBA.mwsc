@@ -1,16 +1,16 @@
 face p 1 0
 p
-line "I'm gonna go find where Smalls\ntrailed off to."
+line "Io vado a vedere dove si e'\ncacciato Smalls."
 face p 0 0
 p
-line "It was cool meeting you and Ethan."
+line "E' stato bello conoscere te ed Ethan."
 face k 0 0
 k
-line "Sure,|p| cya."
+line "Certo,|p| ci si becca."
 
 face k 0 2
 k
-line "Good luck getting Ethan to stop blabbing though."
+line "Spero pero' che riuscirai a fermare gli sproloqui di Ethan."
 set k x -200
 p
 line "..."
@@ -25,14 +25,14 @@ goto marker branch26n
 marker branch26y
 
 s
-line "Hey Panda."
+line "Ehi Panda."
 
 goto marker branch26e
 
 marker branch26n
 
 s
-line "Hey Pandora."
+line "Ehi Pandora."
 
 goto marker branch26e
 
@@ -40,13 +40,13 @@ marker branch26e
 
 face p 0 2
 p
-line "Bro,|p| where have you been?"
+line "Oh,|p| ma dov'eri?"
 s
-line "I was gonna come back sooner..."
-line "...but it looked like you were absolutely enthralled in conversation."
+line "Sarei tornato prima..."
+line "...ma sembravi totalmente presa dalla conversazione."
 face s 2 1
 s
-line "So I waited 'til you were done."
+line "Cosi' ho aspettato che finissi."
 
 setflag _0.smalls.slate_kat 1
 setflag _0.slate_kat.done 1

@@ -1,24 +1,24 @@
 face p 0 0
 p
-line "What's up with-|p 20| |skip| "
+line "Che mi dici del-|p 20| |skip| "
 face s 0 1
 s
-line "Slate, you should tell me about Fortress of Sorrow."
+line "Slate, dovresti parlarmi di Fortress of Sorrow."
 face l 0 0
 face p 1 2
 l
-line "Sure dude. I'd love to."
-line "Fortress of Sorrow, is this old 30's an-|p 20| |skip| "
+line "Ma sicuro. Volentieri."
+line "Fortress of Sorrow, un vecchio anime degli anni '30-|p 20| |skip| "
 face k 0 1
 k
-line "Maybe take it somewhere else?"
-line "Not everyone cares to hear about your boring anime."
+line "Magari fatelo da un'altra parte?"
+line "Mica a tutti frega del vostro anime noioso."
 face l 1 0
 l
-line "Oh,|p| sure.|p| Smalls and I will just be over there."
+line "Oh,|p| certo.|p| Io e Smalls ce ne andiamo di la'."
 face l 0 0
 l
-line "If either of you care to join."
+line "Nel caso una di voi volesse unirsi."
 set l x -250
 wait 1 second
 set k x 0
@@ -30,14 +30,14 @@ goto marker branch26n
 marker branch26y
 
 s
-line "Be right back, Panda."
+line "A tra poco, Panda."
 
 goto marker branch26e
 
 marker branch26n
 
 s
-line "Be right back, Pandora."
+line "A tra poco, Pandora."
 
 goto marker branch26e
 
@@ -52,54 +52,54 @@ k
 line "..."
 set p x 0
 k
-line "Knowing how Ethan gets while\ntalking about that show..."
-line "They're gonna be a while."
+line "Conoscendo come Ethan diventa\nquando parla di quella serie..."
+line "Ci metteranno un po'."
 face p 1 0
 p
 line "..."
 k
-line "Uh,|p| were you gonna ask something?"
+line "Uh,|p| cosa volevi chiedere?"
 face p 4 0
 p
-line "What?"
+line "Cosa?"
 k
-line "Just now,|p| before Ethan\nand your friend left."
+line "Poco fa,|p| prima che Ethan\ne il tuo amico se ne andassero."
 line "You were saying something."
 face p 1 0
 p
-line "Oh,|p| yeah,|p| uh..."
+line "Oh,|p| gia',|p| uh..."
 face p 0 0
 p
-line "It was just a question for Slate."
+line "Era solo una domanda per Slate."
 face p 0 2
 p
-line "Or uhhhh...|p| Ethan?"
+line "O per uhhhh...|p| Ethan?"
 k
 line "Oh."
 face p 0 0
 p
-line "Yeah."
+line "Gia'."
 k
-line "You could probably just ask me?"
+line "Potresti chiedere a me?"
 face k 0 2
 k
-line "I know him well enough."
+line "Lo conosco abbastanza bene."
 face p 1 2
 p
-line "I guess?|p| I was just gonna\nask him about his house."
+line "Penso di si'?|p| Volevo solo\nchiedergli di casa sua."
 face k 0 0
 k
-line "His house?|p| Alriiiiight,|p| well\nthere's not much to say about it."
-line "He lives with his family in a crappy little apartment."
-line "It's super claustrophobic."
+line "Casa sua?|p| Vaaaaa bene,|p| beh,\nnon ci sta molto da dire."
+line "Vive con la sua famiglia in un buco in una casetta di merda."
+line "Ti senti veramente mancare l'aria."
 face p 1 0
 p
-line "Oh,|p| alright."
+line "Oh,|p| d'accordo."
 face p 1 0
 p
-line "So his family isn't your family?|p|\nLike,|p| you're not related."
+line "Quindi la sua famiglia non e' la stessa tua?|p|\nVoglio dire,|p| non siete imparentati."
 k
-line "Nope."
+line "No."
 
 setflag _0.pandora.alone 1
 setflag _0.slate_kat.read.BB 1

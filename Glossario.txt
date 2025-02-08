@@ -28,9 +28,11 @@ Microgame = Microgioco
 
 Interface = Interfaccia
 
+Prize Money = Montepremi/Vincita (in base al contesto)
+
 Machine = Macchinario (es. Mindwave Machine - Macchinario Mindwave)
 
-That's what the Interface is for! = L'Interfaccia serve a questo! . sezione tutorial
+That's what the Interface is for! = L'Interfaccia serve a questo! - sezione tutorial
 
 SLAM to attention = (gioco di parole con snap to attention) - sezione tutorial
 
@@ -56,6 +58,8 @@ Transit pass = Abbonamento - Abbie
 
 Open-back = (Cuffie) aperte - Alex
 
+Evil-ass = maligno del cazzo (riferito all'edificio) - Iris
+
 Varsity Team = Team della scuola - Roxy
 
 Headspace = Mentalità - Roxy
@@ -70,6 +74,11 @@ Memory channeling = Canalizzazione dei ricordi - Roxy
 
 Show = Serie (riferito a Fortress of Sorrow) - Kat&Slate
 
+Dork = Sfigato - Kat&Slate
+
+Art studio (abbreviato anche in studio) = Atelier - Kat&Slate
+
+Dormant Exile (nome di una serie fictionale) = Esule Dormiente - Kat&Slate
 
 
 
@@ -87,3 +96,9 @@ Before you go = Prima che te ne vai - Abbie (saluti)
 Here's mine = Il mio è questo - Abbie e altri (scambio numeri)
 
 I'll just give you Panda's too = Ti daro' anche quello di Panda - Abbie e altri (scambio numeri)
+
+Duuuude = Assuuuurdo - Kat&Slate
+
+Cya! = Ci si becca! - Kat&Slate
+
+Peace! = Statemi bene! - Kat&Slate

@@ -1,39 +1,39 @@
 face s 0 0
 face p 0 0
 s
-line "What are you two gonna do with your money if you win?"
+line "Cosa fareste coi vostri soldi nel caso vincerete?"
 face l 0 0
 l
-line "Dude,|p| I've barely thought about that.|p| Kat's the one with the sweet plans."
+line "Ti diro',|p| ci avro' pensato su per due secondi.|p| Kat e' quella coi piani da paura."
 face l 1 0
 l
-line "She wants to-|p 20| |skip| "
+line "Lei vorrebbe-|p 20| |skip| "
 face k 0 1
 k
-line "Ethan,|p| just let me say it if\nyou're gonna tell them."
+line "Ethan,|p| se proprio glielo vuoi dire\nfai parlare a me."
 face k 0 0
 k
-line "You're gonna say it wrong."
+line "Ti spiegheresti male."
 face l 1 0
 l
-line "Okay dude,|p| the floor's yours."
+line "Ok bella,|p| a te il microfono."
 k
-line "I just wanna use the money to\nrent my own art studio."
+line "Voglio solo usare quel denaro\nrper affittare un atelier."
 face s 0 0
 s
-line "Oh that's awesome,|p| what do you do?"
+line "Oh ma e' fighissimo,|p| che cosa fai?"
 k
-line "It's just a hobby,|p| but I like\ndoing abstract paintings."
+line "E' solo un hobby,|p| ma mi piacee\nfare dipinti astratti."
 face l 0 0
 face k 0 1
 l
-line "Her current setup is in her mom's old room."
+line "Al momento la sua base e' nella vecchia camera di sua madre."
 face k 0 0
 k
-line "Uh,|p| yeah.|p| I'd like my own space for it."
+line "Uh,|p| gia'.|p| Mi piacerebbe avere uno spazio tutto mio."
 face s 0 0
 s
-line "I get that."
+line "Lo capisco."
 face s 0 1
 checkflag nickname_panda 1
 goto marker branch26y
@@ -42,14 +42,14 @@ goto marker branch26n
 marker branch26y
 
 s
-line "Panda,|p| we should totally use some money for our own studio."
+line "Panda,|p| dobbiamo assolutamente usare parte dei soldi per uno studio tutto nostro."
 
 goto marker branch26e
 
 marker branch26n
 
 s
-line "Pandora,|p| we should totally use some money for our own studio."
+line "Pandora,|p| dobbiamo assolutamente usare parte dei soldi per uno studio tutto nostro."
 
 goto marker branch26e
 
@@ -57,16 +57,16 @@ marker branch26e
 
 face p 4 0
 p
-line "Man,|p| isn't rent in this city\nlike,|p| super high?"
+line "Boh,|p| ma l'affitto di questa citta' non e',\ncome dire,|p| stratosferico?"
 s
-line "I think it beats getting noise complaints from my neighbors."
+line "Penso che sia comunque meglio di ricevere reclami per il rumore dai miei vicini."
 face l 0 0
 l
-line "Are you two in a band or something?|p| That's so awesome."
-line "My place gets a ton of\nnoise complaints too."
-line "My parents are always yelling at my older brothers for whatever trouble they get into..."
-line "I try to stay out of it."
-line "If Kat wins,|p| I'm absolutely gonna hang out with her at her studio."
+line "Voi due siete in una band?|p| Che figata."
+line "Anche da me arrivano\nlamentele per il rumore."
+line "I miei urlano sempre ai miei fratelli maggiori per qualche guaio in cui si sono cacciati..."
+line "Io cerco di rimanerne fuori."
+line "Se vincera' Kat,|p| di sicuro' passero' il tempo con lei nel suo atelier."
 
 setflag _0.slate_kat.read.BA 1
 setflag _0.slate_kat.branch BA

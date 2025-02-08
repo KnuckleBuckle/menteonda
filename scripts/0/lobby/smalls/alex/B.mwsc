@@ -1,25 +1,25 @@
 face p 0 1
 p
-line "Don't forget about the twenty bucks you owe me."
+line "Non dimenticarti dei venti che mi devi."
 face s 2 1
 s
-line "Yeah yeah,|p| I'll get it to you first thing after I win."
+line "Si' si',|p| te li daro' non appena avro' vinto."
 face p 0 0
 p
-line "To be honest,|p| I should've bet more."
+line "Ad essere onesta,|p| avrei dovuto puntare di piu'."
 face p 1 0
 p
-line "Talking to people here is giving me a weird feeling about the tournament."
+line "Parlare con questa gente mi da uno strano presentimento sul torneo."
 face s 0 0
 s
-line "You'll be fineeeee."
+line "Te la caveraaaaai."
 face p 0 2
 p
-line "Nah,|p| can't trust your judgement after you were completely and totally wrong about Alex."
-line "Like,|p| yeah,|p| of course someone clearly avoiding interaction didn't wanna talk to us."
+line "Nah,|p| dopo il torto completamente marcio che hai avuto su Alex non posso fidarmi del tuo giudizio."
+line "Che dire,|p| si',|p| e' ovvio che una persona che sta chiaramente evitando di interagire non vuole parlarci."
 face s 1 0
 s
-line "You know that's not true."
+line "Lo sai che non e' vero."
 checkflag _0.abbie.met 1
 goto marker branch7y
 goto marker branch7n
@@ -28,18 +28,18 @@ marker branch7y
 
 face s 0 1
 s
-line "Abbie seemed like she needed some company."
-line "She wasn't having trouble talking our ears off."
+line "Abbie sembrava aver bisogno di un po' di compagnia."
+line "Non aveva difficolta' a sfinirci a forza di parlare."
 checkflag _0.abbie.done 1
 goto marker branch2y
 goto marker branch2n
 marker branch2n
 face s 2 1
 s
-line "Honestly,|p| maybe we should go back to talk with her some more..."
+line "Sinceramente,|p| forse dovremmo tornare a parlare un altro po' con lei..."
 face s 0 2
 s
-line "Or we could talk to some new people."
+line "Oppure potremmo parlare con altre persone."
 marker branch2y
 goto marker branch1e
 
@@ -51,10 +51,10 @@ marker branch3y
 
 face s 0 1
 s
-line "Roxy was on her phone and she seemed nice."
+line "Roxy era sul cellulare e sembrava una simpatica."
 face s 0 0
 s
-line "Well,|p| nice enough."
+line "Beh,|p| abbastanza simpatica."
 goto marker branch1e
 
 marker branch3n
@@ -65,7 +65,7 @@ marker branch4y
 
 face s 0 1
 s
-line "Dom was on his phone and he was more than happy to approach us."
+line "Dom era sul cellulare e ci ha approcciato tranquillamente."
 
 checkflag _0.dom.read.ABAA 1
 goto marker branch5y
@@ -74,7 +74,7 @@ marker branch5y
 
 face s 2 1
 s
-line "And now we've got someone cool to plan a gig with."
+line "E ora abbiamo un tipo figo con cui progettare un concerto."
 
 
 goto marker branch1e
@@ -82,30 +82,30 @@ marker branch1e
 
 face s 0 1
 s
-line "There are absolutely people here who'd be cool to talk with."
+line "Stai certa che qui c'e' gente cin cui possiamo parlare senza problemi."
 face s 1 0
 s
-line "I might've just been wrong about this one,|p| that's all."
+line "Semplicemente mi saro' sbagliato su quella singola persona,|p| tutto qui."
 face s 0 1
 s
-line "Nothing we can do but move on and talk to someone else."
+line "Non possiamo far altro se non passare oltre e parlare con qualcun altro."
 face p 0 1
 p
-line "Oh yeah?|p| You wanna keep dragging me along to talk to people? "
+line "Ah si'?|p| Vuoi ancora trascinarmi a parlare con la gente? "
 face p 0 0
 p
-line "How do you plan on convincing me of that?|p| Are you gonna keep bribing me with easy bets?"
+line "Come credi di convincermi?|p| Continuerai a comprarmi con scommesse facili?"
 face s 1 0
 s
-line "Hmm,|p| well I do want my twenty dollars back..."
+line "Mmh,|p| beh, rivorrei indietro i miei venti dollari..."
 face s 0 1
 s
-line "Maybe I should embrace the gambler's fallacy."
+line "Forse dovrei adottare la fallacia dello scommettitore."
 face s 0 2
 s
-line "Shall we go double or nothing on the next person we meet?"
+line "Vogliamo raddoppiare la posta per la prossima persona che incrociamo?"
 p
-line "Bro,|p| if we keep meeting people like Alex, you'd better hope you win this tournament."
+line "Ti giuro,|p| se continueremo a beccare gente come Alex, dovrai pregare di vincere questo torneo."
 
 setflag _0.smalls.alex 2
 setflag _0.smalls.iris.branch B

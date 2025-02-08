@@ -1,22 +1,22 @@
 
 face p 1 0
 p
-line "I don't know why I'm entertaining this."
+line "Non so perche' sto assecondando quest'idea."
 face s 0 0
 s
-line "Entertaining what?|p| Talking to people?"
+line "Assecondare cosa?|p| Parlare con la gente?"
 face p 1 0
 p
-line "Yeah,|p| people here clearly don't wanna fraternize."
-line "Especially people clearly trying to avoid interaction by listening to music or staring at their phone."
+line "Gia',|p| gente che chiaramente non vuole socializzare."
+line "Soprattutto gente che sta palesemente ascoltando la musica o guardando il cellulare per cercare di evitare interazioni."
 face s 0 1
 s
-line "Oh,|p| is this about Alex?"
-line " 'Cuz nah,|p| I disagree."
+line "Oh,|p| stai parlando di Alex?"
+line " Perche' no,|p| non sono d'accordo."
 
 
 s
-line "You know that's not true."
+line "Lo sai che non e' vero."
 checkflag _0.abbie.met 1
 goto marker branch7y
 goto marker branch7n
@@ -25,18 +25,18 @@ marker branch7y
 
 face s 0 1
 s
-line "Abbie seemed like she needed some company."
-line "She wasn't having trouble talking our ears off."
+line "Abbie sembrava aver bisogno di un po' di compagnia."
+line "Non aveva difficolta' a sfinirci a forza di parlare."
 checkflag _0.abbie.done 1
 goto marker branch2y
 goto marker branch2n
 marker branch2n
 face s 2 1
 s
-line "Honestly,|p| maybe we should go back to talk with her some more..."
+line "Sinceramente,|p| forse dovremmo tornare a parlare un altro po' con lei..."
 face s 0 2
 s
-line "Or we could talk to some new people."
+line "Oppure potremmo parlare con altre persone."
 marker branch2y
 goto marker branch1e
 
@@ -48,10 +48,10 @@ marker branch3y
 
 face s 0 1
 s
-line "Roxy was on her phone and she seemed nice."
+line "Roxy era sul cellulare e sembrava una simpatica."
 face s 0 0
 s
-line "Well,|p| nice enough."
+line "Beh,|p| abbastanza simpatica."
 goto marker branch1e
 
 marker branch3n
@@ -62,32 +62,32 @@ marker branch4y
 
 face s 0 1
 s
-line "Dom was on his phone and he was more than happy to approach us."
+line "Dom era sul cellulare e ci ha approcciato tranquillamente."
 
 
 goto marker branch1e
 marker branch1e
 face s 0 1
 s
-line "There are absolutely people here who'd be cool to talk with."
+line "Stai certa che qui c'e' gente cin cui possiamo parlare senza problemi."
 face s 1 0
 s
-line "I might've just been wrong about this one,|p| that's all."
+line "Semplicemente mi saro' sbagliato su quella singola persona,|p| tutto qui."
 face s 0 1
 s
-line "Nothing we can do but move on and talk to someone else."
+line "Non possiamo far altro se non passare oltre e parlare con qualcun altro."
 face p 1 2
 p
-line "\"Always right...\""
+line "\"Sempre ragione...\""
 face s 2 1
 s
-line "Yeah,|p| I am."
+line "Esatto,|p| ben detto."
 face s 0 1
 s
-line "How about we give Alex another shot?"
+line "Vogliamo riprovare con Alex?"
 face p 1 2
 p
-line "Nah,|p| absolutely not.|p| If you're gonna bother them again you can do it yourself."
+line "Nah,|p| assolutamente no.|p| Se vuoi fare nuovamente il rompiballe fallo da solo."
 
 
 setflag _0.smalls.alex 2

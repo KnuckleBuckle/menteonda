@@ -1,7 +1,7 @@
 p
-line "I think I'm gonna go catch up with Smalls."
+line "Credo che andro' a raggiungere Smalls."
 k
-line "Oh alright.|p| Cya I guess?"
+line "Oh, d'accorso.|p| Allora ciao?"
 face p 1 0
 face s 0 0
 p
@@ -13,7 +13,7 @@ set l x +20
 set s x -75
 set l front_when_speak 0
 l
-line "...and basically,|p| The Dormant Exile is being held at this summit-|p 30| |skip| "
+line "...e per farla breve,|p| l'Esule Dormiente e' trattenuto in questa assemblea-|p 30| |skip| "
 face s 0 1
 
 checkflag nickname_panda 1
@@ -23,14 +23,14 @@ goto marker branch26n
 marker branch26y
 
 s
-line "Oh hey Panda.|p| Get bored already?"
+line "Oh, ehi Panda.|p| Ti sei gia' annoiata?"
 
 goto marker branch26e
 
 marker branch26n
 
 s
-line "Oh hey Pandora.|p| Get bored already?"
+line "Oh, ehi Pandora.|p| Ti sei gia' annoiata?"
 
 goto marker branch26e
 
@@ -39,23 +39,23 @@ marker branch26e
 face p 0 2
 
 p
-line "I dunno,|p| conversation just kinda died."
+line "Non saprei dirtelo,|p| la conversazione e' andata a scemare."
 face l 0 0
 l
-line "What's up Pandora?|p| I was just about to tell Smalls about the best arc."
-line "You're welcome to listen in."
+line "Come va, Pandora?|p| Stavo giusto per dire a Smalls della saga migliore."
+line "Se vuoi ascoltare accomodati."
 face p 0 0
 p
-line "I'm good."
+line "Sono a posto."
 face p 1 0
 p
-line "Smalls can we go?"
+line "Smalls, possiamo andare?"
 face s 0 3
 s
-line "Oh,|p| sure."
+line "Oh,|p| certo."
 face s 0 0
 s
-line "Catch ya later Ethan."
+line "Ci si vede alla prossima, Ethan."
 
 setflag _0.pandora.alone 0
 setflag _0.pandora.kat 1

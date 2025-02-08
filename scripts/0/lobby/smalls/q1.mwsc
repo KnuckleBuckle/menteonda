@@ -1,48 +1,48 @@
 p
-line "So,|p| Mindscape Tower...|p| Here we are."
+line "Dunque,|p| Mindscape Tower...|p| Eccoci qua."
 face s 1 0
 s
-line "Yeah.|p| The inside is crazy looking."
+line "Gia'.|p| L'interno della torre e' fuori di testa."
 p
-line "I wonder how many people have actually set foot in here?"
+line "Chissa' quante persone hanno effettivamente messo piede qui?"
 face s 0 1
 s
-line "Besides the thousand-something invited annually?"
+line "A parte il migliaio che viene invitato ogni anno?"
 face p 0 2
 p
-line "Yes,|p| besides them."
+line "Si',|p| a parte quello."
 face p 1 2
 p
-line "It's just a really secretive place.|p| Doesn't feel like we're supposed to be here."
+line "E' solo che e' un luogo molto misterioso.|p| Mi sento come se non dovessimo essere qui."
 
 face p 1 0
 p
-line "It's not something you ever think about.|p| You just see it on the skyline."
-line "Evil-ass tower with a freaky glowy eye."
+line "Non e' qualcosa che ti viene da pensare.|p| Basta guardare l'orizzonte."
+line "Una torre maligna del cazzo con un orrendo occhio luminoso."
 face p 0 2
 p
-line "We're INSIDE the evil-ass tower,|p| isn't that weird??"
+line "Siamo DENTRO la torre maligna del cazzo,|p| non lo trovi strano??"
 face s 0 0
 s
-line "Yeah,|p| but you weren't gonna miss this opportunity,|p| were you?"
+line "Si',|p| ma non avresti mai rinunciato a quest'oppotunita',|p| vero?"
 face p 0 0
 p
-line "Nope.|p| I ain't gonna pass up the opportunity to take Mindscape's cash."
-line "Even if they are kinda evil."
+line "No.|p| Non mi lascero' sfuggire la possibilita' di prendermi i soldi di Mindscape."
+line "Anche se sono un po' malvagi."
 face s 1 0
 s
-line "How evil are they, though?"
+line "Quanto malvagi, pero'?"
 face s 0 0
 s
-line "The branding is super weird,|p|\nbut all they did was make a game."
+line "La loro immagine e' super-strana,|p|\nma hanno solamente creato un gioco."
 p
-line "Is there any other company as transparently evil?"
+line "Esistono altre aziende cosi' palesemente malvagie?"
 face s 2 0
 s
-line "Probably,|p| but I couldn't name any off the top of my head."
+line "Probabile,|p| ma ora come ora non mi vengono in mente dei nomi."
 face p 0 2
 p
-line "Okay,|p| helpful."
+line "Ok,|p| sei di grande aiuto."
 face s 2 1
 s
 line "..."

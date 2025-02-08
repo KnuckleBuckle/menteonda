@@ -1,41 +1,41 @@
 face s 0 1
 s
-line "Ethan,|p| Kat,|p| it was nice meeting you."
+line "Ethan,|p| Kat,|p| è stato bello conoscervi."
 face l 0 0
 l
-line "Same dude.|p| Good luck with the game you two."
+line "Anche per noi.|p| In bocca al lupo per le vostre partite."
 face p 0 0
 s
-line "Kat,|p| I hope you can get that studio of yours if you win. "
+line "Kat,|p| se vincerai tu spero che otterrai quell'atelier. "
 face k 0 2
 k
-line "Thanks."
+line "Grazie."
 l
-line "It would be so sweet.|p| I'll make sure Kat installs a flat screen in there."
-line "Then I'll invite y'all over for a Fortress of Sorrow binge session. "
+line "Sarebbe mitico.|p| Mi assicurero' che Kat ci metta una TV al plasma."
+line E poi vi invitero' tutti ad una maratona di Fortress of Sorrow. "
 face k 0 1
 k
-line "Yeah,|p| I'm not doing that."
-line "I wouldn't be able to focus on my art with you watching your stupid show there. "
+line "Ok,|p| io non ci sto."
+line "Non sarei capace di concentrarmi sulla mia arte con te che guardi quella tua stupida serie. "
 face k 0 2
 k
-line "The rest of you are invited though."
+line "Voi altri pero' siete invitati."
 face l 1 0
 l
-line "Dude, Kat,|p| you KNOW I can't invite anyone to my place to chill."
-line "Maybe I'll just have to beat you so that it'll be YOU borrowing MY studio. "
+line "Ti prego, Kat,|p| lo SAI che da me non posso invitare nessuno per cazzeggiare."
+line "Forse dovro' batterti per far si' che TU dovrai prendere in prestito il MIO atelier. "
 face k 0 1
 k
-line "Yeah?|p| We'll see which of us wins then."
+line "Ah si'?|p| Allora vedremo chi di noi vincera'."
 s
-line "Hahaha."
-line "See you guys."
+line "Ahahah."
+line "Ci si vede, ragazzi."
 face l 0 0
 l
-line "Peace."
+line "Statemi bene."
 face k 0 2
 k
-line "Cya!"
+line "Ci si becca!"
 
 setflag _0.smalls.slate_kat 1
 setflag _0.slate_kat.done 1

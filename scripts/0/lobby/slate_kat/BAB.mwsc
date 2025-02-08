@@ -1,9 +1,9 @@
 face s 1 0
 s
-line "Alright,|p| I should probably ask..."
+line "Ok,|p| lo chiedo per sicurezza..."
 face s 0 0
 s
-line " ...are you guys brother and sister?"
+line " ...voi siete fratello e sorella?"
 face k 0 1
 face l 1 0
 k
@@ -11,7 +11,7 @@ line "..."
 face k 0 0
 face l 0 0
 k
-line "...are YOU guys siblings?"
+line "...e VOI invece?"
 face p 4 0
 face s 0 3
 s
@@ -19,61 +19,61 @@ line "..."
 face p 0 1
 face s 2 0
 s
-line "Okay,|p| point taken."
+line "Okay,|p| touche'."
 face s 1 0
 s
-line "Still,|p| that's the vibe I get."
+line "Comunque,|p| mi date quest'impressione."
 face s 0 0
 s
-line "You get what I mean,|p| right?"
+line "Capite cosa intendo,|p| no?"
 face l 0 0
 l
-line "Dude,|p| I look absolutely nothing like Kat."
+line "Amico,|p| io non ci somiglio affatto a Kat."
 k
-line "Yeah,|p| Ethan's wayyyy taller than me."
+line "Vero,|p| Ethan e' mooooolto piu' alto di me."
 l
-line "Yup,|p| both of my older bros are around my height.|p| My younger brother is getting there too."
+line "Oh si',|p| entrambi i miei fratelloni sono circa della mia altezza.|p| Anche mio fratellino ci sta arrivando."
 face k 0 2
 k
-line "Pshht,|p| yeah.|p| You hail from a family of freaks."
+line "Pshht,|p| gia'.|p| Discendi da una famiglia di mostri."
 face p 0 0
 p
-line "How do you guys know each other then?"
+line "Allora come vi siete conosciuti?"
 l
-line "Kat was the new kid I think in uhhh..."
+line "Kat era la nuova arrivata credo durante uhhh..."
 face k 0 0
 k
-line "3rd grade.|p| It was 7 years ago."
+line "La terza elementare.|p| Sono passati sette anni."
 face l 1 0
 l
-line "Yeah,|p| it was 3rd grade.|p| She showed up a few months into the school year."
+line "Si',|p| era la terza.|p| Era arrivata qualche mese dopo l'inizio dell'anno scolastico."
 face l 0 0
 l
-line "We ended up paired together for a group project.|p| Nobody else wanted to be partners with either of us."
+line "Siamo finiti in coppia per un lavoro di gruppo.|p| Nessuno voleva lavorare assieme ad uno di noi."
 face s 0 0
 s
-line "Damn,|p| why?|p| You guys are cool."
+line "Cavolo,|p| perche'?|p| Siete dei grandi."
 l
-line "Classmates didn't love how much I'd talk about the shows I was into."
+line "Ai miei compagni non piaceva quanto parlassi delle serie a cui ero appassionato."
 face l 1 0
 l
-line "They didn't seem to like Kat either.|p| I've got no clue why,|p| Kat's super chill."
-line "Real easy to talk to."
+line "Pare che non gradissero neanche Kat.|p| Non ne ho idea del motivo,|p| Kat e' un sacco alla mano."
+line "Con lei ci si parla tranquillamente."
 face l 0 0
 l
-line "So we just ended up sticking\ntogether."
+line "Cosi' abbiamo finito per restare\nuniti."
 face k 0 2
 k
-line "We got an A on that project \nby the way."
+line "Compunque abbiamo preso una A\nper quel progetto."
 face s 0 1
 s
-line "Sweet."
+line "Grandi."
 l
-line "I did most of the work."
+line "Io ho fatto il grosso."
 face k 0 0
 k
-line "I listened to you ramble about whatever show you were into that week."
-line "We basically put in equal effort."
+line "Ti ho ascoltato blaterare di tutte le tue serie a cui eri preso in quella settimana."
+line "Abbiamo praticamente messo lo stesso sforzo."
 
 setflag _0.slate_kat.read.BAB 1
 setflag _0.slate_kat.branch BAB

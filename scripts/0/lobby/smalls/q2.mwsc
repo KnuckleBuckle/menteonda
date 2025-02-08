@@ -1,45 +1,45 @@
 p
-line "So.|p| You snuck in."
+line "Dunque.|p| Ti sei imbucato."
 set s pose 2
 face s 0 1
 s
-line "I did!"
+line "Ben detto!"
 
 set p pose 1
 p
-line "First off.|p|\nWhy?"
-line "That's the type of thing you'd chastise me for even thinking of doing."
+line "Innanzitutto.|p|\nPerche'?"
+line "Questo e' il genere di roba per cui mi faresti una tirata anche solo per averla pensata."
 face s 0 0
 s
-line "Yeah,|p| but I knew you'd have an awful time here without me."
-line "Especially because you almost passed out last time you played."
+line "Vero,|p| ma sapevo che senza di me te la saresti vista brutta."
+line "Specialmente dato che l'ultima volta che hai giocato sei quasi svenuta."
 face p 1 0
 p
-line "I wasn't even close to passing out...|p|\nI just threw up."
+line "Nei tuoi sogni forse stavo per svenire...|p|\nHo solo vomitato."
 s
-line "Well,|p| if I got a headache so bad it made me puke,|p| I'd at least want a friend there to comfort me."
+line "Beh,|p| se mi venisse un mal di testa cosi' forte da farmi vomitare,|p| quantomeno vorrei un amico che mi conforti."
 
 face p 0 2
 p
-line "So you'll call the paramedics if I die."
+line "Quindi se muoio chiamerai i soccorsi."
 face s 0 0
 s
-line "Nah,|p| my phone's not picking up service here."
+line "Nah,|p| il mio telefono qui non prende."
 
 face s 2 1
 s
-line "But you can complain to me anytime."
+line "Ma puoi lamentarti con me quanto vuoi."
 face p 1 2
 p
-line "I'll be dead. "
+line "Saro' morta. "
 
 face s 0 0
 s
-line "Yeah."
-line "If a game was so bad it killed you,|p| I'd hope you complain. "
+line "Esatto."
+line "Ci mancherebbe che non avessi da ridire,|p| se un gioco potrebbe benissimo ucciderti. "
 face p 0 0
 p
-line "Oh you wouldn't hear the end of it, dude."
+line "Oh, ti farei la testa come un pallone, bello."
 
 
 

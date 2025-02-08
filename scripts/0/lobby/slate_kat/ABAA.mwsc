@@ -1,27 +1,27 @@
 face l 1 0
 l
-line "Oh, that reminds me,|p| Kat,|p| did you ever end up calling your nanna?"
-line "She wanted us to call her\nwhen we got here."
+line "Oh, a proposito,|p| Kat,|p| sei riuscita poi a chiamare tua nonna?"
+line "Voleva che la chiamassimo\nquando saremmo arrivati."
 face k 0 1
 k
-line "Yeahhhh,|p| I suppose I gotta do that."
-line "She's gonna be worrying all night if\nI don't give her a call before\nthe tournament starts. "
+line "Eeeeh si',|p| mi sa che mi tocca."
+line "Si preoccupera' per tutta la notte\nse non la sento prima\ndell'inizio del torneo. "
 face k 0 0
 k
-line "So we'd better head out now."
+line "Percio' sara' meglio avviarci."
 face p 0 0
 face s 0 1
 s
-line "Yeah,|p| don't keep her worrying."
-line "Pandora and I gotta get going too."
+line "Gia',|p| non farla stare in pensiero."
+line "Anche io e Pandora dobbiamo andare."
 face s 0 1
 s
-line "We've got more people to meet."
+line "Abbiamo altra gente da incontrare."
 k
-line "Cya! "
+line "Ci si becca! "
 face l 0 0
 l
-line "Peace!"
+line "Statemi bene!"
 
 
 setflag _0.smalls.slate_kat 1

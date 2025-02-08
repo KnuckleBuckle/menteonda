@@ -1,44 +1,44 @@
 
 face k 0 0
 k
-line "I think Ethan and I are gonna head out for now."
+line "Io e Ethan ci allontaniamo un attimo."
 face k 0 2
 k
-line "He had an interesting story to tell me about the tubes on the ceiling."
+line "Lui aveva qualcosa di interessante da dirmi sui tubi sul soffito."
 face l 1 0
 l
-line "OH,|p| dude, yeah."
+line "OH,|p| giusto, si'."
 face s 0 1
 s
-line "That's all good."
-line "Pandora,|p| the MINUTE we get outta this tournament we're watching F.O.S."
+line "E' tutto a posto."
+line "Pandora,|p| NON APPENA usciremo da questo torneo ci guarderemo F.O.S."
 face p 0 4
 p
-line "Dude,|p| really?"
+line "Ti prego,|p| ma sei serio?"
 face s 0 2
 s
-line "Yeah,|p| it's the first thing I wanna do after I win this thing."
-line "Hell,|p| we could leave right now, too."
+line "Si',|p| e' la prima cosa che voglio fare dopo aver vinto."
+line "Al diavolo,|p| potremmo anche andarcene ora."
 face p 0 2
 p
-line "You wanna throw your chances of winning to watch a cartoon?"
+line "Vuoi sprecare le tue chance di vittoria per vederti un cartone?"
 face k 0 2
 k
-line "Trust me Smalls,|p| Ethan makes it sound more interesting than it really is."
+line "Fidati Smalls,|p| Ethan lo fa sembrare piu' interessante di quanto lo sia realmente."
 face s 0 1
 s
-line "I'll just have to see for myself."
+line "Me ne accertero' di persona."
 face l 0 0
 l
-line "Bye dudes."
+line "Ciao belli."
 face p 0 0
 p
-line "Bye."
+line "Ciao."
 s
-line "Cya!"
+line "Ci si becca!"
 face k 1 0
 k
-line "Peace."
+line "Statemi bene."
 
 setflag _0.smalls.slate_kat 1
 setflag _0.slate_kat.done 1

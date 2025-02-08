@@ -1,69 +1,69 @@
 p
 line "..."
 k
-line "Are you just not into talking to me or something?"
+line "Per caso non ti interessa parlare con me?"
 face p 0 0
 p
-line "Nah,|p| that's not it,|p| Smalls just left a little abruptly there."
+line "Nah,|p| non e' quello,|p| e' solo che Smalls se ne e' andato un po' di colpo."
 k
-line "What,|p| is your issue the whiplash?"
-line "Suddenly having to talk with me one on one?"
+line "Cos'e',|p| hai subito uno shock?"
+line "Per dover di colpo parlare con me a tu per tu?"
 p
-line "Yeah.|p| I'm not really amazing\nat talking to new people."
+line "Gia'.|p| Non sono molto brava\na parlare con persone nuove."
 face p 0 0
 p
-line "It's nothing against you."
+line "Non ho nulla contro di te."
 k
-line "Got it."
+line "Ricevuto."
 face p 1 0
 p
 line "..."
 k
-line "I can understand that..."
-line "When I transferred schools, I never wanted to talk to anyone."
+line "Posso capirlo..."
+line "Quando cambiavo scuola, non volevo mai parlare con qualcuno."
 face k 0 2
 k
-line "All my classmates thought I was weird."
+line "Tutti i miei compagni pensavano fossi strana."
 face k 0 0
 k
-line "Except Ethan.|p| That's 'cuz he was just as weird."
-line "So I kinda just got used to\nhanging with him."
+line "A parte Ethan.|p| Perche' era altrettanto strano."
+line "Percio' mi sono abbastanza abituata\na stare con lui."
 face p 0 0
 p
-line "Yeah if I'm being honest,|p| Smalls is the one pushing me to be a little more social."
+line "Gia', se devo essere onesta,|p| Smalls e' quello che mi spinge ad essere piu' socievole."
 face p 0 2
 p
-line "I didn't expect him to leave me\nhanging like this."
+line "Non mi aspettavo che mi\navrebbe lasciata cosi'."
 face k 0 2
 k
-line "That's funny."
+line "E' buffo."
 face k 0 0
 k
-line "Ethan's a bit awkward,|p|\nbut he's certainly social."
-line "Hanging out with him got me\ntalking to people more."
+line "Ethan e' un po' goffo,|p|\nma di sicuro e' socievole."
+line "Uscire con lui mi ha spinto\na parlare di piu' con le persone."
 face k 0 2
 k
-line "Now he's the weirder one\nout of the two of us."
+line "Ora e' lui il piu'\nstrano tra noi due."
 face p 0 1
 p
-line "I can see that."
-line "Honestly,|p| I-|p 20| |skip| "
+line "Lo vedo."
+line "Saro' sincera,|p| ho-|p 20| |skip| "
 set s x -70
 set p x +45
 face l 0 0
 face p 4 0
 s
-line "Yo, we're back."
+line "Yo, siamo tornati."
 set k x +67
 set l x -48
 l
-line "Sup dudes."
+line "Bella li'."
 face s 2 1
 s
-line "Pandora,|p| how have you not told me about Fortress of Sorrow before?"
+line "Pandora,|p| perche' non mi hai mai parlato di Fortress of Sorrow?"
 face s 0 2
 s
-line "Ethan made it sound like\nthe best show of all time."
+line "Ethan lo ha fatto sembrare\nla piu' grande serie di sempree."
 
 
 setflag _0.slate_kat.read.BBA 1
