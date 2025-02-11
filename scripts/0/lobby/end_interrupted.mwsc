@@ -53,10 +53,10 @@ p
 line "|p 30| |skip| "
 allow_player_input 1
 p
-line "Oh,|p| is it starting?"
+line "Oh,|p| sta per iniziare?"
 face p 0 0
 p
-line "I gotta get back with Smalls."
+line "Devo tornare da Smalls."
 goto marker end
 
 

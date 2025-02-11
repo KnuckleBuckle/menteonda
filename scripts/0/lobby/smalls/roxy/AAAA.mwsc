@@ -1,52 +1,52 @@
 face s 0 0
 s
-line "You look nervous."
+line "Ti vedo nervosa."
 face s 0 1
 s
-line "Worried about something?"
+line "Qualcosa ti turba?"
 face p 1 2
 p
-line "Yeah...|p| talking with Roxy earlier made me realize how hopeless my odds are."
+line "Gia'...|p| parlare prima con Roxy mi ha fatto capire quanto sia disperata la mia situazione."
 face p 0 2
 p
-line "There's too many people here with more experience than me."
+line "Ci sono troppe persone con piu' esperienza di me."
 s
-line "Just try not to worry."
+line "Cerca solo di non preoccuparti."
 face s 1 0
 s
-line "This tournament happens every year."
-line "The people who win aren't usually the known professionals."
+line "Questo torneo si tiene ogni anno."
+line "I vincitori di solito non sono professionisti affermati."
 face p 1 0
 p
-line "Yeah there's probably like,|p| unknown professionals here too."
+line "Si', possono esserci anche non so,|p| dei professionisti sconosciuti."
 face p 0 2
 p
-line "That's even more concerning."
+line "Questo e' ancor piu' allarmante."
 face s 0 0
 s
-line "I'm not saying that."
-line "I think Roxy's immersion in the competitive scene might be its own hurdle."
+line "Non intendo questo."
+line "Penso che la forte presenza di Roxy nella scena competitiva possa fungerle da ostacolo."
 face s 1 0
 s
-line "She's only used to playing MINDWAVE with people who also dedicate themselves to the game."
+line "Lei e' abituata a giocare a MINDWAVE solo con persone dedite al gioco a loro volta."
 face s 2 0
 s
-line "Your experience with MINDWAVE could be a completely different world than she's used to."
+line "La tua esperienza con MINDWAVE potrebbe essere un mondo totalmente diverso da quello a cui lei e' avvezza."
 face s 0 2
 s
-line "Maybe you're the unknown professional."
+line "Forse sei tu la professionista sconosciuta."
 face p 1 2
 p
-line "Nah man,|p| I can barely play the game without getting sick."
+line "Nah bello,|p| a malapena riesco a giocare senza star male."
 face s 0 0
 s
-line "Oh well,|p| just trying to cheer you up."
+line "Oh beh,|p| tentavo solo di tirarti su."
 face s 0 3
 s
-line "If anything,|p| I'm the one who should be worried."
+line "Al massimo,|p| dovrei essere io quello preoccupato."
 face s 0 1
 s
-line "At least you entered this tournament legally."
+line "Almeno te sei entrata in questo torneo in maniera legittima."
 
 
 

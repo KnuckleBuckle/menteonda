@@ -13,7 +13,7 @@ MINDWAVE si incentra sul connetterti con la mente del tuo avversario e percepire
 Giocheremo alcuni microgiochi della tua stessa mente,|p| in modo da fare pratica!
 show_controls
 Ogni microgioco usa quella che chiamiamo Interfaccia.|p|\nEsse determinano come interagirai col microgioco!
-Adesso proviamo un microgioco usando l'Interfaccia mostrata a sinistra!|p|\nSpero che si spieghi da solo.
+Adesso proviamo un microgioco usando l'Interfaccia mostrata a sinistra!|p|\nSpero che si spieghi da sola.
 goto marker end
 
 
@@ -21,13 +21,13 @@ marker 1fails
 Mmh... forse stai avendo problemi con l'Interfaccia...
 Immagina di tenere un mouse nella tua mano, hai capito?|p|\nL'Interfaccia serve a questo!
 show_controls
-Basta cerchiare la piccola te stessa che corre in giro!|p|\n"Clicca" e "trascina!"
+Basta cerchiare la piccola te stessa che corre in giro!|p|\n"Clicca" e "trascina"!
 goto marker end
 
 marker 2fails
 Immagina di tenere un mouse nella tua mano,|p| hai capito?|p|\nL'Interfaccia serve a questo!
 show_controls
-Basta cerchiare la piccola te stessa che corre in giro!|p|\n"Clicca" e "trascina!"
+Basta cerchiare la piccola te stessa che corre in giro!|p|\n"Clicca" e "trascina"!
 goto marker end
 
 

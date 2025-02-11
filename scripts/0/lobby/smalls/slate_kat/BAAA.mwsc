@@ -1,45 +1,45 @@
 face p 0 1
 face p 0 1
 p
-line "Kat's kinda cool."
+line "Kat non e' malaccio."
 face p 0 0
 p
-line "If it wasn't so messy,|p| I'd totally be into painting for fun."
+line "Se non ci si sporcasse cosi' tanto,|p| mi piacerebbe un sacco dipingere per hobby."
 face s 0 1
 s
-line "Music is abstract in its own way."
+line "La musica ha il suo modo di essere astratta."
 face s 0 0
 s
-line "It's a lot less messy as well."
+line "E ci si sporca anche molto di meno."
 p
-line "Playing random notes is kinda fun sometimes..."
-line "...but I like when the music we make actually sounds like something."
+line "Suonare note a caso a volte e' uno svago carino..."
+line "...ma mi piace quando la musica che facciamo ha delle effettive melodie."
 face s 0 1
 s
-line "For sure."
+line "Ovvio."
 face p 1 0
 p
-line "She seems like a scary opponent though..."
+line "Pero' sembra un'avversaria terrificante..."
 face p 1 2
 p
-line "If it's as trippy as it sounds,|p|\nI might puke again."
+line "Se e' cosi' intrippante come dicono,|p|\npotrei vomitare di nuovo."
 face s 1 0
 s
-line "I wouldn't be that worried about the idea of competing against Kat."
+line "Non sarei cosi' in pensiero all'idea di competere contro Kat."
 face p 0 2
 p
-line "Why?|p| Even if she wasn't more experienced than me,|p| she's clearly more lucky."
+line "Perche'?|p| Anche se non fosse piu' esperta di me,|p| e' chiaramente piu' fortunata."
 face p 0 0
 p
-line "She won the lottery twice by finding two tickets."
+line "Trovando un secondo biglietto ha vinto due volte alla lotteria."
 s
-line "Maybe that's exactly why you don't gotta worry."
+line "Forse e' proprio per questo che non devi preoccuparti."
 face s 2 1
 s
-line "Her luck is bound to run out eventually."
+line "Prima o poi la sua fortuna finira'."
 face p 1 0
 p
-line "That's not how it works bro."
+line "Non e' cosi' che funziona, bello."
 
 
 

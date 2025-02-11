@@ -8,7 +8,7 @@ p
 line "Semmai mi mette un po' a disagio,|p| non trovate?"
 face s 2 1
 s
-line "Mi dispiace,|p| ma io qui sono dalla parte di Abbie,|p| questa e' il SIMBOLO della citta'."
+line "Mi dispiace,|p| ma io qui sono dalla parte di Abbie,|p| questo e' il SIMBOLO della citta'."
 face s 0 1
 s
 line "Se non ammetti che starci dentro sia un po' una figata..."

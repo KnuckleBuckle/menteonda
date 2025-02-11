@@ -31,7 +31,7 @@ line "I parcheggi sono sempre pieni."
 line "Sul serio ai tuoi genitori piace cercare un posto per 20 minuti ogni volta che vanno da qualche parte?"
 face a 1 2
 a
-line "Eccooooo...|p| I miei si innervosiscono molto quando non trovano un buon parcheggio do get really annoyed when they can't find a good parking spot."
+line "Eccooooo...|p| I miei si innervosiscono molto quando non trovano un buon parcheggio."
 face a 0 0
 a
 line "Ma non e' cosi' male.|p|"
@@ -48,7 +48,7 @@ line "Non riuscivo a capire la voce dell'altoparlante."
 line "Non ero sicura su quando avrei dovuto scendere dal treno,|p| per cui devo aver perso la mia fermata."
 face a 1 0
 a
-line "Per fortuna che alta com'e' la torre,|p| sono comunque riuscita a vederla da qualche isolato di distanza."
+line "Per fortuna che, alta com'e' la torre,|p| sono comunque riuscita a vederla da qualche isolato di distanza."
 face a 0 0
 a
 line "Per arrivare qui ho camminato nella sua direzione seguendola dall'orizzonte!"

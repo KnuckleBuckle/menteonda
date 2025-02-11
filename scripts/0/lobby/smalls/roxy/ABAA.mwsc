@@ -1,51 +1,51 @@
 face p 0 2
 p
-line "I think that varsity team girl is the scariest one here."
+line "Credo che quella ragazza nel team della sua scuola sia la piu' spaventosa di tutti."
 face s 0 0
 s
-line "Roxy?|p| She's not scary,|p| she's cool."
+line "Roxy?|p| Non e' spaventosa,|p| e' una grande."
 face p 1 0
 p
-line "No,|p| I don't mean like,|p| scary as a person..."
-line "I mean scary as an opponent."
+line "No,|p| non hai capito,|p| non spaventosa come persona..."
+line "Intendevo spaventosa come avversaria."
 face p 0 0
 p
-line "As a person,|p| she was fine enough..."
+line "Come persona,|p| sembrava abbastanza ok..."
 face p 0 2
 p
-line "Though I'm also wary of someone as into MINDWAVE as she is."
+line "Anche se sono un po' diffidente verso una cosi' patita di MINDWAVE come lei."
 face s 0 1
 s
-line "Nah man, MINDWAVE is cool too."
+line "Nah, dai, anche MINDWAVE e' figo."
 face s 0 0
 s
-line "I think you play guitar for the same reasons Roxy plays MINDWAVE."
-line "I think for professional players,|p| it's their own form of self expression."
+line "Penso che tu suoni la chitarra per gli stessi motivi per cui Roxy gioca a MINDWAVE."
+line "Credo che, per i giocatori competitivi,|p| sia un loro modo di esprimere il proprio io."
 face p 0 4
 p
-line "I don't think it's similar at all.|p| Music is an actual art form."
+line "Non penso per niente che sia lo stesso.|p| La musica e' una vera e propria forma d'arte."
 face p 0 2
 p
-line "Plus,|p| playing the guitar doesn't make me nauseous."
+line "E poi,|p| suonare la chitarra non mi fa venire la nausea."
 face s 0 1
 s
-line "I'd assume at her level,|p| there's probably some creativity involved in her playstyle."
+line "Suppongo che, al suo livello,|p| ci sara' qualche grado di creativita' nel suo stile di gioco."
 face p 1 0
 p
-line "Maybe?|p| I wouldn't really know..."
-line "There's too many people here with more experience than me."
+line "Forse?|p| Non saprei dirtelo..."
+line "Ci sono troppe persone con piu' esperienza di me."
 face s 2 0
 s
-line "Depending on the bracket layout,|p| you might cruise through the tournament without going against her."
+line "In base alla struttura dei gironi,|p| potrai avanzare speditamente nel torneo senza dover fronteggiarla."
 face s 0 1
 s
-line "If that helps."
+line "Se puo' consolarti."
 face p 0 0
 p
-line "It doesn't help."
+line "Non mi consola."
 face p 1 0
 p
-line " 'Cuz if that happened I'd just be going against the person who beat her instead."
+line "Perche' se cio' dovesse accadere dovrei vedermela con chi l'ha sconfitta."
 
 
 setflag _0.smalls.roxy 2

@@ -24,7 +24,7 @@ p
 line "No...|p| sei solo un po' strana."
 face p 0 1
 p
-line "Ma sto serena.|p|\nSembri abbastanza sana di mente."
+line "Ma va tutto bene.|p|\nSembri abbastanza sana di mente."
 face i 2 0
 i
 line "Oh."
@@ -34,7 +34,7 @@ line "Si',|p| lo capisco."
 face i 0 0
 i
 line "Non hai motivo di preoccuparti."
-line "Io ci gioco solo con i miei amici.|p| Di tanto in tanto."
+line "Io ci gioco solo coi miei amici.|p| Di tanto in tanto."
 line "E solo quelli mentalmente stabili."
 
 

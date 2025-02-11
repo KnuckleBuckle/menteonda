@@ -1,39 +1,39 @@
 face p 1 0
 p
-line "One thing I'm thinking about..."
+line "C'e' una cosa che mi preoccupa..."
 face p 0 0
 p
-line "Why does Roxy play MINDWAVE?"
-line "She seems well aware of the potential harm."
+line "Perche' Roxy gioca a MINDWAVE?"
+line "Sembra molto informata sui potenziali rischi."
 face s 1 0
 s
-line "You should've asked her instead of me."
+line "Avresti dovuto chiedere a lei invece che a me."
 face p 0 2
 p
-line "I dunno,|p| maybe it would've been rude."
+line "Non lo so,|p| forse sarebbe stato sgarbato."
 face p 1 2
 p
-line "MINDWAVE seems like her whole passion."
+line "MINDWAVE sembra essere la sua grande passione."
 face s 2 0
 s
-line "If I had to guess,|p| I don't think it's that different from your passions."
+line "Andando ad intuito,|p| non penso che la sua passione sia tanto diversa dalle tue."
 face p 0 2
 p
-line "Disagree completely.|p| Music is an actual art form."
-line "Plus,|p| playing the guitar doesn't make me nauseous."
+line "Sono in totale disaccordo.|p| La musica e' una vera e propria forma d'arte."
+line "E poi,|p| suonare la chitarra non mi fa venire la nausea."
 face s 0 2
 s
-line "MINDWAVE doesn't give your fingers calluses."
+line "MINDWAVE non ti fa venire i calli alle dita."
 face s 0 0
 s
-line "You had to deal with the pain for a while when you were first learning."
+line "Quando stavi imparando hai dovuto sopportare il dolore per un po'."
 face s 1 0
 s
-line "It's just something you had to power through to get to where you are now."
+line "Per arrivare a dove stai adesso non hai potuto far altro che stringere i denti."
 face p 0 0
 p
 line "..."
-line "Nah,|p| still disagree.|p| It's different."
+line "Nah,|p| continuo a non essere d'accordo.|p| E' diverso."
 
 
 setflag _0.smalls.roxy 2

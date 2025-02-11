@@ -1,7 +1,7 @@
 face p 0 0
 face s 0 0
 p
-line "Dom, bello."
+line "Dom, senti."
 face p 0 2
 p
 line "Ma a te importa di stare qui?"
@@ -21,7 +21,7 @@ line "A me neanche piace il gioco,|p| eppure eccomi qua."
 face d 0 0
 d
 line "Vedi,|p| a me in realta' piace giocarci,|p| ma faccio pena."
-line "Percio' stavo pensando di cedere il biglietto che ho preso in una farmacia ad un ami-|p| |skip| "
+line "Percio' stavo pensando di cedere il biglietto che ho preso in una farmacia a un ami-|p| |skip| "
 face p 0 2
 p
 line "In una farmacia?"
@@ -37,24 +37,24 @@ face p 1 2
 p
 line "...Giocare a MINDWAVE sarebbe l'ultimo dei miei pensieri."
 d
-line "Gia', sore'.|p| Quando ho visto il biglietto nel flacone,|p| ero come dire,|p| confuso."
+line "Eccome.|p| Quando ho visto il biglietto nel flacone,|p| ero sai,|p| confuso."
 face p 0 2
 p
 line "Anch'io rimarrei confusa."
 line "Se me lo dici in questo modo la prima cosa che mi viene in mente..."
-line "E' un vecchiaccio,|p| che viene qui dopo aver visto il biglietto nelle sue pillole per l'artrite."
+line "E' un vecchiaccio,|p| che vede il biglietto nelle sue pillole per l'artrite e viene qui."
 face p 1 1
 p
-line "MINDWAVE?|p| Non ho idea di cosa sia.|p| Ma di certo sara' li' che portero' le mie chiappe senili."
+line "MINDWAVE?|p| Non ho idea di cosa sia.|p| Ma di certo sara' li' che portero' il mio culo rugoso."
 face d 0 1
 d
-line "Fra,|p| ma uno cosi' vecchio potrebbe mai giocare senza rischi?"
+line "Insomma,|p| ma sara' sicuro per uno cosi' vecchio poter giocare?"
 face p 0 2
 p
 line "Se non e' senza rischi per me,|p| probabilmente no."
 face p 0 1
 p
-line "Povero nonnino, non ci puo' neanche giocare."
+line "Povero nonnino, non puo' neanche giocare."
 set s x -70
 set p x 45
 d

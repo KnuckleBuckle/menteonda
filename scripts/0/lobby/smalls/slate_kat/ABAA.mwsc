@@ -1,39 +1,39 @@
 face p 0 0
 p
-line "To be honest,|p| I don't really remember what Fortress of Sorrow was about."
+line "Ad essere onesta,|p| non ricordo molto di Fortress of Sorrow."
 face p 1 0
 p
-line "My dad had a copy that I'd watch sometimes,|p| but I don't think I understood anything."
+line "Mio papa' aveva una copia che avevo visto qualche volta,|p| ma non credo di averci capito qualcosa."
 face s 0 1
 s
-line "Huh,|p| I should've asked him about it then."
-line "I bet Ethan could've given you a much needed refresher."
+line "Uh,|p| avrei dovuto parlargliene."
+line "Scommetto che Ethan ti avrebbe fatto un meritato riassunto."
 p
-line "I think I'm good."
+line "Penso di star bene cosi'."
 face s 2 0
 s
-line "Fair."
+line "Onesto."
 face s 0 2
 s
-line "It might be better to go in blind."
+line "Forse e' meglio partire ignari di tutto."
 face p 1 2
 p
-line "We're not watching Fortress of Sorrow."
+line "Non ci guarderemo Fortress of Sorrow."
 face s 0 1
 s
-line "C'mon,|p| at least give it a chance."
+line "Eddai,|p| almeno dalle una chance."
 face p 4 0
 p
 line "..."
 face p 0 2
 p
-line "We can watch ONE episode,|p| but if it sucks I'm done."
+line "Guarderemo UN episodio,|p| ma se fa schifo ho chiuso."
 face s 2 1
 s
-line "You can't base your opinion off of a single episode."
+line "Non puoi basare la tua opinione su un singolo episodio."
 face p 1 0
 p
-line "Fine,|p| two episodes,|p| but if they both suck I'm never letting you trick me into watching dweeb garbage again."
+line "Va bene,|p| due episodi,|p| ma se faranno schifo entrambi non mi lascero' mai piu' convincere a guardare schifezze per falliti da te."
 
 
 

@@ -33,7 +33,7 @@ a
 line "Grazie!"
 face p 0 2
 p
-line "Fra,|p| non ti ho dato il permesso di passare il mio numero."
+line "Ferma,|p| non ti ho dato il permesso di passare il mio numero."
 face p 0 1
 p
 line "Ma si' dai,|p| qualche volta potremmo uscire assieme."

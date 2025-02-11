@@ -1,34 +1,34 @@
 face s 0 1
 s
-line "Ethan,|p| Kat,|p| it was nice meeting you."
+line "Ethan,|p| Kat,|p| è stato bello conoscervi.."
 face l 0 0
 l
-line "Same dude.|p| Good luck with the game you two."
+line "Anche per noi.|p| In bocca al lupo per le vostre partite."
 face p 0 0
 p
-line "Thanks.|p| I'm honestly not that experienced with MINDWAVE."
+line "Grazie.|p| Sinceramente non sono cosi' brava a MINDWAVE."
 face p 1 0
 p
-line "I'm kinda scared to go against either of you."
+line "Ho un po' paura di affrontare uno di voi due."
 face k 0 0
 k
-line "If you're anything like me,|p| you'll do fine against randoms.|p| Even without a ton of experience."
+line "Se sei della mia stessa pasta,|p| te la caverai coi normaloni.|p| Anche senza un mucchio di esperienza."
 face k 0 2
 k
-line "If you're anything like Ethan though,|p| maybe you should worry."
+line "Se pero' sei come Ethan,|p| io mi preoccuperei."
 face l 1 0
 l
-line "Dude, I am absolutely better than you at MINDWAVE."
+line "Che dici, io sono decisamente piu' bravo di te a MINDWAVE."
 k
-line "Yeah?|p| We'll see which of us wins then."
+line "Ah si'?|p| Allora vedremo chi di noi due vincera'."
 s
-line "Hahaha."
+line "Ahahah."
 face s 2 1
 s
-line "See you guys."
+line "Ci si vede, ragazzi."
 face l 0 0
 l
-line "Peace."
+line "Statemi bene."
 
 setflag _0.smalls.slate_kat 1
 setflag _0.slate_kat.done 1

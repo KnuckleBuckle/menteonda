@@ -1,39 +1,39 @@
 face p 0 0
 p
-line "Y'know,|p| I just realized...|p| I forgot to get that girl's name.|p|"
+line "Sai,|p| mi sono appena resa conto che...|p| ho dimenticato di chiederle come si chiama.|p|"
 face s 1 0
 s
-line "You cleared up the line situation at least,|p| right?"
+line "Almeno ti sei chiarita sula storia della fila,|p| no?"
 face p 0 2
 p
-line "Yeah...|p| I mean,|p| kinda?"
-line "I'm still not into the idea of playing against her."
+line "Si'...|p| Cioe',|p| piu' o meno?"
+line "Ancora non mi entusiasma l'idea di affrontarla."
 face p 1 0
 p
-line "I mean,|p| she's nice enough."
+line "Voglio dire,|p| e' abbastanza simaptica."
 face p 0 0
 p
-line "There's definitely something off about her though."
+line "Pero' c'e' qualcosa di strano in lei."
 face p 0 2
 p
-line "She's planning on investing in Mindscape Co. if she wins."
+line "Se vince ha in mente di investire su Mindscape Co."
 face s 1 0
 s
-line "Honestly not a bad idea."
+line "Sinceramente non e' una brutta pensata."
 face s 0 1
 s
-line "Having some stock in this company is probably a lucrative investment."
+line "Possedere delle azioni di questa azienda e' probabilmente un investimento redditizio."
 p
-line "Man,|p| I can't believe you."
+line "Cavolo,|p| sei incredibile."
 face p 1 2
 p
-line "Does playing MINDWAVE secretly turn people into corporate shills?"
+line "Giocare a MINDWAVE per caso fa venire segretamente voglia di leccare gli stivali dell'azienda?"
 face s 0 0
 s
-line "Probably not."
+line "Penso di no."
 face s 0 1
 s
-line "Though,|p| if I end up buying their stock,|p| I hope so."
+line "Tuttavia,|p| se mai comprero' delle loro azioni,|p| lo spero."
 
 setflag _0.smalls.iris 2
 setflag _0.smalls.iris.branch ABAA

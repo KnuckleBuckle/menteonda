@@ -1,39 +1,39 @@
 face s 0 1
 s
-line "After this is done,|p| we should totally watch some Fortress of Sorrow."
+line "Dopo che finiremo qui,|p| dovremo assolutamente guardarci un po' di Fortress of Sorrow."
 face p 0 0
 p
-line "Man,|p| it's really not as interesting as Slate made it sound."
+line "Dai,|p| non e' cosi' interessante come lo fa sembrare Slate."
 face p 1 0
 p
-line "There's a reason absolutely nobody talks about it nowadays."
+line "C'e' un motivo per cui letteralmente nessuno ne parla al giorno d'oggi."
 face p 0 1
 p
-line "If my dad's disc was actually worth something,|p| I'd sell it in a heartbeat."
+line "Se il disco di mio papa' valesse effettivamente qualcosa,|p| lo venderei seduta stante."
 face p 1 2
 p
-line "That way coming here could be worth something.|p| Even if I end up losing."
+line "Cosi' venire qui sarebbe servito a qualcosa.|p| Anche nel caso finissi per perdere."
 face s 0 1
 s
-line "Don't talk like that,|p| this experience is valuable in its own way."
+line "Non dire cosi',|p| e' comunque un'esperienza importante."
 face s 1 0
 s
-line "You also admitted to barely remembering the show.|p| I think it deserves a rewatch."
+line "Hai anche ammesso di ricordarti a malapena la serie.|p| Credo che si meriti un rewatch."
 face s 0 1
 s
-line "It could be even better than Slate made it sound,|p| you just gotta give it a chance."
+line "Potrebbe persino essere meglio di quanto lo faccia sembrare Slate,|p| devi solo darle una chance."
 face p 0 0
 p
-line "Man I dunno,|p| it's just nerd stuff."
+line "Boh, non so,|p| e' roba da nerdoni."
 face p 0 4
 p
-line "We can watch ONE episode,|p| but if it sucks I'm done."
+line "Guarderemo UN episodio,|p| ma se fa schifo ho chiuso."
 face s 2 1
 s
-line "You can't base your opinion off of a single episode."
+line "Non puoi basare la tua opinione su un singolo episodio."
 face p 1 0
 p
-line "Fine,|p| two episodes,|p| but if they both suck I'm never letting you trick me into watching dweeb garbage again."
+line "Va bene,|p| due episodi,|p| ma se faranno schifo entrambi non mi lascero' mai piu' convincere a guardare schifezze per falliti da te."
 
 
 setflag _0.smalls.slate_kat 2

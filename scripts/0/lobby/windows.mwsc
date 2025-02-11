@@ -20,7 +20,7 @@ p
 line "In qualsiasi edificio ti lascerebbero avvicinarti alle finestre e non so,|p| farti effettivamente guardare fuori."
 face p 0 0
 p
-line "Non a Mindscape pero'.|p| Perche'?"
+line "Non a Mindscape, pero'.|p| Perche'?"
 face p 0 2
 p
 line "Per la loro presunzione?"
@@ -44,7 +44,7 @@ s
 line "Non invidio i lavavetri della Torre Mindscape."
 face s 0 1
 s
-line "Potrebbero essere gli unici ad odiare più di te questo posto."
+line "Potrebbero essere gli unici ad odiare questo posto più di te."
 
 setflag _0.windows.done 1
 function lobby_tick_time 0.5

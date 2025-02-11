@@ -11,7 +11,7 @@ line "Oh si',|p| ti lascio un foglietto."
 face p 0 0
 d
 line "Sai pero' a cosa stavo pensando?"
-line "Dovremmo fare un concerto,|p| dentro a 'sto posto."
+line "Dobbiamo fare un concerto,|p| parlo proprio qui."
 s
 line "Che intendi,|p| la Torre Mindscape?"
 face s 2 0
@@ -32,7 +32,7 @@ p
 line "Anzi,|p| mi piacerebbe suonare qui PROPRIO perche' non abbiamo il permesso."
 face p 0 1
 p
-line "Pensate,|p| tirare fuori l'attrezzatura all'ingresso e suonare fino a quando non ci cacciano."
+line "Pensate,|p| tiriamo fuori l'attrezzatura all'ingresso e suoniamo fino a quando non ci cacciano."
 line "Ehi,|p| ti va, Dom?"
 d
 line "Ovviamente,|p| quando?"

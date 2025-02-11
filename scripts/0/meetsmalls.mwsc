@@ -5,7 +5,7 @@ p
 line "...Smalls!?"
 face s 0 2
 s
-line "Bella."
+line "Bella li'."
 face p 0 2
 p
 line "Sbaglio o tu non avevi un biglietto?"
@@ -28,7 +28,7 @@ s
 line "Quasi inesistente."
 face p 0 2
 p
-line "Amico."
+line "Piantala."
 face s 0 0
 s
 line "Sono semplicemente...|p| passato da una porta sul retro."

@@ -11,7 +11,7 @@ a
 line "...percio',|p| posso avere i vostri numeri?"
 face s 0 1
 s
-line "Certo,|p| eccolo qua."
+line "Certo,|p| eccoli qua."
 line "E poi,|p| se vuoi uscire con noi non farti problemi a chiamarci."
 face a 0 0
 a

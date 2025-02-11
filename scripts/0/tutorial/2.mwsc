@@ -10,18 +10,18 @@ marker 0fails
 Ben fatto!|p|\nQuesto microgioco era un pochino ostico.|p| Che ne dici di uno piu' semplice?
 show_controls
 Testeremo i tuoi riflessi con l'Interfaccia Barra Spaziatrice!
-Attendi il momento giusto...|p| dopodiche' SCHIACCIA sull'attenti!|p|\nCome se stessi schiacciando su una barra spaziatrice!|p| Hai capito?
+Attendi il momento giusto...|p| dopodiche' SCHIACCIA sull'attenti!|p|\nCome se stessi schiacciando una barra spaziatrice!|p| Hai capito?
 goto marker end
 
 marker 1fails
 Mmh...|p| questo potrebbe richiedere qualche tentativo...
-Premi la tua "Barra Spaziatrice" quando cambia l'illuminazione!|p| Hai capito?
+Premi la tua "Barra Spaziatrice" quando la luce cambia!|p| Hai capito?
 show_controls
 Basta schiacciarla al momento giusto!
 goto marker end
 
 marker 2fails
-Premi la tua "Barra Spaziatrice" quando cambia l'illuminazione!|p| Hai capito?
+Premi la tua "Barra Spaziatrice" quando la luce cambia!|p| Hai capito?
 show_controls
 Basta schiacciarla al momento giusto!
 goto marker end

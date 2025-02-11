@@ -16,7 +16,7 @@ face s 0 0
 s
 line "Stavi preparando un costume?"
 a
-line "Si'!|p| Doveva essere a tema di ragazza magica."
+line "Si'!|p| Doveva essere a tema ragazza magica."
 face a 1 2
 a
 line "Mio papa' voleva aiutarmi,|p| ma era impegnato col lavoro..."
@@ -29,7 +29,7 @@ line "..."
 face a 1 0
 a
 line "Oh!|p| Eheh,|p| nient'affatto!"
-line "E' solo che mio padre DOVEVA portarmi qui stasera,|p| ma non poteba."
+line "E' solo che mio padre DOVEVA portarmi qui stasera,|p| ma non poteva."
 face a 2 2
 a
 line "...e mia mamma ha detto che faccio un po' pena a MINDWAVE, e che probabilmente non avrei vinto."

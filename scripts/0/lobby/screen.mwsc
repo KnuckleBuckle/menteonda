@@ -36,7 +36,7 @@ line "Esalta la solennita'."
 face s 0 2
 s
 line "Noi siamo QUI.|p| Nella Torre Mindscape!"
-line "Il torneo da dieci milioni dollari inizierà a minuti!|p| Siamo in una stanza enorme!"
+line "Il torneo da dieci milioni di dollari iniziera' a minuti!|p| Siamo in una stanza enorme!"
 face p 0 0
 p
 line "...e tutto ha delle corna.|p|\nChe problemi ha Mindscape Co. con le corna?"
@@ -54,11 +54,11 @@ s
 line "Ammetti la tua sconfitta, vedo."
 line "Scegli con attenzione le tue prossime parole."
 p
-line "...Amico.|p| Stai facendo lo stramboide."
-line "Piantala di leccare gli stivali delle aziende-|p| e-"
+line "...Senti.|p| Stai facendo lo stramboide."
+line "Piantala di leccare gli stivali dell'azienda-|p| e-"
 face p 0 3
 p
-line "Fai finta che non ti abbia chiesto nulla su 'sto cavolo di schermo."
+line "Basta parlare di 'sto cazzo di schermo."
 setflag _0.screen.done 1
 function lobby_tick_time 0.5
 

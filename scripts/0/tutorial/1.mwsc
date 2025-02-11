@@ -7,7 +7,7 @@ goto marker 2fails
 
 
 marker 0fails
-Ottimo lavoro!|p| Cosi' ci si sente a giocare ad un microgioco.
+Ottimo lavoro!|p| E cosi' che ci si sente a giocare ad un microgioco.
 Proviamo un altro microgioco con un'Interfaccia diversa.
 show_controls
 Questa usa l'Interfaccia Tastiera.|p|\nFacciamo un tentativo!

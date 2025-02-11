@@ -20,7 +20,7 @@ line "..."
 i
 line "Per cui...|p| scuse accettate,|p| se e' quello che volevi sentire."
 p
-line "Ok sei un po' piu' scazzata di quanto mi aspettassi."
+line "Ok, sei un po' piu' scazzata di quanto mi aspettassi."
 i
 line "Si', e' perche' non mi conosci."
 p
@@ -36,7 +36,7 @@ p
 line "Sei stata tu a renderlo un dramma."
 face i 0 2
 i
-line "Capiamoci..."
+line "Voglio dire..."
 face i 1 0
 i
 line "Ok.|p| Scusa."

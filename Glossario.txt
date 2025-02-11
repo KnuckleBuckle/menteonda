@@ -10,7 +10,7 @@ marker branchX = TESTO SEGUENTE FA RIFERIMENTO A UN BRANCH SPECIFICO
 
 
 
-TERMINOLOGIE
+TERMINOLOGIE ( - Nome cartella)
 
 Contestant = Partecipante
 
@@ -52,7 +52,7 @@ Bad parts (of the city) = Quartieri malfamati - Abbie
 
 Plushy = Peluche - Abbie
 
-Hell yeah = Sì cazzo - Abbie
+Hell yeah = Sì, cazzo - Abbie
 
 Transit pass = Abbonamento - Abbie
 
@@ -78,13 +78,21 @@ Dork = Sfigato - Kat&Slate
 
 Art studio (abbreviato anche in studio) = Atelier - Kat&Slate
 
-Dormant Exile (nome di una serie fictionale) = Esule Dormiente - Kat&Slate
+Dormant Exile (nome in una serie fictionale) = Esule Dormiente - Kat&Slate
+
+Trippy = Intrippante - Kat&Slate
+
+Randoms = Normaloni - Kat&Slate
+
+Corporate shill = leccare gli stivali dell'azienda - Smalls
+
+Dweeb = Fallito - Smalls
 
 
 
 
 
-FRASI TIPO (INDICATIVO)
+FRASI TIPO (INDICATIVO) ( - Nome cartella)
 
 A volte alcune frasi si ripetono nelle varie possibili route di dialogo (es. i momenti di scambio dei numeri)
 NOTA: ALCUNE VOLTE LE FRASI PRESENTANO LEGGERE VARIAZIONI
@@ -97,8 +105,12 @@ Here's mine = Il mio è questo - Abbie e altri (scambio numeri)
 
 I'll just give you Panda's too = Ti daro' anche quello di Panda - Abbie e altri (scambio numeri)
 
+Man = Dai (esasperazione) - Vari
+
 Duuuude = Assuuuurdo - Kat&Slate
 
 Cya! = Ci si becca! - Kat&Slate
 
 Peace! = Statemi bene! - Kat&Slate
+
+Well, damn = Beh, che dire - Smalls

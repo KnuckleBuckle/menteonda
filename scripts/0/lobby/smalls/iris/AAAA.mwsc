@@ -1,52 +1,52 @@
 
 face p 0 2
 p
-line "...Talking to that girl might've been a mistake."
+line "...Potrei aver sbagliato a parlare con quella ragazza."
 face s 2 0
 s
-line "Aw c'mon,|p| it couldn't have been that bad."
+line "Ah suvvia,|p| non puo' essere andata cosi' male."
 face s 0 0
 s
-line "You cleared up the line situation,|p| right?"
+line "Ti sei chiarita sula storia della fila,|p| no?"
 face p 0 0
 p
-line "Yeah...|p| I mean,|p| kinda?"
+line "Si'...|p| Cioe',|p| piu' o meno?"
 face p 0 2
 p
-line "I'm still not into the idea of playing against her."
+line "Ancora non mi entusiasma l'idea di affrontarla."
 face p 4 0
 p
-line "I think she might be a serial killer?"
+line "Credo che possa essere una serial killer?"
 face s 0 0
 s
-line "Oh,|p| huh?"
+line "Oh,|p| uh?"
 face p 0 0
 p
-line "It was just a joke she made,|p| but it's really hard to tell with her."
+line "Ci aveva solo scherzato su,|p| ma con lei e' molto difficile capirlo."
 face p 0 2
 p
-line "At least I won't get all thrown off if I go against her."
+line "Quantomeno se mi scontrero' con lei non saro' totalmente sballata."
 face s 1 0
 s
-line "About that..."
+line "A tal proposito..."
 face s 2 0
 s
-line "I don't know if it actually works that way."
+line "Non so se in realta' funziona in questo modo."
 face p 1 0
 p
-line "Soooo...|p| I didn't have to talk to her?"
+line "Percioooo'...|p| Non dovevo parlarle per forza?"
 face p 1 2
 p
-line "It didn't matter?"
+line "Non aveva importanza?"
 face s 0 1
 s
-line "Of course it mattered!"
+line "Certo che l'aveva!"
 face s 0 2
 s
-line "You made a friend."
+line "Ti sei fatta un'amica."
 face p 0 2
 p
-line "I wouldn't call her that."
+line "Non la definirei in quel modo."
 setflag _0.smalls.iris 2
 setflag _0.smalls.iris.branch AAAA
 function lobby_tick_time 0.5

@@ -20,18 +20,18 @@ line "MINDWAVE si incentra sulle menti delle persone."
 
 
 s
-line "It might help to get a feel for a few personalities."
+line "Potrebbe servirti per familiarizzare con alcune personalita'."
 face s 0 1
 s
-line "See what sorta brains you might have to deal with."
+line "Capire con che razza di cervelli andrai a che fare."
 face p 1 0
 p
-line "Man,|p| if you insist on dragging me around,|p| I guess I'll follow."
+line "Uffa,|p| se ci tieni a trascinarmi in giro,|p| vorra' dire che ti seguiro'."
 face p 1 2
 p
-line "Doesn't have to be this whole big deal."
+line "Non devi farne una questione di stato."
 s
-line "Good enough!|p| Let's see..."
+line "Mi puo' bastare!|p| Vediamo..."
 
 
 

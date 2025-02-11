@@ -2,61 +2,61 @@
 
 
 p
-line "Dude. "
+line "Assurdo. "
 face p 1 0
 p
-line "Dom left me completely disarmed."
-line "Like,|p| normally I'd immediately tell someone who introduces himself like that to piss off."
+line "Dom mi ha lasciata del tutto spiazzata."
+line "Come dire,|p| di solito avrei subito mandato a cagare qualcuno che si presenta in quel modo."
 face p 0 1
 p
-line "But I don't know,|p| I kinda liked the dude."
+line "Ma non so,|p| il tipo mi andava a genio."
 face s 0 1
 s
-line "Same.|p| I just wish we could have gotten to talk about music more."
+line "Anche a me.|p| Avrei solo voluto parlare di piu' di musica con lui."
 face s 0 0
 s
-line "I want to connect with other producers."
-line "I'm afraid I'll stagnate if I stay in my own bubble."
+line "Voglio rapportarmi con altri producer."
+line "Ho paura di vegetare se continuo a stare nella mia bolla."
 face p 0 0
 p
-line "I'd be down to hang out with him sometime."
-line "It's a shame that we couldn't get his contact though..."
+line "A me andrebbe bene di uscire assieme a lui qualche volta."
+line "Peccato pero' che non siamo riusciti ad avere un suo contatto..."
 face p 0 2
 p
-line "Hey,|p| couldn't you just have given him your number on paper or something?"
+line "Ehi,|p| non potevi tipo dargli il tuo numero su un pezzo di carta?"
 face s 0 3
 s
 line "Oh."
 face s 0 0
 s
-line "That's completely my fault,|p| yeah."
+line "Grosso errore da parte mia,|p| eh gia'."
 face s 1 0
 s
-line "But,|p| being fair,|p| when he said the thing about his \"music phone,\"|p| all rational thought left my brain."
-line "Thinking about it cynically,|p| it sounds like something he said to avoid giving us his contact."
+line "Ma,|p| a mia discolpa,|p| quando ha detto quella roba sul \"telefono per la musica\",|p| la logica ha lasciato il mio cervello."
+line "A ripensarci in maniera cinica,|p| mi sembra qualcosa che ha detto per non darci un suo contatto."
 face p 1 0
 p
-line "Nah dude,|p| I actually believe he was being honest."
+line "Nah bello,|p| io credo veramente che fosse sincero."
 face p 0 0
 p
-line "He seemed like enough of a goof to actually do that."
+line "Mi sembra abbastanza tonto da farlo."
 face s 0 1
 s
-line "Fair enough.|p| Why not give him your number yourself then?"
+line "Ha senso.|p| Perche' allora tu non gli hai dato il tuo numero?"
 face p 0 4
 p
-line "I wasn't gonna give my phone number to a dude I just met,|p| Smalls."
+line "Non avrei dato il mio numero di telefono ad un tizio che ho appena conosciuto,|p| Smalls."
 face p 0 0
 p
-line "We can just catch up with him outside when the tournament's done,|p| anyway."
+line "Possiamo ribeccarci fuori quando il torneo sara' finito,|p| in ogni caso."
 face s 0 0
 s
-line "In that case,|p| I just hope we can find him amongst the sea of people at the entrance."
+line "Se cosi',|p| spero solo che lo beccheremo tra la marea di gente che ci sara' all'ingresso."
 p
-line "He'll probably find us first.|p|\nDude seems mystical like that."
+line "Puo' darsi che ci trovera' prima lui.|p|\nQuello li' mi dava un'aria mistica."
 face s 0 2
 s
-line "That sounds about right,|p| yeah."
+line "Non lo escluderei,|p| si'."
 
 
 

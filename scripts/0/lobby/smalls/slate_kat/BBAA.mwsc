@@ -1,44 +1,44 @@
 
 face p 0 2
 p
-line "Did you have to leave me hanging in the middle of a conversation?"
+line "Mi hai piantata in asso nel bel mezzo della conversazione?"
 face p 0 4
 p
-line "I wasn't ready to talk to Kat on my own so suddenly."
+line "Non ero pronta a parlare con Kat per conto mio cosi' dal nulla."
 face s 2 0
 s
-line "Ehh,|p| you were probably fine."
+line "Ehh,|p| te la sarai cavata."
 face s 0 2
 s
-line "Right?"
+line "Dico bene?"
 face p 0 0
 p
 line "..."
 face p 0 2
 p
-line "If I say yes you're gonna use it as like,|p| a gotcha."
-line "I don't wanna encourage you to keep doing stuff like that."
+line "Se dico di si' lo userai come arma,|p| che mi rigirerai contro."
+line "Non voglio incoraggiarti a fare robe del genere."
 face s 1 0
 s
-line "Alright, alright."
+line "Va bene, va bene."
 face s 0 1
 s
-line "I'll just save my \"I told you so\" for when you end up thanking me later."
+line "Mi terro' il \"te l'avevo detto\" per quando piu' tardi mi ringrazierai."
 face p 1 0
 p
-line "Man,|p| don't make me regret entertaining this."
+line "Dai,|p| non farmi rimpiangere di aver considerato l'idea."
 s
-line "I'd apologize,|p| but I don't regret learning about F.O.S from Ethan."
+line "Chiederei scusa,|p| ma non mi pento di aver scoperto F.O.S grazie a Ethan."
 face s 1 0
 s
-line "We only stopped talking about it 'cuz I didn't want any more spoilers."
+line "Abbiamo smesso di parlare solo perche' non volevo altri spoiler."
 face s 0 1
 s
-line "I was sold the second he told me about the arc where Slate infiltrates the Knelburnian summit."
+line "Mi ero convinto il secondo in cui mi ha parlato della saga in cui Slate si infiltra nell'assemblea Knelburnian."
 p
-line "Just don't dip on me like that again.|p| Please."
+line "Basta che non svanisci di nuovo in quel modo.|p| Per favore."
 s
-line "No promises."
+line "Non faccio promesse."
 
 setflag _0.smalls.slate_kat 2
 setflag _0.smalls.slate_kat.branch BBAA

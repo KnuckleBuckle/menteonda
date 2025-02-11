@@ -16,12 +16,12 @@ goto marker end
 marker 1fails
 Oh,|p| lo so che e' impegnativo,|p| ma puoi farcela!
 show_controls
-Ricorda,|p| puoi usare sia WASD che i Tasti Freccia-|p| quelli che tu preferisci!
+Ricorda,|p| puoi usare sia WASD che i Tasti Freccia-|p| quelli che preferisci!
 goto marker end
 
 marker 2fails
 show_controls
-Ricorda,|p| puoi usare sia WASD che i Tasti Freccia-|p| quelli che tu preferisci!
+Ricorda,|p| puoi usare sia WASD che i Tasti Freccia-|p| quelli che preferisci!
 goto marker end
 
 marker end

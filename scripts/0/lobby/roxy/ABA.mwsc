@@ -39,7 +39,7 @@ line "Abbiamo tenuto un torneo improvvisato per decidere chi tra noi se lo merit
 face r 3 1
 r
 line "Ad ogni modo..."
-...il terminale mi ha detto che il mio insegnante ha vinto il biglietto da una di quelle creme purificanti antieta' che non funzionano mai.
+...il terminale mi ha detto che il mio insegnante ha vinto il biglietto da una di quelle creme detox antieta' che non funzionano mai.
 face p 0 1
 p
 line "Soldi sprecati."
@@ -61,7 +61,7 @@ line "Sai una cosa,|p| comprane piu' di uno.|p| Prendine uno anche per te."
 line "O ancora meglio,|p| donane uno alla NOSTRA scuola."
 face p 1 2
 p
-line "Denaro sprecato."
+line "Soldi sprecati."
 setflag _0.roxy.read.ABA 1
 setflag _0.roxy.branch ABA
 function lobby_tick_time

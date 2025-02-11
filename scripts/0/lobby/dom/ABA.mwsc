@@ -20,7 +20,7 @@ p
 line "Tutti i telefoni sono per le chiamate,|p| bello."
 d
 line "Su questo non ho una SIM,|p| e' per la mia musica."
-line "Il mio cell principale e' pieno di robaccia che non voglio cancellare,|p| quindi uso questo per mostrare ai tizi la mia musica."
+line "Il mio cell principale e' pieno di robaccia che non voglio cancellare,|p| quindi per mostrare ai tizi la mia musica uso questo."
 face p 0 0
 p
 line "Non potresti...|p| metterci la SIM di quello principale?"
@@ -51,7 +51,7 @@ p
 line "Non ascoltarlo."
 line "Tanto perderemo al primo round."
 d
-line "Chissa',|p| ah."
+line "Chissa',|p| ahah."
 line "Ci si becca dopo,|p| allora."
 face p 0 1
 p

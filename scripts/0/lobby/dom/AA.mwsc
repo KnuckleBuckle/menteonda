@@ -23,7 +23,7 @@ s
 line "Piuttosto,|p| tu che ci registri con un nome diverso ad ogni evento a cui suoniamo?"
 face s 0 1
 s
-line "Forse il motivo della nostra mancanza di fama e' quello."
+line "Forse e' quello il motivo della nostra mancanza di fama."
 face p 0 1
 p
 line "E' fighissimo,|p| pero'.|p| E uno spasso."
@@ -46,7 +46,7 @@ s
 line "Persino noi,|p| nonostante i sabotaggi di Pandora."
 face p 0 2
 p
-line "Senti,|p| ma perche' continui a tirare fuori questa storia, bello."
+line "Senti,|p| ma perche' cavolo continui a tirare fuori questa storia."
 face p 0 4
 p
 line "Ogni volta suoniamo in bettole ammuffite."
@@ -75,7 +75,7 @@ line "Oh,|p| ehi, Dom. Ti va di suonare con noi al nostro prossimo evento?"
 line "Sarebbe bello avere un terzo che ci porta l'attrezzatura."
 face d 0 0
 d
-line "Aw,|p| si' cazzo, fra."
+line "Aw,|p| si' cazzo."
 
 
 
