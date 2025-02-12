@@ -12,6 +12,18 @@ marker branchX = TESTO SEGUENTE FA RIFERIMENTO A UN BRANCH SPECIFICO
 
 TERMINOLOGIE ( - Nome cartella)
 
+Photosensitivity Warning = Avvertenze per Fotosensibili - loc\en
+
+Custom (Modalità) = Personaliz. - loc\en
+
+Endless (Modalità) = Senza Fine - loc\en
+
+Local high Scores = Record in Locale - loc\en
+
+Submenu = Sottomenù - loc\en
+
+Lose focus (finestre del PC) = perde il focus (passa in secondo piano?) - loc\en
+
 Contestant = Partecipante
 
 Platinum Ticket = Biglietto di Platino
@@ -32,10 +44,6 @@ Prize Money = Montepremi/Vincita (in base al contesto)
 
 Machine = Macchinario (es. Mindwave Machine - Macchinario Mindwave)
 
-That's what the Interface is for! = L'Interfaccia serve a questo! - sezione tutorial
-
-SLAM to attention = (gioco di parole con snap to attention) - sezione tutorial
-
 Purple Girl = Ragazza in Viola (placeholder) - Abbie
 
 Mall = Centro Commerciale (placeholder) - Abbie e altri
@@ -51,8 +59,6 @@ Ball of sparkly yarn = Gomitolo sfavillante - Abbie
 Bad parts (of the city) = Quartieri malfamati - Abbie
 
 Plushy = Peluche - Abbie
-
-Hell yeah = Sì, cazzo - Abbie
 
 Transit pass = Abbonamento - Abbie
 
@@ -96,6 +102,12 @@ FRASI TIPO (INDICATIVO) ( - Nome cartella)
 
 A volte alcune frasi si ripetono nelle varie possibili route di dialogo (es. i momenti di scambio dei numeri)
 NOTA: ALCUNE VOLTE LE FRASI PRESENTANO LEGGERE VARIAZIONI
+
+That's what the Interface is for! = L'Interfaccia serve a questo! - sezione tutorial
+
+SLAM to attention = (gioco di parole con snap to attention) - sezione tutorial
+
+Hell yeah = Sì, cazzo - Abbie e altri
 
 Move back home = Tornare alla vecchia casa - Abbie (route BAB)
 
