@@ -1,45 +1,45 @@
 p
-line "Dunque.|p| Ti sei imbucato."
+line "Quindi.|p| Ti sei imbucato."
 set s pose 2
 face s 0 1
 s
-line "Ben detto!"
+line "Eh gia'!"
 
 set p pose 1
 p
 line "Innanzitutto.|p|\nPerche'?"
-line "Questo e' il genere di roba per cui mi faresti una tirata anche solo per averla pensata."
+line "E' una roba che se io avessi anche solo pensato tu mi avresti tirato le orecchie."
 face s 0 0
 s
-line "Vero,|p| ma sapevo che senza di me te la saresti vista brutta."
-line "Specialmente dato che l'ultima volta che hai giocato sei quasi svenuta."
+line "Vero,|p| ma sai che e' meno disagiante con me qui."
+line "Specie dopo che l'ultima volta che hai giocato sei quasi svenuta."
 face p 1 0
 p
-line "Nei tuoi sogni forse stavo per svenire...|p|\nHo solo vomitato."
+line "Ma che svenire...|p|\nHo solo vomitato."
 s
-line "Beh,|p| se mi venisse un mal di testa cosi' forte da farmi vomitare,|p| quantomeno vorrei un amico che mi conforti."
+line "Beh,|p| se vomitassi per un mal di testa,|p| un amico che mi conforta mi farebbe piacere."
 
 face p 0 2
 p
-line "Quindi se muoio chiamerai i soccorsi."
+line "E se muoio chiami l'ambulanza."
 face s 0 0
 s
 line "Nah,|p| il mio telefono qui non prende."
 
 face s 2 1
 s
-line "Ma puoi lamentarti con me quanto vuoi."
+line "Ma puoi lagnarti con me quanto vuoi."
 face p 1 2
 p
-line "Saro' morta. "
+line "Moriro'. "
 
 face s 0 0
 s
 line "Esatto."
-line "Ci mancherebbe che non avessi da ridire,|p| se un gioco potrebbe benissimo ucciderti. "
+line "Se un gioco facesse cosi' schifo da uccidermi,|p| ci credo che ti lagneresti. "
 face p 0 0
 p
-line "Oh, ti farei la testa come un pallone, bello."
+line "Oh, ti farei una testa tanta, fra'."
 
 
 

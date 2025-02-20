@@ -5,7 +5,7 @@ p
 line "...Smalls!?"
 face s 0 2
 s
-line "Bella li'."
+line "Ue."
 face p 0 2
 p
 line "Sbaglio o tu non avevi un biglietto?"
@@ -22,32 +22,32 @@ p
 line "Che cosa hai fatto...?"
 face s 2 0
 s
-line "C'era pochissima vigilanza."
+line "C'era pochissima sorveglianza."
 face s 2 1
 s
-line "Quasi inesistente."
+line "Quasi inesistente, direi."
 face p 0 2
 p
-line "Piantala."
+line "Fra'."
 face s 0 0
 s
-line "Sono semplicemente...|p| passato da una porta sul retro."
-line "Ho vagato lungo dei corridoi finche' non ho trovato questa stanza enorme piena di gente."
+line "Diciamo che...|p| c'era una porta sul retro."
+line "Dopo un paio di corridoi ho trovato 'sta stanza enorme piena di gente."
 face p 0 0
 p
-line "Voglio dire,|p| sono felice che tu sia qui."
+line "Cioe',|p| sono felice che tu sia qui."
 face p 0 1
 p
-line "Di certo rendera' piu' tollerabile questa rottura di scatole."
+line "Di certo sara' meno una palla."
 face p 1 0
 p
-line "Spero solo che la sicurezza non appaia dal nulla per cacciarti fuori."
+line "Spero solo che la sicurezza non arrivi a caso a cacciarti fuori."
 face s 0 1
 s
 line "Incrociamo le dita."
 face p 0 2
 p
-line "Se me lo chiederanno,|p| io diro' che non ti conosco."
+line "Se mi chiedono,|p| dico che non ti conosco."
 face s 0 0
 s
 line "Mi sembra giusto."

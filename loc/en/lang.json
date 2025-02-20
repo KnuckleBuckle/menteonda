@@ -1,16 +1,16 @@
 {
-	"language": "Italian",
-	"language_iso": "it",
+	"language": "English",
+	"language_iso": "en",
 	"system":{
 		"photosensitivity_warning":[
 			"AVVERTENZA PER FOTOSENSIBILI",
 			"MINDWAVE contiene effetti visivi come luci lampeggianti che possono causare attacchi epilettici.\nUna modica percentuale della popolazione puo' sperimentare attacchi epilettici se esposta a effetti visivi intensi come replicazioni di pattern o luci lampeggianti.\nSi consiglia di proseguire con giudizio."
 		],
-		"controls_disclaimer":"MINDWAVE fa uso della tua Tastiera QWERTY e del Mouse.\nNon si raccomandano i trackpad, e i controller non sono supportati.",
+		"controls_disclaimer":"MINDWAVE fa uso della Tastiera QWERTY e del Mouse.\nNon si raccomandano i trackpad; i controller non sono supportati.",
 		"cutscene":{
 			"paused_text": "PAUSA",
 			"skip_button": "Salta",
-			"skipping_text": "Saltando..." (provvisorio)
+			"skipping_text": "Saltando..."
 		},
 		"gameplay":{
 			"pause_screen":{
@@ -83,14 +83,14 @@
 			"vol_master": "Master",
 			"vol_sfx": "SFX",
 			"vol_music": "Musica",
-			"mute_on_lose_focus": "Muta in Background",
-			"window_scale": "Scala su Finestra",
+			"mute_on_lose_focus": "Muta se Inattivo",
+			"window_scale": "Ridimensiona Finestra",
 			"window_scale_option": "#x",
 			"window_scale_default": "Default (#x)",
-			"fullscreen_toggle": "Fullscreen",
-			"window_mouse_lock_toggle": "Blocca Mouse su Fines.",
-			"pause_on_lose_focus": "Pausa Gameplay in Background",
-			"key_ghosting_compensation": "Compensam. per Key Ghosting",
+			"fullscreen_toggle": "Schermo Intero",
+			"window_mouse_lock_toggle": "Blocca Mouse su Finestra",
+			"pause_on_lose_focus": "Pausa se Finestra Inattiva",
+			"key_ghosting_compensation": "Compensamento per Key Ghosting",
 			"test_key_ghosting": "Test per Key Ghosting",
 			
 			"key_ghosting_test_text": "Prova a tenere premuti quanti piu' tasti puoi. Se certe combinazioni di tasti non vengono registrate, e' probabile che la tua tastiera soffra di key ghosting.\n\nSe certe combinazioni di tasti tiZ impediscono di premere 4 tasti assieme, potresti voler abilitare il Compensam. per Key Ghosting.",
@@ -98,10 +98,10 @@
 			"manage_profiles_button": "Gestisci Profili",
 			"reset_local_high_scores_button": "Resetta Record in Locale",
 			"tooltip":{
-				"mute_on_lose_focus": "Muta l'audio del gioco quando la finestra perde il focus.", (provvisorio)
-				"pause_on_lose_focus": "Il gameplay andra' in pausa quando la finestra perde il focus.", (provvisorio)
+				"mute_on_lose_focus": "Muta l'audio del gioco quando la finestra perde il focus.",
+				"pause_on_lose_focus": "Il gameplay andra' in pausa quando la finestra perde il focus.",
 				"window_mouse_lock_toggle": "Certe sezioni del gioco terranno il cursore del mouse confinato nella finestra.",
-				"key_ghosting_compensation": "Alcune tastiere non permettono di premere piu' tasti alla volta.\nAbilitare tale opzione ridurra' il numero di tasti da premere assieme di certi microgiochi.",
+				"key_ghosting_compensation": "Alcune tastiere non permettono di premere piu' tasti alla volta.\nAbilitare questa opzione ridurra' il numero di tasti da premere assieme in certi microgiochi.",
 				"test_key_ghosting": "Alcune tastiere non permettono di premere piu' tasti alla volta.\nClicca questo pulsante per testare il key ghosting della tua tastiera."
 			}
 		}
@@ -116,7 +116,7 @@
 		"s":{
 			"0":{
 				"name": "Grizz",
-				"prompt": "RAGGIUNGI!" (provvisorio)
+				"prompt": "RAGGIUNGI!"
 			},
 			"1":{
 				"name": "Chao",
@@ -136,7 +136,7 @@
 			},
 			"5":{
 				"name": "Pop",
-				"prompt": "SCOPPIA!" (provvisorio)
+				"prompt": "SCOPPIA!"
 			},
 			"6":{
 				"name": "Claw",
@@ -152,7 +152,7 @@
 			},
 			"9":{
 				"name": "HugRun",
-				"prompt": "PREMI A GOGO'!" (provvisorio)
+				"prompt": "PREMI A GOGO'!"
 			},
 			"10":{
 				"name": "KissDodge",
@@ -168,7 +168,7 @@
 			},
 			"13":{
 				"name": "KappNBall",
-				"prompt": "RIMBALZA!" (provvisorio)
+				"prompt": "RIMBALZA!"
 			},
 			"14":{
 				"name": "Candy Catch",

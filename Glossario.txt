@@ -24,7 +24,7 @@ Submenu = Sottomenù - loc\en
 
 Lose focus (finestre del PC) = perde il focus (passa in secondo piano?) - loc\en
 
-Contestant = Partecipante
+Contestant = Concorrente
 
 Platinum Ticket = Biglietto di Platino
 
@@ -117,7 +117,9 @@ Here's mine = Il mio è questo - Abbie e altri (scambio numeri)
 
 I'll just give you Panda's too = Ti daro' anche quello di Panda - Abbie e altri (scambio numeri)
 
-Man = Dai (esasperazione) - Vari
+Man = Dai (incitamento) | Bah (esasperazione) - Vari
+
+Dude = Fra' - Vari
 
 Duuuude = Assuuuurdo - Kat&Slate
 

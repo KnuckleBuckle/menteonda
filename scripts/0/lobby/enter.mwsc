@@ -3,35 +3,35 @@ char pandora p left
 char smalls s right
 face s 1 0
 s
-line "Ci rimane un po' di tempo prima dell'inizio del primo round..."
+line "Abbiamo un po' di tempo prima dell'inizio del primo round..."
 face s 0 1
 s
-line "Che ne dici di passeggiare in giro e fare un po' di conoscenze?"
+line "Che ne dici di fare una passeggiata e conoscere gente?"
 face p 1 2
 p
 line "No grazie.|p| Sono qui solo\nper giocare."
-line "Io preferirei ciondolare qui finche' non si comincia."
+line "Preferisco rimanere qui finche' non si comincia."
 face s 1 0
 s
-line "Beh,|p| devi pensare in termini di strategia."
-line "MINDWAVE si incentra sulle menti delle persone."
+line "Beh,|p| devi pensarla strategicamente."
+line "MINDWAVE e' tutta roba sulle menti degli altri."
 
 
 
 
 s
-line "Potrebbe servirti per familiarizzare con alcune personalita'."
+line "Farsi un'idea delle personalita' forse aiuta."
 face s 0 1
 s
-line "Capire con che razza di cervelli andrai a che fare."
+line "Capire che razza di cervelli incontrerai."
 face p 1 0
 p
-line "Uffa,|p| se ci tieni a trascinarmi in giro,|p| vorra' dire che ti seguiro'."
+line "Bah,|p| se proprio mi devi trascinare,|p| a 'sto punto verro' con te."
 face p 1 2
 p
-line "Non devi farne una questione di stato."
+line "Non c'e' bisogno dello spiegone."
 s
-line "Mi puo' bastare!|p| Vediamo..."
+line "Puo' bastare!|p| Vediamo..."
 
 
 

@@ -1,7 +1,7 @@
 wait for marker line1
 pause
 speaker_voice announcer
-|style font fnt_pixel|Attenzione Partecipanti!
+|style font fnt_pixel|Attenzione Concorrenti!
 |style font fnt_pixel|Le fasi a girone stanno per iniziare.
 clear
 resume
@@ -26,7 +26,7 @@ clear
 wait for marker line4
 pause at marker 0_3_4_end
 speaker_voice announcer_small
-|style font fnt_pixel|Salve,|p| Partecipante.
+|style font fnt_pixel|Salve,|p| Concorrente.
 |style font fnt_pixel|Inserisci il cavo nella tua Porta Neurale per confermare il tuo ingresso, per favore.
 jump to marker 0_3_5_start
 clear

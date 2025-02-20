@@ -1,12 +1,12 @@
 wait for marker line1
 pause
 speaker_voice announcer
-|style font fnt_pixel|Partecipanti!
+|style font fnt_pixel|Concorrenti!
 resume
 pause at marker panEnd
-|style font fnt_pixel|I tornei MINDWAVE sono formati da centinaia di altri fortunelli come voi!
+|style font fnt_pixel|I tornei MINDWAVE sono formati\n da centinaia di altri fortunelli come voi!
 no_text_continue_until marker panEnd
-|style font fnt_pixel|Percio' ricordatevi di restare in fila indiana e siate pazienti, per favore!
+|style font fnt_pixel|Percio' ricordatevi di rimanere ordinati in fila\n e siate pazienti, per favore!
 resume
 clear
 pause at marker spaceout_effect
@@ -31,7 +31,7 @@ resume
 wait for marker terminalDialogue
 pause
 speaker_voice terminal
-|style font fnt_pixel|Vi diamo il benvenuto nel sistema d'iscrizione al torneo della Torre Mindscape!
+|style font fnt_pixel|Vi diamo il benvenuto nel sistema d'iscrizione\n al torneo della Torre Mindscape!
 |style font fnt_pixel|Per iniziare avanza verso questo terminale!
 resume
 

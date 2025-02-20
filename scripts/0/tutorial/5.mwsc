@@ -10,7 +10,7 @@ marker 0fails
 Magnifico!
 E' ora di un'altra combo di Interfacce!
 show_controls
-Questa volta,|p| userai le Interfacce Frecce e Mouse assieme.|p|\nPensi di farcela?
+Questa volta,|p| userai l'Interfaccia Frecce e quella Mouse assieme.|p|\nPensi di farcela?
 goto marker end
 
 marker 1fails

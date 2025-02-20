@@ -7,7 +7,7 @@ goto marker 2fails
 
 
 marker 0fails
-Ottimo lavoro!|p| E cosi' che ci si sente a giocare ad un microgioco.
+Ottimo lavoro!|p| E' cosi' che ci si sente a giocare a un microgioco.
 Proviamo un altro microgioco con un'Interfaccia diversa.
 show_controls
 Questa usa l'Interfaccia Tastiera.|p|\nFacciamo un tentativo!
@@ -27,7 +27,7 @@ goto marker end
 marker 2fails
 Mmh...|p| forse dobbiamo provare qualcos'altro.
 show_controls
-Basta capire quali lettere vengano mostrate,|p| e poi digitarle!|p|\nFacile come contare fino a 3!
+Basta capire quali lettere vengono mostrate,|p| e poi digitarle!|p|\nFacile come fare 2 piu' 2!
 goto marker end
 
 

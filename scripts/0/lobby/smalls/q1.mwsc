@@ -1,48 +1,48 @@
 p
-line "Dunque,|p| la Torre Mindscape...|p| Eccoci qua."
+line "Eh,|p| Torre Mindscape...|p| Eccoci qua."
 face s 1 0
 s
-line "Gia'.|p| L'interno della torre e' fuori di testa."
+line "Gia'.|p| Il dentro e' proprio strano."
 p
-line "Chissa' quante persone hanno effettivamente messo piede qui?"
+line "Chissa' quanta gente c'e' davvero entrata."
 face s 0 1
 s
-line "A parte il migliaio che viene invitato ogni anno?"
+line "A parte i mille-e-qualcosa invitati ogni anno?"
 face p 0 2
 p
-line "Si',|p| a parte quello."
+line "Si',|p| a parte quelli."
 face p 1 2
 p
-line "E' solo che e' un luogo molto misterioso.|p| Mi sento come se non dovessimo essere qui."
+line "E' solo che e' un luogo molto tenuto nascosto.|p| Mi sento come se non dovessimo essere qui."
 
 face p 1 0
 p
-line "Non e' qualcosa che ti viene da pensare.|p| Basta guardare l'orizzonte."
-line "Una torre maligna del cazzo con un orrendo occhio luminoso."
+line "E' una cosa a cui non pensi.|p| La vedi sempre all'orizzonte."
+line "Una torre maligna del cazzo con un orrendo occhio illuminato."
 face p 0 2
 p
-line "Siamo DENTRO la torre maligna del cazzo,|p| non lo trovi strano??"
+line "Siamo DENTRO la torre maligna del cazzo,|p| non e' strano???"
 face s 0 0
 s
-line "Si',|p| ma non avresti mai rinunciato a quest'oppotunita',|p| vero?"
+line "Si',|p| ma non avresti mai perso quest'opportunita',|p| vero?"
 face p 0 0
 p
-line "No.|p| Non mi lascero' sfuggire la possibilita' di prendermi i soldi di Mindscape."
+line "Nope.|p| Non perdero' l'opportunita' di intascarmi i soldi da Mindscape."
 line "Anche se sono un po' malvagi."
 face s 1 0
 s
 line "Quanto malvagi, pero'?"
 face s 0 0
 s
-line "La loro immagine e' super-strana,|p|\nma hanno solamente creato un gioco."
+line "E' ultra-strano come si presentano,|p|\nma hanno solo fatto un gioco."
 p
 line "Esistono altre aziende cosi' palesemente malvagie?"
 face s 2 0
 s
-line "Probabile,|p| ma ora come ora non mi vengono in mente dei nomi."
+line "Probabile,|p| anche se non mi vengono in mente dei nomi."
 face p 0 2
 p
-line "Ok,|p| sei di grande aiuto."
+line "Wow,|p| che aiuto."
 face s 2 1
 s
 line "..."
