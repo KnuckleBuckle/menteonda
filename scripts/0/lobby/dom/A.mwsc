@@ -3,20 +3,20 @@
 face s 0 1
 face p 0 2
 p
-line "Ma allora,|p| che cazzo fai,|p| fai sentire a tutti la tua canzone?"
+line "Ma quindi,|p| stai facendo sentire a tutti quanti la tua canzone?|p| Ma che ca...?"
 d
-line "Nah,|p| finora solo a voi due."
+line "Nah,|p| solo a voi due per ora."
 face p 0 2
 d
 line "Visto che stavate gia' parlando di me,|p| pensavo vi sarebbe piaciuta."
 face d 0 0
 d
-line "E poi,|p| pensavo che avevi stile."
+line "E poi,|p| pensavo che avevate stile."
 p
 line "Grazie?"
 face p 0 0
 p
-line "Lo sai che avuto fortuna a trovare noi,|p| vero?"
+line "Lo sai che avuto fortuna con noi,|p| vero?"
 face d 0 1
 d
 line "Che intendi?"
@@ -32,7 +32,7 @@ line "Non so,|p| tu non mi sembri tanto tesa."
 face p 1 0
 face d 0 1
 d
-line "Forse è per la mia traccia allucinante?"
+line "Forse forse perche' la mia traccia ti ha mandato una buona vibe?"
 face p 0 4
 p
 line "..."
@@ -44,22 +44,22 @@ p
 line "In realta' pensavo che non fosse malaccio."
 face p 0 2
 p
-line "Ma devi sul serio rivedere come farti pubblicita'."
+line "Ma devi sul serio ripensare a come farti pubblicita'."
 face s 1 0
 s
-line "Io l'ho trovata abbastanza efficace, a dire la mia."
+line "Io l'ho trovato abbastanza efficace, secondo me."
 face s 1 0
 s
 line "Di sicuro ha lasciato il segno.|p|\nPotremmo dargli una chance."
 face p 1 0
 p
-line "Nuh uh,|p| e' fuori discussione."
+line "Nuh uh,|p| fuori discussione."
 face p 1 2
 p
-line "Non ambisco ad avere i denti rotti per colpa di una promozione musicale."
+line "Non voglio finire coi denti rotti per colpa di una promozione musicale."
 face s 2 1
 s
-line "Portero' con noi dei paradenti."
+line "Comprero' paradenti o roba simile."
 
 
 

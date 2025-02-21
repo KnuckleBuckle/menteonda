@@ -5,21 +5,21 @@ p
 line "Questi tubi..."
 face p 0 2
 p
-line "...hanno un aspetto strano."
+line "...Che roba strana."
 face s 1 0
 s
-line "Ti sei chiesta che c'è dentro?"
+line "Ti stai chiedendo che c'è dentro?"
 face p 0 0
 p
 line "Cioe', forse sono solo per che ne so,|p| la corrente o roba simile."
-line "Mi chiedevo solo perche' devono essere cosi' grossi.|p| E sbatterceli in faccia."
+line "Mi chiedevo solo perche' devono essere cosi' grossi.|p| E lasciarli in bella mostra."
 face s 0 0
 s
-line "Non direi che ce li stanno sbattendo in faccia."
-line "A me sembrano essere a trenta metri d'altezza."
+line "Non direi che stanno proprio in bella mostra."
+line "Non c'e' neanche la targhetta dell'artista."
 face p 0 1
 p
-line "Ma stai zitto.|p| Sai a che mi riferisco."
+line "Ma stai zitto.|p| Sai che intendo."
 face s 2 1
 s
 line "..."

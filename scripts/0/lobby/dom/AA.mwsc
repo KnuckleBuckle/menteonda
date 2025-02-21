@@ -6,24 +6,24 @@ line "Anche noi in realta' siamo musicisti,|p| Dom."
 face d 0 0
 d
 line "Davvero?|p| Che figata."
-line "Siete parte di qualche band?"
+line "Siete in una band o roba simile?"
 face p 1 0
 p
 line "Siamo solo noi due,|p| quindi non e' una vera e propria band."
 
 face p 0 4
 p
-line "Piu' un duetto,|p| Smalls ai synth e io alla chitarra."
-line "Non abbiamo chissa' quale fama."
+line "Piu' un duo,|p| Smalls ai synth e io alla chitarra."
+line "Mica abbiamo tutta 'sta gran fama."
 face s 0 0
 s
-line "Un duetto puo' essere una band."
+line "Un duo puo' essere una band."
 face s 0 3
 s
-line "Piuttosto,|p| tu che ci registri con un nome diverso ad ogni evento a cui suoniamo?"
+line "Piuttosto,|p| tu che dai un nome diverso ad ogni posto a cui suoniamo?"
 face s 0 1
 s
-line "Forse e' quello il motivo della nostra mancanza di fama."
+line "Forse e' per quello che non abbiamo fama."
 face p 0 1
 p
 line "E' fighissimo,|p| pero'.|p| E uno spasso."
@@ -36,10 +36,10 @@ line "Fate concerti?|p|\nFenomenale."
 face p 0 0
 face d 0 1
 d
-line "Anch'io vorrei suonare i miei brani dal vivo."
+line "Anch'io vorrei suonare la mia roba dal vivo."
 face s 0 0
 s
-line "Non e' difficile.|p| Gli spettacoli piu' locali accettano chiunque."
+line "Non e' difficile.|p| Gli eventi piu' piccoli accettano chiunque."
 face s 0 2
 face p 0 4
 s
@@ -49,13 +49,13 @@ p
 line "Senti,|p| ma perche' cavolo continui a tirare fuori questa storia."
 face p 0 4
 p
-line "Ogni volta suoniamo in bettole ammuffite."
+line "Ogni volta suoniamo in baracche ammuffite."
 face p 1 1 
 p
-line "E sono sempre piu' o meno 20 persone a guardarci,|p| al massimo.|p| Nessuno ci nota."
+line "E sono sempre piu' o meno 20 persone a guardarci,|p| al massimo.|p| Nessuno se ne accorge."
 face s 1 0
 s
-line "E' questo il problema.|p| Se avessimo un singolo nome fisso,|p| potremmo venire notati."
+line "E' questo il problema.|p| Se avessimo un nome fisso,|p| magari ci noterebbero."
 face s 2 1
 face p 1 0
 s
@@ -63,7 +63,7 @@ line "E poi, non penso che sia tutto questo spasso."
 face p 0 3
 face s 0 1 
 p
-line "Ok,|p| vaffanculo a te e alla tua mancanza di umorismo."
+line "Ok,|p| fanculo te e la tua mancanza di umorismo."
 face p 0 4
 p
 line "Ma la tua e' una giustissima affermazione."
@@ -75,7 +75,7 @@ line "Oh,|p| ehi, Dom. Ti va di suonare con noi al nostro prossimo evento?"
 line "Sarebbe bello avere un terzo che ci porta l'attrezzatura."
 face d 0 0
 d
-line "Aw,|p| si' cazzo."
+line "Aw,|p| si' cazzo, fra'."
 
 
 

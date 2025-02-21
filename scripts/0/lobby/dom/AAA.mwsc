@@ -5,31 +5,31 @@ s
 line "A quanto pare tu e Pandora avete deciso che faremo una collab."
 face s 0 0
 s
-line "A me sta bene.|p| Mi serve soltanto un modo per poter contattarti in seguito."
+line "A me sta bene.|p| Mi serve soltanto un modo per contattarti in futuro."
 d
 line "Oh si',|p| ti lascio un foglietto."
 face p 0 0
 d
 line "Sai pero' a cosa stavo pensando?"
-line "Dobbiamo fare un concerto,|p| parlo proprio qui."
+line "Dobbiamo fare una serata,|p| proprio tipo qui."
 s
-line "Che intendi,|p| la Torre Mindscape?"
+line "Intendi,|p| nella Torre Mindscape?"
 face s 2 0
 s
-line "Non so neanche a chi poter chiedere il permesso..."
+line "Non so neanche a chi chiedere il permesso..."
 face s 0 1
 s
-line "...ma sarebbe figo.|p| Di sicuro questo luogo ha le strutture per ospitare un festival."
+line "...ma sarebbe figo.|p| Di sicuro questo luogo e' perfetto per farci un festival."
 face p 0 2
 p
 line "Oh,|p| col cazzo."
 face p 0 3
 face s 0 3
 p
-line "Te lo scordi che io faccia un favore a Mindscape-"
+line "Te lo scordi che io faccia anche solo un favore a Mindscape-"
 face p 0 0
 p
-line "Anzi,|p| mi piacerebbe suonare qui PROPRIO perche' non abbiamo il permesso."
+line "Anzi,|p| mi piacerebbe suonare qui PROPRIO SENZA un permesso."
 face p 0 1
 p
 line "Pensate,|p| tiriamo fuori l'attrezzatura all'ingresso e suoniamo fino a quando non ci cacciano."

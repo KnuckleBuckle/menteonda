@@ -1,16 +1,16 @@
 set d name mystery
 face p 0 0
 p
-line "Figo il tipo col cappuccio."
+line "Figo il cappuccio del tipo."
 face s 0 0
 s
 line "Vuoi chiedergli dove l'ha comprato?"
 face p 1 0
 p
-line "Non so,|p| non credo?|p|\nPenso solo che sia figo."
+line "Non so,|p| non credo?|p|\nPenso solo sia figo."
 face s 0 1
 s
-line "Voglio dire,|p| posso chiederglielo \nio se vuoi."
+line "Cioe',|p| posso chiederglielo \nio se vuoi."
 p
 line "Non-|p 30| |skip| "
 face d 0 0
@@ -21,7 +21,7 @@ p
 line "Oh- uh,|p| ehila'?"
 face d 1 0
 d
-line "Presto, ascolta questo."
+line "Presto, senti un po' qua."
 face d 1 1
 function lb0_scr_dom_music 1
 
@@ -40,27 +40,27 @@ p
 line "..."
 face d 1 0
 d
-line "Allora,|p| che ne pensi?"
+line "Beh,|p| che ne pensate?"
 face s 0 0
 face p 0 2
 p
-line "Cos'e'?"
+line "Che era?"
 face d 1 0
 d
-line "La mia canzone,|p| spero ti piaccia."
+line "La mia canzone,|p| spero vi piaccia."
 face p 0 0
 p
 line "Boh,|p| non lo so."
 face p 1 0
 p
-line "Dammi prima del tempo\nper pensarci."
+line "Dammi un po'\nper pensarci."
 face d 0 1
 d
 line "Ah,|p| ci sta."
 face d 0 0
 d
 line "Il mio nome e' Dom,|p| comunque.|p| "
-line "Per gli amici Mixmaster D, ma fa un po' pena quindi va bene solo Dom,|p| ahah."
+line "Gli amici mi chiamano Mixmaster D, ma fa un po' schifo quindi Dom va bene,|p| ahah."
 set d name dom
 face p 4 0
 p
