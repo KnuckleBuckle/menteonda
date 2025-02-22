@@ -62,19 +62,19 @@ line "Ed è una somiglianza parecchio generica."
 face p 0 2
 p
 line "Mindscape ha tutto questo giallo e fucsia in giro che lo fa sembrare piu'..."
-line "Come un circo malvagio,|p| o giu' di li'.|p| Col cavolo che sembro cosi' pazza."
+line "Come un circo malvagio,|p| o giu' di li'.|p| Non sembro cosi' pazza, dai."
 face p 1 0
 p
-line "No dai, non sembro cosi' pazza o morta dentro."
+line "Non sembro cosi' pazza o morta dentro, dai."
 goto marker branch1E
 
 marker branch1N
 face p 0 0
 p
-line "Cosa?|p| No dai."
+line "Cosa?|p| No, dai."
 face p 1 0
 p
-line "No dai, non sembro cosi' pazza o morta dentro."
+line "No, dai, non sembro cosi' pazza o morta dentro."
 face p 1 2
 p
 line "Questa torre mi da piu',|p| un'aria da circo malvagio."
