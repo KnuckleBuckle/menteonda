@@ -12,7 +12,7 @@ line "Fortress of Sorrow, un vecchio anime degli anni '30-|p 20| |skip| "
 face k 0 1
 k
 line "Magari fatelo da un'altra parte?"
-line "Mica a tutti frega del vostro anime noioso."
+line "Mica a tutti frega del vostro noioso anime."
 face l 1 0
 l
 line "Oh,|p| certo.|p| Io e Smalls ce ne andiamo di la'."
@@ -64,7 +64,7 @@ p
 line "Cosa?"
 k
 line "Poco fa,|p| prima che Ethan\ne il tuo amico se ne andassero."
-line "You were saying something."
+line "Stavi dicendo qualcosa."
 face p 1 0
 p
 line "Oh,|p| gia',|p| uh..."

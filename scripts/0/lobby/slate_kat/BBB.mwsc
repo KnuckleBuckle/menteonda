@@ -45,12 +45,12 @@ p
 line "Che altro...|p| Suono un po' di musica."
 face p 0 1
 p
-line "Io e Smalls siamo una sorta di duetto."
+line "Io e Smalls siamo una sorta di duo."
 face k 0 2
 k
 line "Figo.|p| Non ho mai avuto un senso del ritmo abbastanza buono per suonare qualcosa."
 line "Pero' mi piace dipingere.|p| Nulla di che,|p| solo opere astratte."
-line "Lo sto facendo da,|p| quando?|p| 7 anni ormai?"
+line "Lo sto facendo da...|p| quanto?|p| 7 anni ormai?"
 face p 0 0
 p
 line "Figo..."
@@ -61,10 +61,10 @@ line "Inoltre ho un po' d'ansia per il torneo."
 line "Nel senso,|p| al di la' del poter perdere."
 face k 0 0
 k
-line "Cos'e',|p| hai paura delle\nmenti in cui ti imbatterai?"
+line "Cos'e',|p| hai paura delle\nmenti che incontrerai?"
 face p 0 0
 p
-line "Piu' che altro penso alle persone che si celano dietro quelle menti."
+line "Piu' che altro penso alle persone che dietro quelle menti."
 
 setflag _0.slate_kat.read.BBB 1
 setflag _0.slate_kat.branch BBB

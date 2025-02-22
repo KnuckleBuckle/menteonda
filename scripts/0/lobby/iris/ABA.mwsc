@@ -11,13 +11,13 @@ i
 line "Semplicemente non voglio lavorare per il resto della mia vita."
 face p 0 2
 p
-line "Ok...|p| che barba."
+line "Wow...|p| Che ragione noiosa."
 face i 1 0
 i
 line "Se ci tieni a consocere altre banalita' della mia vita..."
 face i 0 1
 i
-line "Un giorno vorrei girare dei film.|p| Mi sto gia' cimentandoci un po'."
+line "Un giorno vorrei girare dei film.|p| Mi ci sto gia' cimentando un po'."
 face i 0 3
 i
 line "Perlopiu' corti del cazzo filmati da telefono coi miei amici."
@@ -26,10 +26,10 @@ p
 line "...Ok."
 face p 0 0
 p
-line "Quindi andresti in una di quelle scuole di cinema?"
-line "Io andrei a un conservatorio,|p| se me lo potessi permettere."
+line "Quindi vorresti andare in una di quelle scuole di cinema o simili?"
+line "Io andrei a un'accademia musicale,|p| se me lo potessi permettere."
 i
-line "Ok, l'idea che avevi di me era giusta."
+line "Ok, l'idea che avevo di te era giusta."
 line "E si',|p| mi iscriverei a una scuola di cinema.|p| Preferibilmente sulla costa ovest."
 face i 2 0
 i

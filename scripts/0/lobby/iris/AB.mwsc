@@ -65,19 +65,19 @@ line "Mindscape ha tutto questo giallo e fucsia in giro che lo fa sembrare piu'.
 line "Come un circo malvagio,|p| o giu' di li'.|p| Col cavolo che sembro cosi' pazza."
 face p 1 0
 p
-line "Col cavolo che sembro cosi' pazza o morta dentro."
+line "No dai, non sembro cosi' pazza o morta dentro."
 goto marker branch1E
 
 marker branch1N
 face p 0 0
 p
-line "Cosa?|p| Col cavolo."
+line "Cosa?|p| No dai."
 face p 1 0
 p
-line "Col cavolo che sembro cosi'pazza o morta dentro."
+line "No dai, non sembro cosi' pazza o morta dentro."
 face p 1 2
 p
-line "Questa torre mi da piu',|p| un aria da circo malvagio."
+line "Questa torre mi da piu',|p| un'aria da circo malvagio."
 goto marker branch1E
 
 marker branch1E

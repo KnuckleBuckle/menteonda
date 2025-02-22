@@ -19,13 +19,13 @@ face i 0 0
 i
 line "Probabilmente controlleranno i precedenti per evitare casi simili."
 line "Nessun serial killer sarebbe abbastanza scemo da farsi volutamente scansionare il suo cervello."
-line "Specialmente ad una compagnia che,|p| quasi sicuramente,|p| è sovvenzionata dal governo."
+line "Specialmente ad una compagnia che,|p| quasi sicuramente,|p| e' sovvenzionata dal governo."
 p
 line "..."
 face p 0 1
 p
 line "Non so,|p| ho letto che a volte ne lasciano entrare un paio."
-line "Per rendere le cose più interessanti."
+line "Per rendere le cose piu' interessanti."
 face i 0 3
 i
 line "Forse io sono una di loro."

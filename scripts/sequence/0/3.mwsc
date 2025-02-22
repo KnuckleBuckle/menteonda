@@ -2,21 +2,21 @@ wait for marker line1
 pause
 speaker_voice announcer
 |style font fnt_pixel|Attenzione Concorrenti!
-|style font fnt_pixel|Le fasi a girone stanno per iniziare.
+|style font fnt_pixel|I primi round d'eliminazione stanno per iniziare.
 clear
 resume
 
 
 pause at marker line2end
 no_text_continue_until marker line2end
-|style font fnt_pixel|Entrate in uno degli ascensori disponibili nei prossimi dieci minuti.
+|style font fnt_pixel|Entrate in uno degli ascensori disponibili entro i prossimi dieci minuti.
 clear
 resume
 wait for marker line3
 pause at marker line3end
 speaker_icon smalls
 speaker_voice smalls
-E va bene,|p| buona fortuna Pandora.|p|\nA tra poco.
+Bene,|p| buona fortuna Pandora.|p|\nA tra poco.
 speaker_icon none
 resume
 jump to marker shot2start
@@ -34,7 +34,7 @@ resume
 wait for marker line5
 pause at marker 0_3_6_end
 |style font fnt_pixel|IDENTITA' CONFERMATA:|p| PANDORA.
-|style font fnt_pixel|Le fasi a girone inizieranno a breve.|p| Resta in attesa, per favore.
+|style font fnt_pixel|I primi round d'eliminazione inizieranno a breve.|p| Resta in attesa, per favore.
 jump to marker 0_3_6_end
 clear
 resume

@@ -41,10 +41,10 @@ a
 line "|speed 1.5|Non e' FIGHISSIMO questo posto?"
 face a 1 0
 a
-line "|speed 1.5|Il soffitto e' così alto!"
+line "|speed 1.5|Il soffitto e' cosi' alto!"
 face a 4 1
 a
-line "|speed 1.5|C'e' così tanta gente!"
+line "|speed 1.5|C'e' cosi' tanta gente!"
 face a 1 0
 a
 line "|speed 1.5|Oh!|p| Ragazza in Viola!"
@@ -70,7 +70,7 @@ goto marker branch1e
 marker branch1n
 face p 0 4
 p
-line "Oh I-"
+line "Oh io-"
 face p 4 0
 p
 line "Non ci avevo pensato."

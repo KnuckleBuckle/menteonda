@@ -7,7 +7,7 @@ line "Uno schermo con un orologio."
 line "..."
 face p 1 2
 p
-line "Siamo tutti con un cellulare,|p| qual e' il senso?"
+line "Abbiamo tutti un cellulare,|p| qual e' il senso?"
 face s 2 0
 checkflag nickname_panda 1
 goto marker branch26y
@@ -16,14 +16,14 @@ goto marker branch26n
 marker branch26y
 
 s
-line "Panda,|p| e' un ragionamento approssimativo."
+line "Panda,|p| pensi troppo in piccolo."
 
 goto marker branch26e
 
 marker branch26n
 
 s
-line "Pandora,|p| e' un ragionamento approssimativo."
+line "Pandora,|p| pensi troppo in piccolo."
 
 goto marker branch26e
 
@@ -32,7 +32,7 @@ marker branch26e
 face s 1 0
 s
 line "E' perche' fa stile,|p| capisci?"
-line "Esalta la solennita'."
+line "Fa capire quanto e' seria la cosa."
 face s 0 2
 s
 line "Noi siamo QUI.|p| Nella Torre Mindscape!"
@@ -54,7 +54,7 @@ s
 line "Ammetti la tua sconfitta, vedo."
 line "Scegli con attenzione le tue prossime parole."
 p
-line "...Senti.|p| Stai facendo lo stramboide."
+line "...Senti.|p| Stai dicendo cose strane."
 line "Piantala di leccare gli stivali dell'azienda-|p| e-"
 face p 0 3
 p

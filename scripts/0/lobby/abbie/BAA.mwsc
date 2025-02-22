@@ -4,7 +4,7 @@ p
 line "Come hai fatto ad avere problemi ad arrivare qui?"
 face p 1 2
 p
-line "I mezzi pubblici sono tipo,|p| l'unica cosa che va a favore di  Blackout."
+line "I mezzi pubblici sono tipo,|p| l'unica cosa che funziona di Blackout."
 face s 1 0
 s
 line "Gia',|p| basta che ti fai un abbonamento."
@@ -23,7 +23,7 @@ a
 line "I miei mi dicono di evitare la metro perche' e' \"sporca e pericolosa.\""
 face a 0 0
 a
-line "Se il posto in cui voglio andare è troppo lontano a piedi,|p| preferiscono potrarmici in auto."
+line "Se il posto in cui voglio andare e' troppo lontano a piedi,|p| preferiscono potrarmici in auto."
 face p 0 2
 p
 line "Non riesco a immaginare di muovermi a Blackout City in auto."
@@ -45,7 +45,7 @@ line "Oh,|p| allora forse e' colpa mia."
 face a 2 2
 a
 line "Non riuscivo a capire la voce dell'altoparlante."
-line "Non ero sicura su quando avrei dovuto scendere dal treno,|p| per cui devo aver perso la mia fermata."
+line "Non ero sicura su quando sarei dovuta scendere dal vagone,|p| per cui devo aver perso la mia fermata."
 face a 1 0
 a
 line "Per fortuna che, alta com'e' la torre,|p| sono comunque riuscita a vederla da qualche isolato di distanza."

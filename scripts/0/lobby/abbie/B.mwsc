@@ -1,22 +1,22 @@
 
 face p 0 2
 p
-line "Ok,|p| perché indossi un pigiama?"
+line "Ok,|p| perche' indossi un pigiama?"
 face p 1 0
 p
-line "Non voglio essere mica maleducata."
+line "Senza offesa, eh."
 line "E' solo che mi chiedo se avrei dovuto portarmi qualcosa di piu' comodo."
 face a 0 0
 a
 line "No,|p| mi piace quello che hai addosso!"
 face a 1 0
 a
-line "Io lo porto perche' non sono riuscita a finire questo costume che  stavo preparando."
+line "Io indosso questo perche' non sono riuscita a finire questo costume che stavo preparando."
 face s 0 0
 s
 line "Stavi preparando un costume?"
 a
-line "Si'!|p| Doveva essere a tema ragazza magica."
+line "Si'!|p| Doveva essere a tema maghetta."
 face a 1 2
 a
 line "Mio papa' voleva aiutarmi,|p| ma era impegnato col lavoro..."
@@ -29,26 +29,26 @@ line "..."
 face a 1 0
 a
 line "Oh!|p| Eheh,|p| nient'affatto!"
-line "E' solo che mio padre DOVEVA portarmi qui stasera,|p| ma non poteva."
+line "E' solo che mio padre AVREBBE DOVUTO portarmi qui stasera,|p| ma non poteva."
 face a 2 2
 a
 line "...e mia mamma ha detto che faccio un po' pena a MINDWAVE, e che probabilmente non avrei vinto."
 line "Cosi' non voleva portarmici neanche lei."
 face s 2 0
 s
-line "Che noia vederla in questo modo.|p|"
+line "Che palla vederla come i tuoi.|p|"
 face s 0 1
 s
-line "Quest'esperienza sara' da sballo a prescindere che io vinca o meno."
+line "Quest'esperienza sara' una ficata, che io vinca o meno."
 face a 0 0
 a
 line "Ho detto la stessa identica cosa!"
 face s 0 0
 a
-line "Parolacce a parte."
+line "Parolaccia a parte."
 face p 1 2
 p
-line "|style color gray|(Qual'era la parolaccia???)"
+line "|style color gray|(Qual era la parolaccia???)"
 face a 2 2
 a
 line "Il biglietto e' mio!|p| L'ho trovato io!|p| Ho il diritto di essere qui!"

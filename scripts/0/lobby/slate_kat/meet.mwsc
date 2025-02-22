@@ -4,7 +4,7 @@ p
 line "Credo di riconoscere quello\nspilungone laggiu'."
 face s 0 0
 s
-line "Quello che sta conversando con\n la ragazza dai capelli rosa?"
+line "Quello che sta parlando con\n la ragazza dai capelli rosa?"
 
 checkflag _0.iris.met 1
 goto marker branch1y
@@ -87,13 +87,13 @@ l
 line "Proprio cosi'!|p| L'ho fatto con le mie mani."
 face l 1 0
 l
-line "Kat, te l'avevo detto che QUALCUNO\navvrebbe riconosciuto Fortress of Sorrow."
+line "Kat, te l'avevo detto che QUALCUNO\navrebbe riconosciuto Fortress of Sorrow."
 face k 0 1
 set k name kat
 k
 line "Certo, una persona su mille\ntra tutti i presenti."
 l
-line "Eddai,|p| devi tenere conto che\nsi parla di un campione. "
+line "Eddai,|p| devi tenere conto\ndelle statistiche. "
 face l 0 0
 l
 line "Qui abbiamo solo un milionesimo di tutta\nla popolazione di Blackout."

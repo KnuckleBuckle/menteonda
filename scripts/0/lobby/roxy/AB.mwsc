@@ -7,7 +7,7 @@ goto marker branch26n
 marker branch26y
 
 s
-line "Complicanze a parte,|p| hai altre dritte per Panda? "
+line "Complicazioni a parte,|p| hai altre dritte per Panda? "
 
 goto marker branch26e
 
@@ -22,10 +22,10 @@ marker branch26e
 
 face p 1 2
 p
-line "Sul serio stai facendo finta che MINDWAVE potrebbe non so,|p| farti marcire il cervello?"
+line "Sul serio non dici nulla sul fatto che MINDWAVE potrebbe non so,|p| starti marcendo il cervello?"
 face s 2 1
 s
-line "Nulla di grave.|p| Io finora sono stato bene. "
+line "Ma no, dai.|p| Io non ho avuto problemi. "
 face p 0 4
 p
 line "Io non ti capisco."
@@ -36,13 +36,13 @@ line "Hai bisogno di tutto l'aiuto possibile."
 face r 2 0
 r
 line "E' tutta questione d'intuito."
-line "Tutti noi abbiamo una forma mentis diversa tramite cui MINDWAVE interagisce con il nostro cervello."
+line "Ognuno di noi ha un modello mentale su come MINDWAVE interagisce con il nostro cervello."
 face r 3 0
 r
 line "Questo e' un ottimo punto da cui partire."
 face p 0 0
 p
-line "D'accordo,|p| come modello la mia forma mentis?"
+line "D'accordo,|p| come formo il mio modello mentale?"
 face r 2 0
 r
 line "Spiegartelo non ti sara' d'aiuto."
@@ -50,15 +50,15 @@ line "Bastera' giocare."
 face p 4 0
 face s 0 0
 s
-line "Ti posso capire."
+line "Capisco."
 line "Prova ad immaginare che i tuoi pensieri siano un liquido."
-line "Il liquido e' piu' o meno viscoso in base a quanto la tua mente sia sgombra."
+line "Il liquido e' piu' o meno viscoso in base a quanto la tua mente sia limpida."
 face r 3 0
 r
-line "Non l'ho capito."
+line "Non ho capito."
 face p 4 0
 p
-line "Che roba e',|p| succo cerebrale?"
+line "Ma di che parli,|p| liquido cerebrale?"
 face s 2 0
 s
 line "Lasciamo perdere.|p|\nNon mi va di parlarne."

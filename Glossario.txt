@@ -28,7 +28,7 @@ Contestant = Concorrente
 
 Platinum Ticket = Biglietto di Platino
 
-Pools round = Fasi a girone
+Pools round = Primi round d'eliminazione
 
 Entry system = Sistema d'iscrizione
 
@@ -50,11 +50,13 @@ Mall = Centro Commerciale (placeholder) - Abbie e altri
 
 Hobby shop = Bottega - Abbie
 
+Magical girl = Maghetta - Abbie
+
 Yarn = Filato - Abbie
 
 Sparkly yarn = Filato sfavillante - Abbie
 
-Ball of sparkly yarn = Gomitolo sfavillante - Abbie
+Ball of sparkly yarn = Gomitolo glitterato - Abbie
 
 Bad parts (of the city) = Quartieri malfamati - Abbie
 
@@ -73,8 +75,6 @@ Headspace = Mentalità - Roxy
 Professional (relativo al giocare a Mindwave) = Competitivo - Roxy
 
 Side effect = Complicanza - Roxy
-
-Mental model = Forma mentis - Roxy
 
 Memory channeling = Canalizzazione dei ricordi - Roxy
 
@@ -130,7 +130,7 @@ Peace! = Statemi bene! - Kat&Slate
 Well, damn = Beh, che dire - Smalls
 
 
-VEDERE
+VEDERE:
 SNAP TO ATTENTION
 LEVEL UP | SPEED UP
 MESSAGGIO EPILESSIA

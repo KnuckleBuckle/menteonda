@@ -4,16 +4,16 @@ p
 line "Ok,|p| devo chiedere una cosa importantissima."
 face p 0 2
 p
-line "L'emicrania prima o poi svanisce?"
+line "Il mal di testa prima o poi svanisce?"
 face r 1 0
 r
-line "Emicrania?|p| Sei sicura di aver bevuto a sufficienza?"
+line "Mal di testa?|p| Sei sicura di aver bevuto a sufficienza?"
 face p 1 2
 p
 line "Piu' che a sufficienza..."
 face r 0 0
 r
-line "Non conosco molta gente che ha avuto emicranie per MINDWAVE."
+line "Non conosco molta gente che ha avuto mal di testa per MINDWAVE."
 face r 0 1
 r
 line "L'ho visto accadere,|p| ma solo dopo sessioni piu' lunghe."
@@ -40,7 +40,7 @@ r
 line "Ma d'altro canto,|p| anche conformarsi troppo a MINDWAVE puo' essere dannoso."
 face s 1 0
 s
-line "Vuoi dire che giocarci ha complicanze a lungo termine?"
+line "Vuoi dire che giocarci ha complicazioni a lungo termine?"
 face p 1 2
 p
 line "Siiii', non sono molto convinta."

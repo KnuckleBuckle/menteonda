@@ -23,7 +23,7 @@ a
 line "|speed 2.5|Stavo creando un set di coniglietti peluche!|skip| "
 face a 1 2
 a
-line "|speed 2.5|Dovevano starsene in fila sul mio davanzale, ma ora che avevo una finestra piu' grande DOVEVO farne altri!|skip| "
+line "|speed 2.5|Sarebbero dovuti stare in fila sul mio davanzale, ma ora che ho una finestra piu' grande NE DOVEVO fare altri!|skip| "
 face a 0 0
 a
 line "|speed 2.5|Ho traslocato di recente.|skip| "
@@ -31,10 +31,10 @@ line "|speed 2.5|Ho traslocato di recente.|skip| "
 
 face a 2 2
 a
-line "|speed 3|Comunque,|p| non avevano la tonalita' precisa di filato rosa che volevo cosi' ho comprato ogni colore SOMIGLIANTE.|skip| "
+line "|speed 3|Comunque,|p| non avevano la tonalita' precisa di filato rosa che volevo cosi' ho comprato ogni colore SIMILE.|skip| "
 face a 1 0
 a
-line "|speed 3|Mi sembrava ingiusto imitare i vecchi coniglietti, percio' mi decisi su questa graziosa tinta blu.|skip| "
+line "|speed 3|Non mi piaceva farli come quelli vecchi coniglietti, percio' ho scelto una graziosa tinta blu.|skip| "
 face a 4 0
 face p 4 0
 a
@@ -71,10 +71,10 @@ s
 line "Quindi quale di questi oggetti aveva il biglietto?"
 face a 4 0
 a
-line "Oh,|p| giusto!|p| Era legato a questo gomitolo sfavillante che avevo preso!"
+line "Oh,|p| giusto!|p| Era legato a questo gomitolo glitterato che avevo preso!"
 face s 0 0
 p
-line "Immagino il disastro."
+line "Immagino quanto casino faccia in giro."
 face a 1 0
 a
 line "Eggia'!|p| Ancora troviamo brillantini sui sedili posteriori."
