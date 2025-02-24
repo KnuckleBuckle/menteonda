@@ -43,7 +43,7 @@ k
 line "Non tanto,|p| sinceramente sono\npiu' a disagio con sconosciuti\nche mi guardano il cervello."
 face k 0 2
 k
-line "Sono qui solo perche', beh,|p| sarei una stupida a perdere quest'evento."
+line "Sono qui solo perche', beh,|p| sarei una stupida a perdermi quest'evento."
 
 setflag _0.slate_kat.read.AAA 1
 setflag _0.slate_kat.branch AAA
