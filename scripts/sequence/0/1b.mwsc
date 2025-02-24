@@ -16,7 +16,7 @@ resume
 clear
 wait for marker info
 pause
-|style font fnt_pixel|SCAN COMPLETATA|p|\nNOME PARTECIPANTE:|p| PANDORA
+|style font fnt_pixel|SCAN COMPLETATA|p|\nNOME CONCORRENTE:|p| PANDORA
 |style font fnt_pixel|REGISTRAZIONE BIGLIETTO NUMERO 7263672|p|\n(BEVANDA GASSATA BREEZE COLA)
 |style font fnt_pixel|(DISTRIBUTORE 6-A24 IN BLACKOUT CITY EST)
 speaker_icon pandora
