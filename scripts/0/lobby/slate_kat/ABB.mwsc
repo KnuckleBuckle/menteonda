@@ -1,49 +1,49 @@
 face s 0 0
 face p 0 0
 p
-line "So do you guys play MINDWAVE\nmuch at all?"
+line "Quindi voi avete mai\ngiocato a MINDWAVE?"
 face l 0 0
 l
-line "Dude, yeah,|p| we play\ntogether at the arcade\nevery Saturday."
+line "Si', fra,|p| ci giochiamo\nassieme agli arcade\nogni sabato."
 face s 1 0
 s
-line "Does Fortress of Sorrow stuff\ncome up often?"
+line "Appare spesso roba\ndi Fortress of Sorrow?"
 face k 0 2
 k
-line "Somehow,|p| not often at all."
-line "It's honestly a really fun matchup."
-line "It's nice to get a break from\nEthan's nerd stuff."
+line "A volte,|p| di certo non sempre."
+line "Sinceramente mi diverto a battermi con lui."
+line "E' bello prendersi una pausa\ndalla roba nerd di Ethan."
 face s 0 0
 l
-line "Absolutely,|p| it's only\nchill vibes up here."
+line "Avoja,|p| qui\nsi sta nel chill."
 face s 1 0
 s
-line "I totally wish I had someone to frequently play against."
+line "Vorrei tanto avere qualcuno con cui giocarci spesso."
 face p 0 2
 p
-line "Don't ask me.|p| I don't feel like\ngiving Mindscape Co. a buncha\nscans of my brain."
-line "Only reason I'm here right now\nis because I'd be stupid to miss\nsomething like this."
+line "Non chiedere a me.|p| Non mi va di\ndare a Mindscape Co. una marea\ndi scan del mio cervello."
+line "L'unico motivo per cui sono qui\ne' perche' sarei una stupida a perdermi\nuna roba del genere."
 l
-line "Nahhhhh,|p| don't worry at all.|p|\nThey don't save your brain scans."
+line "Nahhhhh,|p| stai serena.|p|\nNon salvano le scan del tuo cervello."
 face l 1 0
 l
-line "I read the EULA front to back\n'cuz Kat was all worried about\nit the first time we played."
+line "Ho letto tutti i termini di servizio\nperche' la prima volta che abbiamo giocato\nKat aveva le paranoie."
 face k 0 1
 face s 0 0
 k
-line "Didn't want them saving anything\nfrom my brain either.|p|\nThat would be super weird."
+line "Neanch'io volevo che salvassero\nrobe del mio cervello.|p|\nSarebbe inquietantissimo."
 face p 0 0
 p
-line "Isn't it weird to see each other's\nminds like that though?"
+line "Non e' strano pero' che vediamo\n le menti altrui in questo modo?"
 face p 1 0
 p
-line "It feels a little too personal."
+line "Mi pare un po' troppo invadente."
 face k 0 0
 k
-line "Not really,|p| I'm honestly\nmore uncomfortable\nwith strangers seeing my brain."
+line "Non tanto,|p| sinceramente sono\npiu' a disagio con sconosciuti\nche mi guardano il cervello."
 face k 0 2
 k
-line "I'm only here right now because yeah,|p| it would be stupid to miss this."
+line "Sono qui solo perche', beh,|p| sarei una stupida a perdere quest'evento."
 
 setflag _0.slate_kat.read.AAA 1
 setflag _0.slate_kat.branch AAA
