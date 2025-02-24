@@ -5,7 +5,7 @@ s
 line "Hai finito di guardarti in giro?"
 p
 option add name "Si', qui ho finito." marker "yes"
-option add name "In realtà, nah." marker "no"
+option add name "In realta', nah." marker "no"
 options show
 
 marker yes

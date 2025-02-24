@@ -4,7 +4,7 @@ s
 line "Cosa fareste coi vostri soldi nel caso vincerete?"
 face l 0 0
 l
-line "Ti diro',|p| ci avro' pensato su per due secondi.|p| Kat e' quella coi piani da paura."
+line "Seh,|p| non ci ho nemmeno pensato.|p| Kat e' quella coi piani da paura."
 face l 1 0
 l
 line "Lei vorrebbe-|p 20| |skip| "
@@ -16,18 +16,18 @@ k
 line "Ti spiegheresti male."
 face l 1 0
 l
-line "Ok bella,|p| a te il microfono."
+line "Ok sorella,|p| a te il microfono."
 k
-line "Voglio solo usare quel denaro\nrper affittare un atelier."
+line "Voglio solo usare quel denaro\nper affittare uno studio."
 face s 0 0
 s
 line "Oh ma e' fighissimo,|p| che cosa fai?"
 k
-line "E' solo un hobby,|p| ma mi piacee\nfare dipinti astratti."
+line "E' solo un hobby,|p| ma mi piace\nfare dipinti astratti."
 face l 0 0
 face k 0 1
 l
-line "Al momento la sua base e' nella vecchia camera di sua madre."
+line "Al momento la sua postazione e' nella vecchia camera di sua madre."
 face k 0 0
 k
 line "Uh,|p| gia'.|p| Mi piacerebbe avere uno spazio tutto mio."
@@ -57,7 +57,7 @@ marker branch26e
 
 face p 4 0
 p
-line "Boh,|p| ma l'affitto di questa citta' non e',\ncome dire,|p| stratosferico?"
+line "Boh,|p| ma gli affitti in questa\n citta' non sono, come dire,|p| stratosferico?"
 s
 line "Penso che sia comunque meglio di ricevere reclami per il rumore dai miei vicini."
 face l 0 0
@@ -66,7 +66,7 @@ line "Voi due siete in una band?|p| Che figata."
 line "Anche da me arrivano\nlamentele per il rumore."
 line "I miei urlano sempre ai miei fratelli maggiori per qualche guaio in cui si sono cacciati..."
 line "Io cerco di rimanerne fuori."
-line "Se vincera' Kat,|p| di sicuro' passero' il tempo con lei nel suo atelier."
+line "Se vincera' Kat,|p| di sicuro' passero' il tempo con lei nel suo studio."
 
 setflag _0.slate_kat.read.BA 1
 setflag _0.slate_kat.branch BA

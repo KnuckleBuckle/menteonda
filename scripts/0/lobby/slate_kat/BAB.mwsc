@@ -64,7 +64,7 @@ l
 line "Cosi' abbiamo finito per restare\nuniti."
 face k 0 2
 k
-line "Compunque abbiamo preso una A\nper quel progetto."
+line "Comunque abbiamo preso una A\nper quel progetto."
 face s 0 1
 s
 line "Grandi."
@@ -72,8 +72,8 @@ l
 line "Io ho fatto il grosso."
 face k 0 0
 k
-line "Ti ho ascoltato blaterare di tutte le tue serie a cui eri preso in quella settimana."
-line "Abbiamo praticamente messo lo stesso sforzo."
+line "Ti ho ascoltato blaterare di tutte le tue serie con cui eri in fissa in quella settimana."
+line "E' stato faticoso per entrambi."
 
 setflag _0.slate_kat.read.BAB 1
 setflag _0.slate_kat.branch BAB

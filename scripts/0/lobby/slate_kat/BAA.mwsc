@@ -6,7 +6,7 @@ p
 line "Ogni volta che si dipinge nell'ora d'arte,|p| faccio un enorme casino."
 face p 0 1
 p
-line "Mi sembra figo saltare le parti rognose e dipingere colori a caso per divertirsi."
+line "Trovo figo saltare le parti rognose e dipingere colori a caso per divertirsi."
 face s 0 1
 checkflag nickname_panda 1
 goto marker branch26y
@@ -34,7 +34,7 @@ l
 line "Giuro, i lavori di Kat sono fantastici.|p|\nLa mia stanza e' PIENA di suoi dipinti."
 face k 0 0
 k
-line "Sto dipingendo da...|p| ormai un po'.|p| Ho un sacco di pezzi finiti sparsi in giro per casa."
+line "Sto dipingendo da...|p| ormai un po'.|p| Ho un sacco di lavori finiti sparsi in giro per casa."
 line "Non mi importa molto dei miei dipinti\nuna volta che li ho finiti."
 line "Dipingere semplicemente mi calma.|p|\nMa non mi dispiacciono i risultati."
 l
@@ -42,7 +42,7 @@ line "La tua arte mi PARLA.|p|\nE' bellissima."
 face p 0 0
 face k 0 1
 k
-line "Va bene, nerdone,|p| detto da te\nnon è chissa'\nche complimento."
+line "Va bene, nerdone,|p| detto da te\nnon e' chissa'\nche complimento."
 face k 0 2
 k
 line "Ma grazie."

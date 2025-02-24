@@ -1,17 +1,17 @@
 face s 0 1
 s
-line "Ethan,|p| Kat,|p| è stato bello conoscervi."
+line "Ethan,|p| Kat,|p| e' stato bello conoscervi."
 face l 0 0
 l
 line "Anche per noi.|p| In bocca al lupo per le vostre partite."
 face p 0 0
 s
-line "Kat,|p| se vincerai tu spero che otterrai quell'atelier. "
+line "Kat,|p| se vincerai tu spero che otterrai quello studio. "
 face k 0 2
 k
 line "Grazie."
 l
-line "Sarebbe mitico.|p| Mi assicurero' che Kat ci metta una TV al plasma."
+line "Sarebbe spettacolare.|p| Mi assicurero' che Kat ci metta una TV al plasma."
 line "E poi vi invitero' tutti ad una maratona di Fortress of Sorrow. "
 face k 0 1
 k
@@ -23,7 +23,7 @@ line "Voi altri pero' siete invitati."
 face l 1 0
 l
 line "Ti prego, Kat,|p| lo SAI che da me non posso invitare nessuno per cazzeggiare."
-line "Forse dovro' batterti per far si' che TU dovrai prendere in prestito il MIO atelier. "
+line "Forse dovro' batterti per far si' che TU dovrai prendere in prestito il MIO studio. "
 face k 0 1
 k
 line "Ah si'?|p| Allora vedremo chi di noi vincera'."

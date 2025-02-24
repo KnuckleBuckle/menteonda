@@ -20,8 +20,8 @@ p
 line "A me neanche piace il gioco,|p| eppure eccomi qua."
 face d 0 0
 d
-line "Vedi,|p| a me in realta' piace giocarci,|p| ma faccio pena."
-line "Percio' stavo pensando di cedere il biglietto che ho preso in una farmacia a un ami-|p| |skip| "
+line "Vedi,|p| a me in realta' piace giocarci,|p| ma faccio schifo."
+line "Percio' stavo pensando di dare il biglietto che ho preso in una farmacia a un ami-|p| |skip| "
 face p 0 2
 p
 line "In una farmacia?"
@@ -37,7 +37,7 @@ face p 1 2
 p
 line "...Giocare a MINDWAVE sarebbe l'ultimo dei miei pensieri."
 d
-line "Eccome.|p| Quando ho visto il biglietto nel flacone,|p| ero sai,|p| confuso."
+line "Si', fra.|p| Quando ho visto il biglietto nel flacone,|p| ero tipo,|p| confuso."
 face p 0 2
 p
 line "Anch'io rimarrei confusa."
@@ -48,24 +48,24 @@ p
 line "MINDWAVE?|p| Non ho idea di cosa sia.|p| Ma di certo sara' li' che portero' il mio culo rugoso."
 face d 0 1
 d
-line "Insomma,|p| ma sara' sicuro per uno cosi' vecchio poter giocare?"
+line "Fra,|p| ma sarebbe sicuro per uno cosi' vecchio poter giocare?"
 face p 0 2
 p
-line "Se non e' senza rischi per me,|p| probabilmente no."
+line "Se non e' sicuro per me,|p| figuriamoci per uno cosi'."
 face p 0 1
 p
-line "Povero nonnino, non puo' neanche giocare."
+line "Povero nonnino,|p| non potrebbe nemmeno giocare."
 set s x -70
 set p x 45
 d
-line "Immagino che potrebbe dare i biglietti ai suoi nipotini."
+line "Potrebbe dare i biglietti ai suoi nipotini, immagino."
 face s 1 0
 face p 4 0
 s
-line "Il nonno potrebbe,|p| ma rimane che Mindscape ci fa una brutta figura."
+line "Potrebbe pure,|p| ma rimane che Mindscape ci fa una brutta figura."
 face s 0 0
 s
-line "Non penso che dovrebbero mettere i biglietti in spazi a cui non appartengono come se nulla fosse."
+line "Non penso che dovrebbero mettere biglietti in posti a caso dove non c'entrano nulla."
 face p 0 0
 p
 line "Mi ero genuinamente scordata che eri qui."
