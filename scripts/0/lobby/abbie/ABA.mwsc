@@ -16,7 +16,7 @@ a
 line "Sono tutti speciali,|p| ma Tommy e' il mio preferito!"
 face a 6 1
 a
-line "E' la mia prima creazione,|p| percio' e' specialissimo."
+line "E' la mia prima creazione,|p| percio' e' il piu' specialissimo."
 face p 0 1
 p
 line "Favoritismo per i primogeniti."
@@ -64,7 +64,7 @@ line "Non hai idea di quanto sia importante per me!"
 face a 0 0
 a
 line "E Panda,|p| se mai vorrai tornare a cucire,|p| fammelo sapere!"
-line "Imparare con un amico aiuta."
+line "Imparare con un'amica aiuta."
 face p 0 1
 p
 line "Si',|p| te lo faro' sapere... "

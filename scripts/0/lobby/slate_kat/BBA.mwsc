@@ -63,7 +63,7 @@ s
 line "Pandora,|p| perche' non mi hai mai parlato di Fortress of Sorrow?"
 face s 0 2
 s
-line "Ethan lo ha fatto sembrare\nla piu' grande serie di sempree."
+line "Ethan lo ha fatto sembrare\nla piu' grande serie di sempre."
 
 
 setflag _0.slate_kat.read.BBA 1

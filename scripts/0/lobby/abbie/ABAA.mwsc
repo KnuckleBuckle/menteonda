@@ -31,7 +31,7 @@ p
 line "Qualsiasi altra cosa per me costerebbe troppo."
 face a 0 0
 a
-line "Nessun problema!|p| Potro' pagare io al posto vostro!"
+line "Nessun problema!|p| Potrei pagare io al posto vostro!"
 face p 4 0
 p
 line "Oh,|p| alla grande."
@@ -43,7 +43,7 @@ p
 line "..."
 face p 0 1
 p
-line "E' stato bello conscerti,|p| Abbie,|p| ci si becca in giro."
+line "E' stato bello conoscerti,|p| Abbie,|p| ci si becca in giro."
 face a 0 0
 a
 line "Aspetta,|p| prima che te ne vai!"

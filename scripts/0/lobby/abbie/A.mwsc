@@ -6,12 +6,12 @@ line "Che si dice,|p| ti senti pronta per il torneo?"
 line "Hai giocato spesso?"
 face a 0 0
 a
-line "Uhm...|p| no!|p| Direi più SUPER arruginita."
+line "Uhm...|p| no!|p| Direi che sono SUPER arruginita."
 face a 1 2
 a
 line "L'ultima volta che ho giocato ho fatto cosi' schifo che sono scoppiata a piangere."
 p
-line "Uh,|p| potevo stare peggio."
+line "Uh,|p| potevo stare messa peggio."
 face s 2 1
 s
 line "No,|p| sono abbastanza certo che vomitare e svenire sia peggio di piangere."
@@ -23,7 +23,7 @@ s
 line "Ok,|p| hai comunque vomitato."
 face a 0 0
 a
-line "E' normale!|p| Anch'io ho avuto difficolta' ad abituarmi al gioco."
+line "E' normale!|p| Anch'io ho difficolta' ad abituarmi al gioco."
 face a 1 0
 a
 line "Io a stento riesco a giocarci."
@@ -37,7 +37,7 @@ s
 line "Gia'...|p| Specialmente in questo periodo dell'anno."
 face s 0 0
 s
-line "Un sacco di aspiranti posessori di biglietti che vogliono fare pratica."
+line "Un sacco di aspiranti possessori di biglietti che vogliono fare pratica."
 face a 1 2
 a
 line "Uh...|p| Non mi è mai venuto in mente che avrei potuto allenarmi!"

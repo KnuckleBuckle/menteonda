@@ -18,27 +18,27 @@ face p 0 2
 p
 line "No fra."
 line "Non puoi dirmi che non hai ALCUN consiglio."
-line "Specialmente dopo avermi riempito di timori su-"
+line "Specialmente dopo avermi riempito di ansie su-"
 face p 0 3
 p
-line "Aspetta,|p| stai cercando di depistarmi?"
-line "Vuoi tipo,|p| mettermi ansie in testa per farmi giocare male?"
+line "Aspetta,|p| stai cercando di fregarmi?"
+line "Vuoi tipo,|p| mettermi mille pare in testa per farmi giocare male?"
 face r 1 1
 r
 line "Nient'affatto.|p| Qualunque pro in MINDWAVE ti direbbe le stesse cose."
 face p 0 0
 face s 0 2
 s
-line "Credo che stia parlando sul serio Pandora."
+line "Credo che sia serio, Pandora."
 face s 0 1
 s
 line "Essere abili su MINDWAVE deriva in gran parte dall'esperienza."
 face s 0 0
 s
-line "Speravo solo che avesse qualcosa che ti fosse d'aiuto in questo breve lasso di tempo."
+line "Speravo solo che avesse qualche piccola chicca di saggezza."
 face r 2 0
 r
-line "Cos'e', cercavi qualche te' che rafforzasse la tua mente?"
+line "Cos'e', cercavi qualche te' che rafforzasse la mente?"
 face p 1 0
 p
 line "Non esattamente."

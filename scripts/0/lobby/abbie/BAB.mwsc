@@ -18,19 +18,19 @@ p
 line "Perche' vuoi traslocare se ti piace veramente stare qui?"
 face p 0 1
 p
-line "Il filato sfavillante della tua vecchia citta' e' migliore?"
+line "Il filato glitterato della tua vecchia citta' e' migliore?"
 face a 1 0
 a
 line "No...|p| qui e' tutto semplicemente... migliore!"
 face a 0 0
 a
-line "Neanche SAPEVO che esistesse il filato sfavillante finche' non l'ho visto qui."
+line "Neanche SAPEVO che esistesse il filato glitterato finche' non l'ho visto qui."
 face a 1 2
 a
 line "Ma e' difficilissimo godersi queste cose quando si rimane soli."
 face a 2 2
 a
-line "E dopo aver vissuto qui per ben un mese,|p| non mi sono ancora fatta un singolo un amico..."
+line "E dopo aver vissuto qui per ben un mese,|p| non mi sono ancora fatta un singolo amico..."
 face a 2 2
 a
 line "Vorrei che Jenny fosse qui..."
@@ -44,12 +44,12 @@ p
 line "Far si' che sia lei a venire?"
 face s 0 1
 s
-line "Si'.|p| Una liceale adottera' la sua amica,|p| che e' anch'essa liceale."
+line "Seh.|p| Una liceale che adotta la sua amica,|p| che e' un'altra liceale."
 face p 1 1
 p
 line "Gia',|p| forse in realta' sono un'idiota."
 a
-line "Io non penso che sei un'idiota Panda!"
+line "Io non penso che sei un'idiota, Panda!"
 face p 0 0
 
 

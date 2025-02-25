@@ -2,13 +2,13 @@ face s 0 1
 face p 0 0
 p
 line "Saro' sincera."
-line "Non penso che la torre sia fantastica.|p|\nPer niente."
+line "Non penso che la torre sia stupenda.|p|\nPer niente."
 face p 0 2
 p
-line "Semmai mi mette un po' a disagio,|p| non trovate?"
+line "Semmai la trovo disagiante,|p| non pensi?"
 face s 2 1
 s
-line "Mi dispiace,|p| ma io qui sono dalla parte di Abbie,|p| questo e' il SIMBOLO della citta'."
+line "Mi dispiace,|p| ma io qui sono dalla parte di Abbie,|p| e' il SIMBOLO della citta'."
 face s 0 1
 s
 line "Se non ammetti che starci dentro sia un po' una figata..."
@@ -24,7 +24,7 @@ a
 line "E lo schermo con l'occhio?|p|\nMa che figataaa!"
 face p 1 0
 p
-line "Vallo a dire quando quell'occhio e' sempre volto verso la tua finestra."
+line "Prova a dirlo quando quell'occhio e' sempre volto verso la tua finestra."
 face p 1 2
 p
 line "Perche' lo giuro su Dio,|p| sta SEMPRE a fissarmi quando cerco di dormire."

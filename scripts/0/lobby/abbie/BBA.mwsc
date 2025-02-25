@@ -4,7 +4,7 @@ line "Abbie,|p| Panda e io dobbiamo andare."
 face p 1 2
 face s 0 1
 p
-line "Ti ridurro' mezzo morto se continui con questa \"storia.\""
+line "Ti spacco di botte se continui a fare \"il simpatico.\""
 face a 2 2
 a
 line "..."
@@ -33,13 +33,13 @@ a
 line "Grazie!"
 face p 0 2
 p
-line "Ferma,|p| non ti ho dato il permesso di passare il mio numero."
+line "Fra,|p| non ti ho dato il permesso di passare il mio numero."
 face p 0 1
 p
 line "Ma si' dai,|p| qualche volta potremmo uscire assieme."
 face s 2 0
 s
-line "Sempre se non verrai punita per la tua bravata da ribelle di stasera."
+line "Sempre se non verrai punita per la tua fuga ribelle di stasera."
 face a 1 2
 a
 line "...Forse se tornero' a casa con il montepremi,|p| si arrabbieranno di meno?"

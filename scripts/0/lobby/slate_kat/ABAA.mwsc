@@ -21,7 +21,7 @@ k
 line "Ci si becca! "
 face l 0 0
 l
-line "Statemi bene!"
+line "Bella!"
 
 
 setflag _0.smalls.slate_kat 1

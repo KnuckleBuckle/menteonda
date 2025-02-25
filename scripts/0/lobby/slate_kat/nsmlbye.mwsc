@@ -1,7 +1,7 @@
 p
 line "Credo che andro' a raggiungere Smalls."
 k
-line "Oh, d'accorso.|p| Allora ciao?"
+line "Oh, d'accordo.|p| Allora ciao?"
 face p 1 0
 face s 0 0
 p

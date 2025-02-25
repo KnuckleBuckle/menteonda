@@ -28,7 +28,7 @@ s
 line "Ci si vede, ragazzi."
 face l 0 0
 l
-line "Statemi bene."
+line "Bella."
 
 setflag _0.smalls.slate_kat 1
 setflag _0.slate_kat.done 1

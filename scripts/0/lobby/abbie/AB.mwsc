@@ -16,7 +16,7 @@ a
 line "All'epoca avevo a malapena un cervello funzionante.|p| Al contrario di adesso."
 face p 0 0
 p
-line "Right."
+line "Giusto."
 face s 0 1
 s
 line "Buona fortuna ad abituarti a questo posto, Abbie.|p| Ho saputo che non è facile."
@@ -31,10 +31,10 @@ a
 line "Ho ancora paura a guardare i grattacieli!"
 face a 2 2
 a
-line "E a volte sento la mancanza dei miei amici..."
+line "E a volte sento la mancanza della mia amica..."
 face p 0 2
 p
-line "Aspetta,|p| stavi dicendo che questa citta' ti PIACE,|p| ho sentito bene?"
+line "Aspetta,|p| hai detto che questa citta' ti PIACE,|p| ho sentito bene?"
 face a 4 1
 a
 line "Ma certo!|p| Come si puo' non amare una citta' che ha al suo centro una torre cosi' stupenda?"
@@ -51,13 +51,13 @@ a
 line "Al Centro Commerciale Nord c'e' quest'enorme bottega che è più grande di quella dalle mie parti."
 face a 3 1
 a
-line "Ho trovato del filato sfavillante.|p| Nemmeno sapevo che esistesse!"
+line "Ho trovato del filato glitterato.|p| Nemmeno sapevo che esistesse!"
 face p 0 2
 p
-line "Come fa ad essere una morale?"
+line "E questa sarebbe una morale?"
 face s 1 0
 s
-line "Il Centro Commerciale Nord e' figo,|p| gia'.|p| Anche se un po' affollato."
+line "Il Centro Commerciale Nord e' figo,|p| gia'.|p| Un po' affollato."
 face p 1 0
 p
 line "E costoso."

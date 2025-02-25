@@ -1,9 +1,9 @@
 face p 0 0
 p
-line "Quindi,|p| quali sono i modi in cui MINDWAVE ti rincretinisce?"
+line "Quindi,|p| quali sono i modi in cui MINDWAVE ti sfancula il cervello?"
 face p 0 2
 p
-line "Penso che sia uan preoccupazione legittima."
+line "Penso che sia una preoccupazione legittima."
 face s 0 2
 s
 line "Nah,|p| gioco molto piu' di te e sto benissimo."
@@ -23,7 +23,7 @@ line "Di sicuro roba che ti fa dissociare in qualche modo dalla realta'."
 face r 3 0
 r
 line "Non ti sbagli.|p| Il gioco competitivo non e' per tutti."
-line "Molti si uniscono all team della mia scuola si ritirano entro il primo mese."
+line "Molti si uniscono al team della mia scuola si ritirano entro il primo mese."
 face p 1 0
 p
 line "Bene.|p| Dovrebbero entrare in altri team,|p| come quelli di sport veri."

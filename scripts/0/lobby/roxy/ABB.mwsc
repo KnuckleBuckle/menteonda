@@ -1,15 +1,15 @@
 face p 0 0
 p
-line "Ma ho qualche chance di vincere,|p| se la mia esperienza e' pari a zero?"
+line "Ma ho qualche chance di vincere,|p| se la mia esperienza e' quasi pari a zero?"
 face r 0 0
 r
 line "Beh...|p| puo' essere?"
 face r 0 1
 r
-line "E' probabile che in questo posto ci saranno un sacco di inesperti."
+line "E' probabile che in questo posto ci siano un sacco di inesperti."
 face s 2 1
 s
-line "Gia',|p| devi solo sperare che non ti mettano subito in contro con un pro."
+line "Gia',|p| devi solo sperare che non ti mettano subito contro con un pro."
 face s 0 0
 s
 line "Otterrai l'esperienza che ti serve mentre scalerai la torre."
@@ -35,7 +35,7 @@ line "A dire la verita',|p| l'arcade in cui ti ho visto e' un'ottima meta in ter
 face r 3 0
 r
 line "Forse e' solo che ci vai negli orari sbagliati."
-line "Ho giocato contro alcuni che mi stavano quasi per sbaragliare."
+line "Ho giocato contro alcuni che mi avevano quasi fregata."
 face s 0 1
 s
 line "Rimanendo in tema,|p| qual e' l'arcade coi peggiori giocatori di MINDWAVE che hai trovato?"

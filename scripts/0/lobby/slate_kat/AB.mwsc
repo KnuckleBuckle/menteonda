@@ -7,7 +7,7 @@ l
 line "Gia'.|p| E' cosi' che mi chiamano gli amici."
 face k 0 1
 k
-line "Amica*."
+line "Amica*, singolare."
 face l 1 0
 l
 line "Falso.|p| I tuoi nonni mi chiamano Ethan."
@@ -16,7 +16,7 @@ face s 1 0
 s
 line "Quindi,|p| non siete fratelli."
 k
-line "Ethan e' in generale una seccatura che passa le giornate a casa mia..."
+line "Ethan e' una seccatura ambulante che passa le giornate a casa mia..."
 face k 0 2
 k
 line "...ma no, non siamo imparentati."
@@ -29,7 +29,7 @@ l
 line "Amo la mia famiglia,|p| ma mi sento in PARADISO\nquando sto lontano da loro."
 face l 1 0
 l
-line "I nonni di Kat sono molto piu' ganzi."
+line "I nonni di Kat sono molto piu' fichi."
 face k 0 0
 k
 line "Il paradiso secondo Ethan e'\nuna casa con anziani barbosi."

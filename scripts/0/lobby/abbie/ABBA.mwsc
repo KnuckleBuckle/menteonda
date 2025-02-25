@@ -8,13 +8,13 @@ s
 line "Non credo che iniziera' PROPRIO adesso."
 face s 0 2
 s
-line "Ma sarebbe meglio salutarci ora rispetto a venire interrotti di punto in bianco."
+line "Ma sarebbe meglio salutarci ora rispetto a venire interrotti a caso."
 face a 1 2
 a
 line "Si',|p| ha senso..."
 face a 0 0
 a
-line "...e' stato bello conoscdervi!|p|\nSpero di vedervi in giro."
+line "...e' stato bello conoscervi!|p|\nSpero di vedervi in giro."
 line "Un momento,|p| potrei avere i vostri numeri, per favore?"
 face s 0 1
 s

@@ -4,13 +4,13 @@ p
 line "Ok, dunque...|p| cos'altro hai in mente\ndi fare coi tuoi soldi?"
 face p 0 1
 p
-line "...A parte offrire doni alle persone che ti ascoltano mentre vaneggi sui cartoni."
+line "...A parte offrire regali alle persone che ti ascoltano mentre vaneggi sui cartoni."
 face s 2 0
 s
 line "Lo dici come se fosse un brutto proposito."
 face s 0 1
 s
-line "Io ce li ho i requisiti,|p| vero?"
+line "Io sono incluso,|p| vero?"
 face l 0 0
 l
 line "Non ci ho neanche\npensato a queste cose."
@@ -38,7 +38,7 @@ face l 1 0
 k
 line "Effettivamente bella?"
 l
-line "Beh, puo'essere.|p|\nNon l'ho mai vista!"
+line "Beh, puo' essere.|p|\nNon l'ho mai vista!"
 face l 0 0
 l
 line "Ho sentito che hanno rifinito molti aspetti,|p| ma i fortunati che la posseggono\ntengono ben chiuse le loro copie."
