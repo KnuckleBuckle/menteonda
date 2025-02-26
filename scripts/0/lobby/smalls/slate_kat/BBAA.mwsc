@@ -7,7 +7,7 @@ p
 line "Non ero pronta a parlare con Kat per conto mio cosi' dal nulla."
 face s 2 0
 s
-line "Ehh,|p| te la sarai cavata."
+line "Seh,|p| te la sarai cavata."
 face s 0 2
 s
 line "Dico bene?"
@@ -34,7 +34,7 @@ s
 line "Abbiamo smesso di parlare solo perche' non volevo altri spoiler."
 face s 0 1
 s
-line "Mi ero convinto il secondo in cui mi ha parlato della saga in cui Slate si infiltra nell'assemblea Knelburnian."
+line "Mi ero convinto il secondo in cui mi ha parlato della saga in cui Slate si infiltra nell'assemblea Knelburniana."
 p
 line "Basta che non svanisci di nuovo in quel modo.|p| Per favore."
 s

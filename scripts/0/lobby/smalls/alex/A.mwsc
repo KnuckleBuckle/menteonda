@@ -69,13 +69,13 @@ goto marker branch1e
 marker branch1e
 face s 0 1
 s
-line "Stai certa che qui c'e' gente cin cui possiamo parlare senza problemi."
+line "Stai certa che qui c'e' gente con cui possiamo parlare senza problemi."
 face s 1 0
 s
 line "Semplicemente mi saro' sbagliato su quella singola persona,|p| tutto qui."
 face s 0 1
 s
-line "Non possiamo far altro se non passare oltre e parlare con qualcun altro."
+line "Non possiamo far altro se non passare oltre e parlare con gente diversa."
 face p 1 2
 p
 line "\"Sempre ragione...\""

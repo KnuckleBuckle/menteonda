@@ -1,6 +1,6 @@
 face p 0 1
 p
-line "Non dimenticarti dei venti che mi devi."
+line "Non dimenticarti del ventone che mi devi."
 face s 2 1
 s
 line "Si' si',|p| te li daro' non appena avro' vinto."
@@ -9,13 +9,13 @@ p
 line "Ad essere onesta,|p| avrei dovuto puntare di piu'."
 face p 1 0
 p
-line "Parlare con questa gente mi da uno strano presentimento sul torneo."
+line "Parlare con questa gente mi da' uno strano presentimento sul torneo."
 face s 0 0
 s
 line "Te la caveraaaaai."
 face p 0 2
 p
-line "Nah,|p| dopo il torto completamente marcio che hai avuto su Alex non posso fidarmi del tuo giudizio."
+line "Nah,|p| dopo il torto marcio che hai avuto su Alex non posso fidarmi del tuo giudizio."
 line "Che dire,|p| si',|p| e' ovvio che una persona che sta chiaramente evitando di interagire non vuole parlarci."
 face s 1 0
 s
@@ -82,13 +82,13 @@ marker branch1e
 
 face s 0 1
 s
-line "Stai certa che qui c'e' gente cin cui possiamo parlare senza problemi."
+line "Stai certa che qui c'e' gente con cui possiamo parlare senza problemi."
 face s 1 0
 s
 line "Semplicemente mi saro' sbagliato su quella singola persona,|p| tutto qui."
 face s 0 1
 s
-line "Non possiamo far altro se non passare oltre e parlare con qualcun altro."
+line "Non possiamo far altro se non passare oltre e parlare con gente diversa."
 face p 0 1
 p
 line "Ah si'?|p| Vuoi ancora trascinarmi a parlare con la gente? "
@@ -100,7 +100,7 @@ s
 line "Mmh,|p| beh, rivorrei indietro i miei venti dollari..."
 face s 0 1
 s
-line "Forse dovrei adottare la fallacia dello scommettitore."
+line "Forse dovrei accettare la mia natura da ludopatico."
 face s 0 2
 s
 line "Vogliamo raddoppiare la posta per la prossima persona che incrociamo?"

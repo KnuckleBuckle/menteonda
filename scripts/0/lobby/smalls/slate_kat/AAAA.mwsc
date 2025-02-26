@@ -7,7 +7,7 @@ line "Mio papa' aveva una copia che avevo visto qualche volta,|p| ma non credo d
 face s 0 1
 s
 line "Uh,|p| avrei dovuto parlargliene."
-line "Scommetto che Ethan ti avrebbe fatto un meritato riassunto."
+line "Scommetto che Ethan ti avrebbe fatto un buon riassunto."
 p
 line "Penso di star bene cosi'."
 face s 2 0
@@ -15,13 +15,13 @@ s
 line "Onesto."
 face s 0 2
 s
-line "Forse e' meglio partire ignari di tutto."
+line "Forse e' meglio partire senza sapere niente."
 face p 1 2
 p
 line "Non ci guarderemo Fortress of Sorrow."
 face s 0 1
 s
-line "Eddai,|p| almeno dalle una chance."
+line "Eddai,|p| almeno dacci una chance."
 face p 4 0
 p
 line "..."
@@ -33,7 +33,7 @@ s
 line "Non puoi basare la tua opinione su un singolo episodio."
 face p 1 0
 p
-line "Va bene,|p| due episodi,|p| ma se faranno schifo entrambi non mi lascero' mai piu' convincere a guardare schifezze per falliti da te."
+line "Va bene,|p| due,|p| ma se fanno schifo entrambi non mi lascero' mai piu' convincere a guardare schifezze per falliti da te."
 
 
 setflag _0.smalls.slate_kat 2

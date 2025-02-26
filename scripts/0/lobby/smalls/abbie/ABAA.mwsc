@@ -10,15 +10,15 @@ p
 line "Uh,|p| tutto bene Smalls?"
 s
 line "Si',|p| stavo pensando a una cosa."
-line "Se vincessi,|p| potrei usare i miei soldi per fondare un'impresa di peluche o qualcosa del genere."
+line "Se vincessi,|p| potrei usare i miei soldi per fondare un'azienda di peluche o qualcosa del genere."
 face p 0 2
 p
-line "Un'impresa di peluche."
+line "Un'azienda di peluche."
 face s 0 1
 s
 line "Si'.|p| Potremmo fare articoli su misura."
-line "Potrei assumere Abbie.|p|\nPotrebbe farli tutti."
-line "Sembra stare a suo agio con la gente."
+line "Potrei assumere Abbie.|p|\nPotrebbe farli tutti lei."
+line "Sembra brava con le persone."
 p
 line "E tu cosa farai?"
 face s 0 0
@@ -27,10 +27,10 @@ line "Robe da direttore."
 face p 1 2
 p
 line "Questa e'|p| un'idea orribile."
-line "Farai tipo,|p| zero affari."
+line "Ci sara' tipo,|p| zero mercato per una roba simile."
 face s 0 1
 s
-line "Mi procurero' un cartello."
+line "Comprero' un cartellone."
 p
 line "Anche se fosse,|p| sommergeresti di lavoro Abbie."
 face p 4 0
@@ -43,7 +43,7 @@ s
 line "L'idea era quella."
 face s 0 1
 s
-line "Tu starai fuori a roteare il cartello."
+line "Tu starai fuori a roteare il cartellone."
 
 
 

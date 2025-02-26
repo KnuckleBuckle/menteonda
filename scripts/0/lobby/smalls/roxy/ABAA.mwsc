@@ -13,7 +13,7 @@ p
 line "Come persona,|p| sembrava abbastanza ok..."
 face p 0 2
 p
-line "Anche se sono un po' diffidente verso una cosi' patita di MINDWAVE come lei."
+line "Anche se sono un po' diffidente verso una cosi' in fissa con MINDWAVE come lei."
 face s 0 1
 s
 line "Nah, dai, anche MINDWAVE e' figo."
@@ -36,7 +36,7 @@ line "Forse?|p| Non saprei dirtelo..."
 line "Ci sono troppe persone con piu' esperienza di me."
 face s 2 0
 s
-line "In base alla struttura dei gironi,|p| potrai avanzare speditamente nel torneo senza dover fronteggiarla."
+line "In base alla struttura dei round,|p| potrai avanzare nel torneo senza incontrarla."
 face s 0 1
 s
 line "Se puo' consolarti."

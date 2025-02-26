@@ -13,17 +13,17 @@ s
 line "Gia',|p| ma e' un grosso peso sulla mia coscienza."
 face s 0 1
 s
-line "Il miglior regalo che ho ricevuto era quella figata di walkman vintage di Lineage Music."
+line "Il miglior regalo che ho ricevuto era quella figata di walkman vintage della Lineage Music."
 line "Non grazie a te.|p|\nL'ho comprato coi miei soldi."
 face p 0 2
 p
-line "Bello,|p| sono stata io a darti il buono sconto."
+line "Fra,|p| sono stata io a darti il buono sconto."
 face s 1 0
 s
-line "E quando lo avevi preso?|p| Quando l'ho riscosso ra scaduto da secoli."
+line "E quando lo avevi preso?|p| Quando l'ho riscosso era scaduto da secoli."
 face p 1 0
 p
-line "Oh,|p| mea culpa.|p|\nSono un po' al verde."
+line "Oh,|p| colpa mia.|p|\nSono un po' al verde."
 face s 0 1
 s
 line "Tranquilla.|p| E' il pensiero che conta."

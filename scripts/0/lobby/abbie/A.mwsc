@@ -6,7 +6,7 @@ line "Che si dice,|p| ti senti pronta per il torneo?"
 line "Hai giocato spesso?"
 face a 0 0
 a
-line "Uhm...|p| no!|p| Direi che sono SUPER arruginita."
+line "Uhm...|p| no!|p| Direi che sono SUPER arrugginita."
 face a 1 2
 a
 line "L'ultima volta che ho giocato ho fatto cosi' schifo che sono scoppiata a piangere."

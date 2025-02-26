@@ -13,7 +13,7 @@ p
 line "Si'...|p| Cioe',|p| piu' o meno?"
 face p 0 2
 p
-line "Ancora non mi entusiasma l'idea di affrontarla."
+line "Ancora non mi entusiasma l'idea di giocarci contro."
 face p 4 0
 p
 line "Credo che possa essere una serial killer?"
@@ -25,7 +25,7 @@ p
 line "Ci aveva solo scherzato su,|p| ma con lei e' molto difficile capirlo."
 face p 0 2
 p
-line "Quantomeno se mi scontrero' con lei non saro' totalmente sballata."
+line "Quantomeno se mi scontrero' con lei non saro' totalmente nel pallone."
 face s 1 0
 s
 line "A tal proposito..."

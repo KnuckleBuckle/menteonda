@@ -21,7 +21,7 @@ s
 line "Hai anche ammesso di ricordarti a malapena la serie.|p| Credo che si meriti un rewatch."
 face s 0 1
 s
-line "Potrebbe persino essere meglio di quanto lo faccia sembrare Slate,|p| devi solo darle una chance."
+line "Potrebbe persino essere meglio di quanto lo faccia sembrare Slate,|p| devi solo darci una chance."
 face p 0 0
 p
 line "Boh, non so,|p| e' roba da nerdoni."
@@ -33,7 +33,7 @@ s
 line "Non puoi basare la tua opinione su un singolo episodio."
 face p 1 0
 p
-line "Va bene,|p| due episodi,|p| ma se faranno schifo entrambi non mi lascero' mai piu' convincere a guardare schifezze per falliti da te."
+line "Va bene,|p| due,|p| ma se fanno schifo entrambi non mi lascero' mai piu' convincere a guardare schifezze per falliti da te."
 
 
 setflag _0.smalls.slate_kat 2

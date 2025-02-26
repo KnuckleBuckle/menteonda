@@ -25,13 +25,13 @@ line "Questo e' ancor piu' allarmante."
 face s 0 0
 s
 line "Non intendo questo."
-line "Penso che la forte presenza di Roxy nella scena competitiva possa fungerle da ostacolo."
+line "Penso che la forte presenza di Roxy nella scena competitiva la possa ostacolare."
 face s 1 0
 s
-line "Lei e' abituata a giocare a MINDWAVE solo con persone dedite al gioco a loro volta."
+line "Lei e' abituata a giocare a MINDWAVE solo con persone in fissa con il gioco a loro volta."
 face s 2 0
 s
-line "La tua esperienza con MINDWAVE potrebbe essere un mondo totalmente diverso da quello a cui lei e' avvezza."
+line "La tua esperienza con MINDWAVE potrebbe essere un mondo totalmente diverso da quello a cui lei e' abituata."
 face s 0 2
 s
 line "Forse sei tu la professionista sconosciuta."

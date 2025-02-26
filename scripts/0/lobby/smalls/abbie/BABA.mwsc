@@ -22,7 +22,7 @@ s
 line "Aw, Panda...|p| E' perche' ne hai gia' uno?"
 face p 0 2
 p
-line "Non usare quel nomignolo, bello."
+line "Non usare quel nomignolo, fra."
 face s 0 0
 s
 line "Niente da fare Panda,|p| è un nomignolo troppo bello."

@@ -26,7 +26,7 @@ s
 line "Cosa?"
 face p 1 0
 p
-line "Gia',|p| i supermercati non ti lasciano rubare qualcosina perche' tanto non e' nulla di grave?"
+line "Gia',|p| i supermercati ti lasciano rubare qualcosina perche' tanto non e' nulla di grave, no?"
 line "Credo che una volta mi avevi detto una cosa del genere."
 face s 1 0
 s
@@ -42,7 +42,7 @@ s
 line "Tranquilla."
 face s 2 0
 s
-line "Il fatto e' che,|p| se io dovessi fare un'altra cosa che non aggrada a Mindscape,|p| probabilmente tenteranno di catturarmi."
+line "Il fatto e' che,|p| se io dovessi fare un'altra cosa che non piace a Mindscape,|p| probabilmente tenteranno di catturarmi."
 face p 1 0
 p
 line "Ho capito,|p| mi dispiace,|p| ma suppongo che dovremmo suonare senza di te. "
