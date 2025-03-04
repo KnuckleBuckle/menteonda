@@ -4,7 +4,7 @@
 	"system":{
 		"photosensitivity_warning":[
 			"AVVERTENZA PER FOTOSENSIBILI",
-			"MINDWAVE contiene effetti visivi come luci lampeggianti che possono causare attacchi epilettici.\nUna modica percentuale della popolazione puo' sperimentare attacchi epilettici se esposta a effetti visivi intensi come replicazioni di pattern o luci lampeggianti.\nSi consiglia di proseguire con giudizio."
+			"MINDWAVE contiene effetti visivi come luci lampeggianti che possono causare attacchi epilettici.\nUna modica percentuale della popolazione puo' sperimentare attacchi epilettici se esposta a effetti visivi intensi come replicazioni di pattern o luci lampeggianti.\nProseguire con cautela."
 		],
 		"controls_disclaimer":"MINDWAVE fa uso della Tastiera QWERTY e del Mouse.\nNon si raccomandano i trackpad; i controller non sono supportati.",
 		"cutscene":{
