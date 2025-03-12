@@ -1,0 +1,32 @@
+MINIGIOCO SKRUNKLY GARDEN (ms1_spr_bg)
+
+- Plum (non tradurre, nomi dei cosetti)
+
+- Plant Type = Tipo Pianta 
+
+- Items = Oggetti
+
+- Drag me :) = Vanno là :)
+
+MINIGIOCO STRUM (mf3_spr_hold)
+
+- HOLD = TIENI 
+
+
+ALTRI TESTI IMMAGINI
+
+
+(lb0_spr_groundfloor)
+- FLOOR ONE = PIANO UNO 
+
+(ibtSw3_spr_bg)
+- Love you! = Ciao amore!
+- Hi! = Ehilà/Ciao!
+
+(ibtT_spr_bgthing2)
+- Increasing speed = Aumento velocità
+- Increasing difficulty = Aumento difficoltà
+
+(vari)
+- SPEED UP = TURBO + (RIVEDERE)
+- LEVEL UP = SFIDA + (RIVEDERE)
