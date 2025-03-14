@@ -16,7 +16,7 @@ p
 line "Grazie?"
 face p 0 0
 p
-line "Lo sai che avuto fortuna con noi,|p| vero?"
+line "Lo sai che hai avuto fortuna con noi,|p| vero?"
 face d 0 1
 d
 line "Che intendi?"

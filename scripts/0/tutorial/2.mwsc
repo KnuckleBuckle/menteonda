@@ -10,7 +10,7 @@ marker 0fails
 Ben fatto!|p|\nQuesto microgioco era un pochino ostico.|p| Che ne dici di uno piu' semplice?
 show_controls
 Testeremo i tuoi riflessi con l'Interfaccia Barra Spaziatrice!
-Attendi il momento giusto...|p| dopodiche' devi premere nello SPAZIO di un secondo!|p|\nSpazio, e Barra Spaziatrice!|p| Hai capito?
+Attendi il momento giusto...|p| dopodiche' devi premere nello SPAZIO di un secondo!|p|\nSpazio, e Barra Spaziatrice!|p|\nHai capito?
 goto marker end
 
 marker 1fails
