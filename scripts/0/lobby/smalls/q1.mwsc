@@ -2,7 +2,7 @@ p
 line "Eh,|p| Torre Mindscape...|p| Eccoci qua."
 face s 1 0
 s
-line "Gia'.|p| Il dentro e' proprio strano."
+line "Gia'.|p| Qua dentro e' proprio strano."
 p
 line "Chissa' quanta gente c'e' davvero entrata."
 face s 0 1
