@@ -10,7 +10,7 @@ s
 line "Come ti stai trovando?"
 face a 1 2
 a
-line "Beh,|p| è da quando ero piccola che non vivevo in una citta' come questa."
+line "Beh,|p| e' da quando ero piccola che non vivevo in una citta' come questa."
 face a 0 0
 a
 line "All'epoca avevo a malapena un cervello funzionante.|p| Al contrario di adesso."
@@ -19,7 +19,7 @@ p
 line "Giusto."
 face s 0 1
 s
-line "Buona fortuna ad abituarti a questo posto, Abbie.|p| Ho saputo che non è facile."
+line "Buona fortuna ad abituarti a questo posto, Abbie.|p| Ho saputo che non e' facile."
 face a 3 1
 a
 line "Buona fortuna?|p| Io lo amo gia'!"
@@ -48,7 +48,7 @@ line "Ad ogni modo Panda,|p| non mi hai fatto arrivare alla morale!"
 face s 0 0
 face a 1 0
 a
-line "Al Centro Commerciale Nord c'e' quest'enorme bottega che è più grande di quella dalle mie parti."
+line "Al Centro Commerciale Nord c'e' quest'enorme bottega che e' più grande di quella dalle mie parti."
 face a 3 1
 a
 line "Ho trovato del filato glitterato.|p| Nemmeno sapevo che esistesse!"

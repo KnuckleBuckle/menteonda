@@ -27,9 +27,9 @@ line "E' normale!|p| Anch'io ho difficolta' ad abituarmi al gioco."
 face a 1 0
 a
 line "Io a stento riesco a giocarci."
-line "L'unico cabinato a cui i miei genitori possono portarmi è uno al Centro Commerciale Nord."
+line "L'unico cabinato a cui i miei genitori possono portarmi e' uno al Centro Commerciale Nord."
 s
-line "Ho sentito che è sempre super affollato."
+line "Ho sentito che e' sempre super affollato."
 p
 line "Ogni macchinario Mindwave lo e',|p| Smalls."
 face s 2 0
@@ -40,10 +40,10 @@ s
 line "Un sacco di aspiranti possessori di biglietti che vogliono fare pratica."
 face a 1 2
 a
-line "Uh...|p| Non mi è mai venuto in mente che avrei potuto allenarmi!"
+line "Uh...|p| Non mi e' mai venuto in mente che avrei potuto allenarmi!"
 face p 0 0
 p
-line "Vorrei dire che è stata una mossa stupida,|p| ma penso che sei ferrata più o meno quanto me."
+line "Vorrei dire che e' stata una mossa stupida,|p| ma penso che sei ferrata più o meno quanto me."
 face a 0 0
 a
 line "Allora buona fortuna ad entrambe!"
